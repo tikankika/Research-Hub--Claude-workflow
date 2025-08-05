@@ -4,6 +4,28 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+### 2025-08-05
+- **Major Repository Reorganization:**
+  - Migrated scripts from Research Hub vault to dedicated GitHub repository
+  - Created `Research-Hub--Claude-workflow` repository separate from Obsidian vault
+  - Archived old `Book-project-Sandbox` repository
+  - Created central `config.py` for path configuration management
+  - Updated all Python scripts to use config instead of hardcoded paths
+  - Fixed export paths throughout to use `system1_tagging/export/` structure
+  - Removed `claude_workspace` folder references from all scripts
+- **Documentation Improvements:**
+  - Consolidated multiple README files into single comprehensive README.md
+  - Removed redundant files: README-claude-workspace.md, SYSTEM_ORGANIZATION.md
+  - Updated README with current statistics and clear usage instructions
+- **Bug Fixes:**
+  - Fixed syntax errors in obsidian_tag_manager.py (lines 884 and 1505)
+  - Fixed deep_analysis_workflow.py archiving issue where reports were moved instead of kept in current
+  - Fixed path issues after folder reorganization
+- **Testing:**
+  - Successfully ran deep analysis workflow with new configuration
+  - Verified 1,501 articles found with 704 unique tags
+  - Confirmed all export paths working correctly
+
 ### 2025-08-03
 - **Tag Management System Deep Research Implementation:**
   - Enhanced bridge tag detection with 8 research domain patterns
