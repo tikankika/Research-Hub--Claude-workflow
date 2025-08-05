@@ -780,14 +780,11 @@ def main():
     if args.phase == 'all':
         workflow.run_full_workflow()
     elif args.phase == '1a':
-        workflow.archive_old_reports()
         workflow.phase_1a_tag_system_analysis()
     elif args.phase == '1b':
-        workflow.archive_old_reports()
         workflow.phase_1b_article_quality_analysis()
     elif args.phase == '1c':
         # Need to run 1b first to get quality data
-        workflow.archive_old_reports()
         quality_data = workflow.phase_1b_article_quality_analysis()
         workflow.phase_1c_extract_retagging_candidates(quality_data)
 

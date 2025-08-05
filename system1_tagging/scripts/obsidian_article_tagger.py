@@ -66,7 +66,7 @@ class ObsidianArticleTagger:
         }
         
         # Batch processing progress tracking
-        self.batch_progress_file = self.vault_path / "claude_workspace" / "export" / "batch_progress.json"
+        self.batch_progress_file = self.vault_path / Path(__file__).parent.parent / "export" / "batch_progress.json"
         self.batch_progress = self._load_batch_progress()
         
     def find_articles_without_tags(self, limit: int = None, main_dir_only: bool = True, require_abstract: bool = True) -> List[Path]:
@@ -352,7 +352,7 @@ class ObsidianArticleTagger:
     
     def load_existing_tags(self) -> Dict[str, int]:
         """Load existing tags from the latest tag data export"""
-        export_dir = self.vault_path / "claude_workspace" / "system1_tagging" / "export"
+        export_dir = self.vault_path / Path(__file__).parent.parent / "export"
         if not export_dir.exists():
             return {}
         
@@ -441,7 +441,7 @@ class ObsidianArticleTagger:
     def _save_tag_suggestion(self, metadata: Dict, suggested_tags: List[str], prompt: str):
         """Save tag suggestion to export folder for later review/application"""
         # Create suggestions directory
-        suggestions_dir = self.vault_path / "claude_workspace" / "export" / "tag_suggestions"
+        suggestions_dir = self.vault_path / Path(__file__).parent.parent / "export" / "tag_suggestions"
         suggestions_dir.mkdir(parents=True, exist_ok=True)
         
         # Create timestamp-based filename
@@ -736,7 +736,7 @@ Return ONLY a Python list of 5-8 tag strings. Example:
         
         # Save report
         timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-        report_path = self.vault_path / "claude_workspace" / "export" / f"deep_analysis_report_{timestamp}.txt"
+        report_path = self.vault_path / Path(__file__).parent.parent / "export" / f"deep_analysis_report_{timestamp}.txt"
         report_path.parent.mkdir(parents=True, exist_ok=True)
         
         with open(report_path, 'w', encoding='utf-8') as f:
@@ -787,7 +787,7 @@ Return ONLY a Python list of 5-8 tag strings. Example:
     
     def apply_saved_suggestions(self, suggestions_file: str = None):
         """Apply saved tag suggestions from JSON files"""
-        suggestions_dir = self.vault_path / "claude_workspace" / "system1_tagging" / "export" / "tag_suggestions"
+        suggestions_dir = self.vault_path / Path(__file__).parent.parent / "export" / "tag_suggestions"
         manual_suggestions_file = self.vault_path / "claude_workspace" / "system1_tagging" / "manual_tag_suggestions.json"
         
         if suggestions_file:
@@ -843,7 +843,7 @@ Return ONLY a Python list of 5-8 tag strings. Example:
     
     def _archive_suggestion(self, suggestion: Dict):
         """Move processed suggestion to archive"""
-        suggestions_dir = self.vault_path / "claude_workspace" / "export" / "tag_suggestions"
+        suggestions_dir = self.vault_path / Path(__file__).parent.parent / "export" / "tag_suggestions"
         archive_dir = suggestions_dir / "applied"
         archive_dir.mkdir(exist_ok=True)
         
@@ -975,7 +975,7 @@ Return ONLY a Python list of 5-8 tag strings. Example:
                     }
                     
                     # Save to individual file
-                    suggestions_dir = self.vault_path / "claude_workspace" / "export" / "tag_suggestions"
+                    suggestions_dir = self.vault_path / Path(__file__).parent.parent / "export" / "tag_suggestions"
                     suggestions_dir.mkdir(parents=True, exist_ok=True)
                     
                     safe_title = re.sub(r'[^\w\s-]', '', metadata['title'])[:50]
@@ -1010,7 +1010,7 @@ Return ONLY a Python list of 5-8 tag strings. Example:
         print(f"{'='*60}")
         print(f"Processed in this session: {len(articles_to_process)} articles")
         print(f"Total processed overall: {self.batch_progress['total_processed']} articles")
-        print(f"Suggestions saved to: claude_workspace/system1_tagging/export/tag_suggestions/")
+        print(f"Suggestions saved to: system1_tagging/export/tag_suggestions/")
         print(f"\n💡 Next steps:")
         print(f"   1. Use --review to interactively review suggestions")
         print(f"   2. Use --apply-suggestions to apply all at once")
@@ -1018,7 +1018,7 @@ Return ONLY a Python list of 5-8 tag strings. Example:
     
     def review_suggestions(self):
         """Interactive review of saved suggestions"""
-        suggestions_dir = self.vault_path / "claude_workspace" / "export" / "tag_suggestions"
+        suggestions_dir = self.vault_path / Path(__file__).parent.parent / "export" / "tag_suggestions"
         pending_files = list(suggestions_dir.glob("suggestion_*.json"))
         
         if not pending_files:

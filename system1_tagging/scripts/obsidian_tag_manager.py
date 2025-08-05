@@ -881,7 +881,7 @@ class ObsidianTagManager:
             print(f"Warning: Could not complete advanced analysis for JSON: {e}")
         
         # Save JSON file
-        json_path = self.vault_path / 'claude_workspace' / 'export' / f'tag_data_{datetime.now().strftime("%Y%m%d_%H%M%S")}.json'
+        json_path = Path(__file__).parent.parent / "export" / f'tag_data_{datetime.now().strftime("%Y%m%d_%H%M%S")}.json'
         json_path.parent.mkdir(parents=True, exist_ok=True)
         
         with open(json_path, 'w', encoding='utf-8') as f:
@@ -1502,7 +1502,7 @@ class ObsidianTagManager:
         file_extension = '.txt' if format == 'txt' else '.md'
         
         if not output_path:
-            export_dir = self.vault_path / 'claude_workspace' / 'system1_tagging' / 'export'
+            export_dir = Path(__file__).parent.parent / "export"
             
             # Archive old reports before creating new one
             self._archive_old_reports(export_dir)

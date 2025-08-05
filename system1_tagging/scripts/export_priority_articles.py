@@ -254,7 +254,7 @@ def main():
         categories = export_priority_lists(analyzer, args.no_tags_limit, args.few_tags_limit)
         
         # Create output directory
-        output_dir = Path(args.vault_path) / "claude_workspace" / "export"
+        output_dir = Path(args.vault_path) / Path(__file__).parent.parent / "export"
         output_dir.mkdir(parents=True, exist_ok=True)
         
         print("📤 Creating batch processing files...")

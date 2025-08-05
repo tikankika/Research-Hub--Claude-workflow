@@ -259,7 +259,7 @@ class TagStandardizer:
         analysis = self.scan_and_analyze_tags()
         
         if not output_path:
-            output_path = self.vault_path / 'claude_workspace' / 'export' / f'tag_standardization_report_{datetime.now().strftime("%Y%m%d_%H%M%S")}.txt'
+            output_path = self.Path(__file__).parent.parent / "export"' / f'tag_standardization_report_{datetime.now().strftime("%Y%m%d_%H%M%S")}.txt'
         
         output_path = Path(output_path)
         output_path.parent.mkdir(parents=True, exist_ok=True)

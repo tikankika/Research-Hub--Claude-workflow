@@ -21,7 +21,7 @@ class ComprehensiveTagReporter:
     def __init__(self, vault_path: str, focus_folder: str = None):
         self.vault_path = Path(vault_path)
         self.focus_folder = focus_folder
-        self.export_path = self.vault_path / "claude_workspace" / "system1_tagging" / "export" / "current"
+        self.export_path = self.vault_path / Path(__file__).parent.parent / "export" / "current"
         self.export_path.mkdir(parents=True, exist_ok=True)
         
     def scan_vault_tags(self) -> Dict[str, List[str]]:

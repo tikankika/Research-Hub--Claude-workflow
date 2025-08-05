@@ -1,5 +1,5 @@
 # Tag System Analysis Report
-Generated: 2025-08-05 18:20:45
+Generated: 2025-08-05 18:00:45
 
 ## Vault-Wide Tag Statistics
 - Total Unique Tags: 704
@@ -37,8 +37,8 @@ Generated: 2025-08-05 18:20:45
 - #k-12: 49 uses
 
 ## Bridge Tags (Connecting Domains)
-- #higher_education: connects ai, education, technology, social, cognitive, professional, assessment, research
-- #teacher_education: connects ai, education, technology, social, cognitive, professional, assessment, research
-- #aied: connects ai, education, technology, social, cognitive, professional, assessment, research
-- #online_learning: connects ai, education, technology, social, cognitive, professional, assessment, research
-- #educational_technology: connects ai, education, technology, social, cognitive, professional, assessment, research
+- #higher_education: connects professional, assessment, cognitive, technology, social, ai, education, research
+- #teacher_education: connects professional, assessment, cognitive, technology, social, ai, education, research
+- #aied: connects professional, assessment, cognitive, technology, social, ai, education, research
+- #online_learning: connects professional, assessment, research, cognitive, technology, ai, education, social
+- #educational_technology: connects professional, assessment, cognitive, technology, social, ai, education, research

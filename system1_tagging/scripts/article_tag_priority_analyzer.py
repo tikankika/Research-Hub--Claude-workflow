@@ -426,7 +426,7 @@ def main():
         report = analyzer.generate_report(limit=args.limit)
         
         # Save report to file
-        output_dir = Path(args.vault_path) / "claude_workspace" / "export"
+        output_dir = Path(args.vault_path) / Path(__file__).parent.parent / "export"
         output_dir.mkdir(parents=True, exist_ok=True)
         
         report_file = output_dir / f"article_tag_priority_report_{datetime.now().strftime('%Y%m%d_%H%M%S')}.md"

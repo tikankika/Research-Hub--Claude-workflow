@@ -635,7 +635,7 @@ class PaperpileSync:
             'bibtex_entries': len(self.bibtex_entries)
         }
         
-        report_path = self.vault_path / "claude_workspace" / "export" / f"sync_report_{datetime.now():%Y%m%d_%H%M%S}.json"
+        report_path = self.vault_path / Path(__file__).parent.parent / "export" / f"sync_report_{datetime.now():%Y%m%d_%H%M%S}.json"
         report_path.parent.mkdir(parents=True, exist_ok=True)
         
         with open(report_path, 'w', encoding='utf-8') as f:

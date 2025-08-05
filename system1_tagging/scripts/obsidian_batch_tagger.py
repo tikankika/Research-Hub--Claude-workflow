@@ -156,7 +156,7 @@ class ObsidianBatchTagger:
         timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
         
         if not output_path:
-            export_dir = self.vault_path / 'claude_workspace' / 'system1_tagging' / 'export'
+            export_dir = self.Path(__file__).parent.parent / "export"'
             export_dir.mkdir(parents=True, exist_ok=True)
             output_path = export_dir / f'untagged_articles_{timestamp}.json'
         
