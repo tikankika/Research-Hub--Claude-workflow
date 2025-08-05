@@ -1,20 +1,20 @@
 # Tag System Analysis Report
-Generated: 2025-08-05 06:51:57
+Generated: 2025-08-05 18:00:45
 
 ## Vault-Wide Tag Statistics
-- Total Unique Tags: 626
-- Total Tag Uses: 2379
-- Avg Tags Per Article: 1.58
+- Total Unique Tags: 704
+- Total Tag Uses: 2593
+- Avg Tags Per Article: 1.73
 
 ## Tag Quality Metrics
-- Well Formed Tags: 613
+- Well Formed Tags: 691
 - Malformed Tags: 13
-- Generic Overuse: 4
+- Generic Overuse: 3
 - Author Only Articles: 0
 
 ## Tag Distribution Analysis
-- Single Use: 317
-- Common Tags: 18
+- Single Use: 278
+- Common Tags: 19
 - Bridge Tags: 15
 - Emerging Tags: 0
 - Declining Tags: 0
@@ -25,20 +25,20 @@ Generated: 2025-08-05 06:51:57
 3. Missing core categories in 67% of articles
 
 ## Most Common Tags
-- #professional_development: 118 uses
-- #chatgpt: 115 uses
-- #social_media: 103 uses
+- #chatgpt: 111 uses
+- #professional_development: 110 uses
+- #social_media: 100 uses
 - #higher_education: 89 uses
-- #aied: 73 uses
-- #ethnography: 72 uses
-- #sade: 66 uses
-- #teacher_education: 59 uses
-- #k-12: 52 uses
+- #ethnography: 67 uses
+- #aied: 63 uses
+- #sade: 62 uses
+- #teacher_education: 55 uses
 - #collaborative_learning: 51 uses
+- #k-12: 49 uses
 
 ## Bridge Tags (Connecting Domains)
-- #higher_education: connects ai, technology, education, social, professional, assessment, cognitive, research
-- #professional_development: connects ai, technology, education, social, professional, assessment, cognitive, research
-- #teacher_education: connects ai, technology, education, social, professional, assessment, cognitive, research
-- #aied: connects ai, technology, education, social, professional, assessment, cognitive, research
-- #artificial_intelligence: connects ai, technology, education, social, professional, assessment, cognitive, research
+- #higher_education: connects professional, assessment, cognitive, technology, social, ai, education, research
+- #teacher_education: connects professional, assessment, cognitive, technology, social, ai, education, research
+- #aied: connects professional, assessment, cognitive, technology, social, ai, education, research
+- #online_learning: connects professional, assessment, research, cognitive, technology, ai, education, social
+- #educational_technology: connects professional, assessment, cognitive, technology, social, ai, education, research

@@ -21,17 +21,22 @@ from datetime import datetime
 from typing import Dict, List, Tuple, Set
 from collections import defaultdict, Counter
 
-# Add parent directory to path for imports
-sys.path.append(str(Path(__file__).parent))
+# Add parent directories to path for imports
+sys.path.append(str(Path(__file__).parent.parent.parent))
+from config import VAULT_PATH
 
+sys.path.append(str(Path(__file__).parent))
 from obsidian_tag_manager import ObsidianTagManager
 from obsidian_article_tagger import ObsidianArticleTagger
 
 class DeepAnalysisWorkflow:
     def __init__(self, vault_path: str):
         self.vault_path = Path(vault_path)
-        self.articles_path = self.vault_path / "4 Articles"
-        self.export_path = self.vault_path / "claude_workspace" / "system1_tagging" / "export"
+        # Articles are in the Research Library subfolder
+        self.articles_path = self.vault_path / "2. Research Library (References & Literature)" / "4 Articles"
+        # Export path is relative to the script location
+        script_dir = Path(__file__).parent.parent
+        self.export_path = script_dir / "export"
         self.current_path = self.export_path / "current"
         self.archive_path = self.export_path / "archive"
         
@@ -761,8 +766,8 @@ class DeepAnalysisWorkflow:
 
 def main():
     parser = argparse.ArgumentParser(description='Deep Analysis Workflow for Obsidian Tag Management')
-    parser.add_argument('--vault-path', type=str, default='.',
-                       help='Path to Obsidian vault (default: current directory)')
+    parser.add_argument('--vault-path', type=str, default=str(VAULT_PATH),
+                       help=f'Path to Obsidian vault (default: {VAULT_PATH})')
     parser.add_argument('--phase', choices=['1a', '1b', '1c', 'all'], default='all',
                        help='Run specific phase or all phases (default: all)')
     
