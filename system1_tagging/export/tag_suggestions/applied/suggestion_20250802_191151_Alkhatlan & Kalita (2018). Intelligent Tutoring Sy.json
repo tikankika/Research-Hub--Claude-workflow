@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-08-02T19:11:51.017438",
+  "file_path": "4 Articles/Alkhatlan & Kalita (2018). Intelligent Tutoring Systems- A comprehensive historical\nsurvey with recent developments.md",
+  "filename": "Alkhatlan & Kalita (2018). Intelligent Tutoring Systems- A comprehensive historical\nsurvey with recent developments.md",
+  "title": "Intelligent Tutoring Systems: A comprehensive historical",
+  "existing_tags": [],
+  "suggested_tags": [
+    "intelligent_tutoring_systems",
+    "its",
+    "artificial_intelligence",
+    "educational_technology",
+    "personalized_learning",
+    "adaptive_learning",
+    "literature_review",
+    "computer_assisted_instruction",
+    "ai_in_education"
+  ],
+  "metadata": {
+    "abstract": "This paper provides interested beginners with an updated and detailed introduction to the field of Intelligent Tutoring Systems (ITS). ITSs are computer programs that use artificial intelligence techniques to enhance and personalize automation in teaching. This paper is a literature review that provides the following: First, a review of the history of ITS along with a discussion on the interface between human learning and computer tutors and how effective ITSs are in contemporary education. Seco",
+    "authors": "",
+    "year": "",
+    "journal": ""
+  },
+  "analysis_prompt": "Perform a DEEP ANALYSIS of this academic article and suggest 5-8 highly specific, contextually appropriate tags.\n\nARTICLE METADATA:\nTitle: Intelligent Tutoring Systems: A comprehensive historical\nAuthors: \nYear: \nJournal/Conference: \nFile Path: 4 Articles/Alkhatlan & Kalita (2018). Intelligent Tutoring Systems- A comprehensive historical\nsurvey with recent developments.md\n\nABSTRACT:\nThis paper provides interested beginners with an updated and detailed introduction to the field of Intelligent Tutoring Systems (ITS). ITSs are computer programs that use artificial intelligence techniques to enhance and personalize automation in teaching. This paper is a literature review that provides the following: First, a review of the history of ITS along with a discussion on the interface between human learning and computer tutors and how effective ITSs are in contemporary education. Second, the traditional architectural components of an ITS and their functions are discussed along with approaches tak"
+}

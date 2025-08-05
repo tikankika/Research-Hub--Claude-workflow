@@ -1,0 +1,62 @@
+{
+  "summary": {
+    "bibtex_entries": 1494,
+    "vault_files": 716,
+    "matched_files": 695,
+    "unmatched_files": 21,
+    "match_rate": "97.1%"
+  },
+  "pdf_links": {
+    "working": 0,
+    "broken": 0,
+    "missing": 0,
+    "examples": []
+  },
+  "content_patterns": {
+    "sample_size": 5,
+    "has_bibtex_key": 5,
+    "has_user_notes": 0,
+    "has_paperpile_marker": 5,
+    "common_sections": [
+      "Metadata",
+      "Abstract",
+      "Reference Information",
+      "Additional Information",
+      "Tags"
+    ]
+  },
+  "migration_readiness": {
+    "score": 75,
+    "factors": {
+      "match_rate": {
+        "value": "97.1%",
+        "status": "✅"
+      },
+      "bibtex_keys": {
+        "value": "100.0% have keys",
+        "status": "✅"
+      },
+      "user_content": {
+        "value": "0.0% have user notes",
+        "status": "✅ Important to preserve"
+      }
+    },
+    "overall": "✅ Ready for migration"
+  },
+  "unmatched_files": [
+    "Sonkar, Liu, Mallick & Baraniuk (2023). CLASS - A Design Framework for Building Intelligent Tutoring Systems Based on Learning Science principles.md",
+    "Greenhow, Robelia & Hughes (2009). -textitResponse to Comments- Research on Learning and Teaching\nWith Web 2.0- Bridging Conversations.md",
+    "Virvou & Tsihrintzis (2023). Is ChatGPT Beneficial to Education - A Holistic Evaluation Framework Based on Intelligent Tutoring Systems.md",
+    "Baker, R. S. (2016). Stupid Tutoring Systems, Intelligent Humans.md",
+    "Kumar & Schwertner (2008). Building Personal Collections and Networks of Digital Objects in a\nFedora Repository Using VUE.md",
+    "Chai, C. S., Koh, J. H. L., & Teo, Y. H. (2019). Enhancing and Modeling Teachers' Design Beliefs and Efficacy of Technological Pedagogical Content Knowledge for 21st Century Quality Learning.md",
+    "Millán Valldeperas (2000). Bayesian system for student modeling.md",
+    "Ji & Yuan (2022). Conversational Intelligent Tutoring Systems for Online Learning - What do Students and Tutors Say.md",
+    "Chi, M. T. H., & Ohlsson, S. (2005). Complex Declarative Learning..md",
+    "Angeli, C., & Valanides, N. (2009). Epistemological and methodological issues for the conceptualization, development, and assessment of ICT–TPCK Advances in technological pedagogical content knowledge (TPCK).md"
+  ],
+  "recommendations": [
+    "Create a full backup before migration",
+    "Test migration with 5-10 files first"
+  ]
+}

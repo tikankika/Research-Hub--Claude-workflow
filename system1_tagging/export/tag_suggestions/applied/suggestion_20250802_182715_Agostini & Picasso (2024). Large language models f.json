@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-08-02T18:27:15.618181",
+  "file_path": "4 Articles/Agostini & Picasso (2024). Large language models for sustainable assessment and feedback in\nhigher education- Towards a Pedagogical and Technological\nFramework.md",
+  "filename": "Agostini & Picasso (2024). Large language models for sustainable assessment and feedback in\nhigher education- Towards a Pedagogical and Technological\nFramework.md",
+  "title": "Large language models for sustainable assessment and feedback in",
+  "existing_tags": [],
+  "suggested_tags": [
+    "large_language_models",
+    "llms",
+    "assessment",
+    "feedback",
+    "higher_education",
+    "sustainable_assessment",
+    "educational_technology",
+    "pedagogical_framework",
+    "formative_assessment"
+  ],
+  "metadata": {
+    "abstract": "Nowadays, there is growing attention on enhancing the quality of teaching, learning and assessment processes. As a recent EU Report underlines, the assessment and feedback area remains a problematic issue regarding educational professionals training and adopting new practices. In fact, traditional summative assessment practices are predominantly used in European countries, against the recommendations of the Bologna Process guidelines that promote the implementation of alternative assessment prac",
+    "authors": "",
+    "year": "",
+    "journal": ""
+  },
+  "analysis_prompt": "Perform a DEEP ANALYSIS of this academic article and suggest 5-8 highly specific, contextually appropriate tags.\n\nARTICLE METADATA:\nTitle: Large language models for sustainable assessment and feedback in\nAuthors: \nYear: \nJournal/Conference: \nFile Path: 4 Articles/Agostini & Picasso (2024). Large language models for sustainable assessment and feedback in\nhigher education- Towards a Pedagogical and Technological\nFramework.md\n\nABSTRACT:\nNowadays, there is growing attention on enhancing the quality of teaching, learning and assessment processes. As a recent EU Report underlines, the assessment and feedback area remains a problematic issue regarding educational professionals training and adopting new practices. In fact, traditional summative assessment practices are predominantly used in European countries, against the recommendations of the Bologna Process guidelines that promote the implementation of alternative assessment practices that seem crucial in order to engage and provide lifelon"
+}

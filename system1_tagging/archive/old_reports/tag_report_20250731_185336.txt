@@ -1,0 +1,52 @@
+OBSIDIAN VAULT TAG ANALYSIS REPORT
+Generated: 2025-07-31 18:53:36
+
+SUMMARY
+- Total unique tags: 629
+- Total tag uses: 2714
+- Average uses per tag: 4.3
+
+TAG DISTRIBUTION
+- Single use tags: 235
+- Rare use (2-5): 332
+- Moderate use (6-20): 43
+- Common use (>20): 19
+
+MOST COMMON TAGS
+- #professional_development: 172 uses
+- #social_media: 135 uses
+- #chatgpt: 108 uses
+- #higher_education: 100 uses
+- #ethnography: 96 uses
+- #teacher_education: 74 uses
+- #sade: 62 uses
+- #k_12: 60 uses
+- #collaborative_learning: 58 uses
+- #twitter: 56 uses
+- #artificial_intelligence: 52 uses
+- #online_learning: 50 uses
+- #case_study: 49 uses
+- #moocs: 48 uses
+- #said: 39 uses
+- #perspective: 29 uses
+- #educational_technology: 23 uses
+- #research_methodology: 21 uses
+- #stem_education: 21 uses
+- #systematic_review: 20 uses
+
+POTENTIAL DUPLICATES
+- 'maskininlärning' <-> 'maskin_inlärning' (similarity: 96.77%)
+- 'liu_l' <-> 'liu_bl' (similarity: 90.91%)
+- 'automatic_assessment' <-> 'automated_assessment' (similarity: 90.00%)
+- 'human_ai_interaction' <-> 'human_machine_interaction' (similarity: 88.89%)
+- 'ai_in_education' <-> 'ai_education' (similarity: 88.89%)
+- 'gardner_m' <-> 'gardner_j' (similarity: 88.89%)
+- 'mollick_e' <-> 'mollick_l' (similarity: 88.89%)
+- 'hammer_r' <-> 'hammer_p' (similarity: 87.50%)
+- 'game_based_learning' <-> 'web_based_learning' (similarity: 86.49%)
+- 'educational_technology' <-> 'educational_psychology' (similarity: 86.36%)
+- 'self_directed_learning' <-> 'ai_directed_learning' (similarity: 85.71%)
+
+STANDARDIZATION SUGGESTIONS
+- Change '#ict' -> '#information_communication_technology' (2 uses)
+- Change '#k_12' -> '#k-12' (60 uses)

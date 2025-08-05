@@ -1,0 +1,4902 @@
+{
+  "metadata": {
+    "generated": "2025-08-04T23:05:05.556753",
+    "vault_path": ".",
+    "focus_folder": null,
+    "total_tags": 621,
+    "total_uses": 1777
+  },
+  "summary": {
+    "avg_uses_per_tag": 2.9,
+    "distribution": {
+      "single_use": 403,
+      "rare_use": 189,
+      "moderate_use": 15,
+      "common_use": 14
+    }
+  },
+  "tag_details": {
+    "tag": {
+      "count": 1,
+      "files": [
+        "CLAUDE.md"
+      ]
+    },
+    "clinical_applications": {
+      "count": 2,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 9.md",
+        "4 Articles/Johansson2019-ot.md"
+      ]
+    },
+    "Johansson_R": {
+      "count": 6,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 9.md",
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 6.md",
+        "4 Articles/Johansson2023-dt.md",
+        "4 Articles/Johansson2024-ig.md",
+        "4 Articles/Johansson2024-bv.md",
+        "4 Articles/Johansson2019-ot.md"
+      ]
+    },
+    "ai_ethics": {
+      "count": 6,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 9.md",
+        "4 Articles/Chan2023-ev.md",
+        "4 Articles/Kajiwara2024-la.md",
+        "4 Articles/Lee2024-ui.md",
+        "4 Articles/Adiguzel2023-zb.md",
+        "4 Articles/Du_Boulay2024-dg.md"
+      ]
+    },
+    "experiential_learning": {
+      "count": 2,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 9.md",
+        "4 Articles/Wang2018-dx.md"
+      ]
+    },
+    "behavioral_adaptation": {
+      "count": 2,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 9.md",
+        "4 Articles/Johansson2024-bv.md"
+      ]
+    },
+    "resource_management": {
+      "count": 4,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 5 Exclude!.md",
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 3 Exclude!.md",
+        "4 Articles/Johansson2024-ig.md",
+        "4 Articles/Wang2023-iz.md"
+      ]
+    },
+    "Hammer_R": {
+      "count": 1,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 5 Exclude!.md"
+      ]
+    },
+    "nars_implementation": {
+      "count": 4,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 5 Exclude!.md",
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 4 Exclude!.md",
+        "4 Articles/Johansson2024-bv.md",
+        "4 Articles/Hammer2022-xl.md"
+      ]
+    },
+    "operant_conditioning": {
+      "count": 2,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 5 Exclude!.md",
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 6.md"
+      ]
+    },
+    "real_time_learning": {
+      "count": 2,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 5 Exclude!.md",
+        "4 Articles/Johansson2024-bv.md"
+      ]
+    },
+    "resource_constraints": {
+      "count": 3,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 5 Exclude!.md",
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 1 Exclude!.md",
+        "4 Articles/Hammer2022-xl.md"
+      ]
+    },
+    "robotics_integration": {
+      "count": 1,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 5 Exclude!.md"
+      ]
+    },
+    "functional_equivalence": {
+      "count": 2,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 6.md",
+        "4 Articles/Johansson2024-ig.md"
+      ]
+    },
+    "complex_learning": {
+      "count": 2,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 6.md",
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 2 Exclude!.md"
+      ]
+    },
+    "variable_introduction": {
+      "count": 2,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 6.md",
+        "4 Articles/Johansson2023-dt.md"
+      ]
+    },
+    "baseline_testing": {
+      "count": 2,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 6.md",
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 4 Exclude!.md"
+      ]
+    },
+    "adaptive_learning_systems": {
+      "count": 3,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 6.md",
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 4 Exclude!.md",
+        "4 Articles/Yannier2024-al.md"
+      ]
+    },
+    "confidence_value": {
+      "count": 1,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 6.md"
+      ]
+    },
+    "experimental_design": {
+      "count": 2,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 6.md",
+        "4 Articles/Jonsson2018-jk.md"
+      ]
+    },
+    "temporal_induction": {
+      "count": 4,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 6.md",
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 4 Exclude!.md",
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 2 Exclude!.md",
+        "4 Articles/Johansson2024-bv.md"
+      ]
+    },
+    "motor_babbling": {
+      "count": 5,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 6.md",
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 4 Exclude!.md",
+        "4 Articles/Johansson2023-dt.md",
+        "4 Articles/Johansson2024-bv.md",
+        "4 Articles/Hammer2022-xl.md"
+      ]
+    },
+    "aikr_principle": {
+      "count": 1,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 3 Exclude!.md"
+      ]
+    },
+    "adaptive_learning": {
+      "count": 4,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 3 Exclude!.md",
+        "4 Articles/Alkhatlan2018-nk.md",
+        "4 Articles/Hammer2022-xl.md",
+        "4 Articles/Pelanek2024-hv.md"
+      ]
+    },
+    "real_time_processing": {
+      "count": 1,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 3 Exclude!.md"
+      ]
+    },
+    "truth_value": {
+      "count": 1,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 3 Exclude!.md"
+      ]
+    },
+    "insufficient_knowledge_resources": {
+      "count": 2,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 3 Exclude!.md",
+        "4 Articles/Wang2023-iz.md"
+      ]
+    },
+    "experience_based_learning": {
+      "count": 1,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 3 Exclude!.md"
+      ]
+    },
+    "temporal_reasoning": {
+      "count": 3,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 3 Exclude!.md",
+        "4 Articles/Johansson2023-dt.md",
+        "4 Articles/Wang2018-dx.md"
+      ]
+    },
+    "belief_revision": {
+      "count": 2,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 3 Exclude!.md",
+        "4 Articles/Wang2018-dx.md"
+      ]
+    },
+    "experience_grounded_semantics": {
+      "count": 3,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 3 Exclude!.md",
+        "4 Articles/Wang2018-dx.md",
+        "4 Articles/Wang2023-iz.md"
+      ]
+    },
+    "conditional_discrimination": {
+      "count": 2,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 4 Exclude!.md",
+        "4 Articles/Johansson2024-bv.md"
+      ]
+    },
+    "positive_reinforcement": {
+      "count": 1,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 4 Exclude!.md"
+      ]
+    },
+    "ontogenetic_adaptation": {
+      "count": 3,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 4 Exclude!.md",
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 1 Exclude!.md",
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 2 Exclude!.md"
+      ]
+    },
+    "discriminative_stimulus": {
+      "count": 2,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 4 Exclude!.md",
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 2 Exclude!.md"
+      ]
+    },
+    "semantic_inference": {
+      "count": 2,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 4 Exclude!.md",
+        "4 Articles/Johansson2024-ig.md"
+      ]
+    },
+    "goal_deduction": {
+      "count": 3,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 4 Exclude!.md",
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 2 Exclude!.md",
+        "4 Articles/Johansson2024-bv.md"
+      ]
+    },
+    "one_shot_learning": {
+      "count": 2,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 4 Exclude!.md",
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 2 Exclude!.md"
+      ]
+    },
+    "sensorimotor_inference": {
+      "count": 2,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 4 Exclude!.md",
+        "4 Articles/Johansson2024-ig.md"
+      ]
+    },
+    "nars_system": {
+      "count": 4,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 1 Exclude!.md",
+        "4 Articles/Johansson2023-dt.md",
+        "4 Articles/Wang2018-dx.md",
+        "4 Articles/Wang2023-iz.md"
+      ]
+    },
+    "machine_psychology_framework_2023": {
+      "count": 1,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 1 Exclude!.md"
+      ]
+    },
+    "non_axiomatic_reasoning": {
+      "count": 2,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 1 Exclude!.md",
+        "4 Articles/Wang2023-iz.md"
+      ]
+    },
+    "quote_perspective": {
+      "count": 1,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 1 Exclude!.md"
+      ]
+    },
+    "adaptive_learning_model": {
+      "count": 1,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 1 Exclude!.md"
+      ]
+    },
+    "learning_principles": {
+      "count": 3,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 1 Exclude!.md",
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 2 Exclude!.md",
+        "4 Articles/Koedinger2012-yo.md"
+      ]
+    },
+    "term_logic_implementation": {
+      "count": 1,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 1 Exclude!.md"
+      ]
+    },
+    "implementation_challenges": {
+      "count": 2,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 1 Exclude!.md",
+        "4 Articles/Pelanek2024-hv.md"
+      ]
+    },
+    "openNARS_application": {
+      "count": 1,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 1 Exclude!.md"
+      ]
+    },
+    "meta_regularities": {
+      "count": 1,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 2 Exclude!.md"
+      ]
+    },
+    "arbitrarily_applicable_relational_responding": {
+      "count": 2,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 2 Exclude!.md",
+        "4 Articles/Johansson2019-ot.md"
+      ]
+    },
+    "behavioral_change": {
+      "count": 1,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 2 Exclude!.md"
+      ]
+    },
+    "functional_approach": {
+      "count": 1,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 2 Exclude!.md"
+      ]
+    },
+    "environmental_regularities": {
+      "count": 1,
+      "files": [
+        "XX Work in progress/Maskinspykologi/Lectures Exclude!/Lecture 2 Exclude!.md"
+      ]
+    },
+    "artificial_intelligence": {
+      "count": 28,
+      "files": [
+        "Claude_workspace - Development/Archive/tagging-process-analysis based on phase 2.md",
+        "4 Articles/Xia2024-xe.md",
+        "4 Articles/Pesovski2024-ua.md",
+        "4 Articles/Haudek2023-vp.md",
+        "4 Articles/Mason2023-dx.md",
+        "4 Articles/Barakova2023-xk.md",
+        "4 Articles/Al-Zyoud2020-vd.md",
+        "4 Articles/Hogan2023-ua.md",
+        "4 Articles/Pinkwart2016-xj.md",
+        "4 Articles/Ning2024-zl.md",
+        "4 Articles/Porayska-Pomsta2024-fv.md",
+        "4 Articles/Tuomi2024-rk.md",
+        "4 Articles/Porayska-Pomsta2022-gl.md",
+        "4 Articles/Jobe2014-tp.md",
+        "4 Articles/Dillenbourg1999-ca.md",
+        "4 Articles/Lee2024-zo.md",
+        "4 Articles/Jia2024-hx.md",
+        "4 Articles/Adiguzel2023-zb.md",
+        "4 Articles/Chen2020-vv.md",
+        "4 Articles/Brusilovsky2024-wh.md",
+        "4 Articles/Alkhatlan2018-nk.md",
+        "4 Articles/Nguyen2024-cc.md",
+        "4 Articles/Swist2024-zm.md",
+        "4 Articles/Cowley2010-kj.md",
+        "4 Articles/McNamara2024-jq.md",
+        "4 Articles/Ateeq2024-zu.md",
+        "4 Articles/Persson2024-nz.md",
+        "4 Articles/Stahl2000-ib.md"
+      ]
+    },
+    "ai": {
+      "count": 1,
+      "files": [
+        "Claude_workspace - Development/Archive/tagging-process-analysis based on phase 2.md"
+      ]
+    },
+    "educational_technology": {
+      "count": 22,
+      "files": [
+        "Claude_workspace - Development/System 1/system1-implementation-details.md",
+        "0 Daily notes/2024-03-28.md",
+        "4 Articles/Hines2008-ms.md",
+        "4 Articles/Scardamalia2004-qv.md",
+        "4 Articles/Ivarsson2010-dx.md",
+        "4 Articles/Waltz2004-ql.md",
+        "4 Articles/Pado2023-dv.md",
+        "4 Articles/Player-Koro2012-ty.md",
+        "4 Articles/Lymer2009-ds.md",
+        "4 Articles/Willermark2023-dl.md",
+        "4 Articles/Al_Shloul2024-ih.md",
+        "4 Articles/Agostini2024-bt.md",
+        "4 Articles/Arnseth2006-tg.md",
+        "4 Articles/Shute2017-zl.md",
+        "4 Articles/Bruder2013-sw.md",
+        "4 Articles/Adiguzel2023-zb.md",
+        "4 Articles/Chen2020-vv.md",
+        "4 Articles/Alkhatlan2018-nk.md",
+        "4 Articles/Pea1985-tt.md",
+        "4 Articles/Fleischer2012-ts.md",
+        "4 Articles/Siemens2009-ac.md",
+        "4 Articles/Wegerif2010-wu.md"
+      ]
+    },
+    "higher_education": {
+      "count": 80,
+      "files": [
+        "Claude_workspace - Development/System 1/system1-implementation-details.md",
+        "4 Articles/Van_Le2024-fg.md",
+        "4 Articles/Novak2006-uc.md",
+        "4 Articles/Garrison1999-gc.md",
+        "4 Articles/Pesovski2024-ua.md",
+        "4 Articles/Karlsson2002-ut.md",
+        "4 Articles/Chan2023-ev.md",
+        "4 Articles/DePaula2001-yu.md",
+        "4 Articles/Mason2023-dx.md",
+        "4 Articles/Ford2014-yy.md",
+        "4 Articles/Teo2014-yg.md",
+        "4 Articles/Player-Koro2011-lu.md",
+        "4 Articles/Avraamidou2014-fo.md",
+        "4 Articles/Barab2000-iw.md",
+        "4 Articles/Hogan2023-ua.md",
+        "4 Articles/Beaven2013-sd.md",
+        "4 Articles/Toven-Lindsey2015-lc.md",
+        "4 Articles/Stald2008-yc.md",
+        "4 Articles/Engestrom2006-vi.md",
+        "4 Articles/Crook2011-zu.md",
+        "4 Articles/Selwyn2009-gn.md",
+        "4 Articles/Gillani2014-cs.md",
+        "4 Articles/Agostini2024-bt.md",
+        "4 Articles/Lindroth2010-zs.md",
+        "4 Articles/Acosta-Enriquez2024-hn.md",
+        "4 Articles/Laverick1978-ya.md",
+        "4 Articles/Dabbagh2012-ja.md",
+        "4 Articles/Buchanan2009-qn.md",
+        "4 Articles/Gerstein2011-fc.md",
+        "4 Articles/Zimmer2010-nf.md",
+        "4 Articles/Cerratto_Pargman2024-im.md",
+        "4 Articles/Wickman2002-qu.md",
+        "4 Articles/Karlsson1999-fd.md",
+        "4 Articles/Amoozadeh2023-me.md",
+        "4 Articles/Khine2010-aj.md",
+        "4 Articles/Breen2006-di.md",
+        "4 Articles/Resta2007-ot.md",
+        "4 Articles/McLoughlin2016-cs.md",
+        "4 Articles/Jobe2014-tp.md",
+        "4 Articles/Attwell2007-wj.md",
+        "4 Articles/Dirckinck-Holmfeld2009-kc.md",
+        "4 Articles/Jimoyiannis2012-wr.md",
+        "4 Articles/Jia2024-hx.md",
+        "4 Articles/Dirckinck-Holmfeld2008-gr.md",
+        "4 Articles/Chan2023-zd.md",
+        "4 Articles/Carpenter2014-gg.md",
+        "4 Articles/Domine2012-dv.md",
+        "4 Articles/John2005-yz.md",
+        "4 Articles/Ronnerman2015-pe.md",
+        "4 Articles/Ostashewski2010-kr.md",
+        "4 Articles/Lee2024-ui.md",
+        "4 Articles/McGreal2013-iy.md",
+        "4 Articles/Bonini2002-rw.md",
+        "4 Articles/Karlsson2005-fd.md",
+        "4 Articles/Salmon2015-jv.md",
+        "4 Articles/Oliver2014-qg.md",
+        "4 Articles/Strayer2012-pr.md",
+        "4 Articles/Henry2012-uu.md",
+        "4 Articles/Conole2010-jd.md",
+        "4 Articles/Ellison2011-vl.md",
+        "4 Articles/Mishra2006-ex.md",
+        "4 Articles/Rodriguez-Hoyos2015-xm.md",
+        "4 Articles/Juliusson2005-mv.md",
+        "4 Articles/Siemens2013-at.md",
+        "4 Articles/Linell2009-kd.md",
+        "4 Articles/Polin2024-iq.md",
+        "4 Articles/Turkle2005-gv.md",
+        "4 Articles/Swist2024-zm.md",
+        "4 Articles/Mackness2010-lr.md",
+        "4 Articles/Engestrom2009-rt.md",
+        "4 Articles/Romanus1997-fa.md",
+        "4 Articles/Chapman2024-zi.md",
+        "4 Articles/Atabek2012-lr.md",
+        "4 Articles/Stahl2000-ib.md",
+        "4 Articles/Jonsson2021-us.md",
+        "4 Articles/Star1989-xy.md",
+        "4 Articles/Asterhan2007-ar.md",
+        "4 Articles/Biddix2008-we.md",
+        "4 Articles/A_Hemmi2009-jb.md",
+        "4 Articles/McKerlich2013-ux.md"
+      ]
+    },
+    "large_language_models": {
+      "count": 2,
+      "files": [
+        "Claude_workspace - Development/System 1/system1-implementation-details.md",
+        "4 Articles/Agostini2024-bt.md"
+      ]
+    },
+    "formative_assessment": {
+      "count": 4,
+      "files": [
+        "Claude_workspace - Development/System 1/system1-implementation-details.md",
+        "4 Articles/Agostini2024-bt.md",
+        "4 Articles/Shute2017-zl.md",
+        "4 Articles/Gardner2021-qa.md"
+      ]
+    },
+    "sustainable_assessment": {
+      "count": 2,
+      "files": [
+        "Claude_workspace - Development/System 1/system1-implementation-details.md",
+        "4 Articles/Agostini2024-bt.md"
+      ]
+    },
+    "pedagogical_framework": {
+      "count": 2,
+      "files": [
+        "Claude_workspace - Development/System 1/system1-implementation-details.md",
+        "4 Articles/Agostini2024-bt.md"
+      ]
+    },
+    "generative_ai": {
+      "count": 5,
+      "files": [
+        "1 CONCEPTS - KEYWORDS/Generative AI.md",
+        "4 Articles/Foung2024-hh.md",
+        "4 Articles/Amoozadeh2023-me.md",
+        "4 Articles/El_Fathi2025-lz.md",
+        "4 Articles/Lee2024-ui.md"
+      ]
+    },
+    "Artificial_Intelligence_in_Education": {
+      "count": 1,
+      "files": [
+        "1 CONCEPTS - KEYWORDS/AIED.md"
+      ]
+    },
+    "Convolutional_Neural_Networks": {
+      "count": 1,
+      "files": [
+        "1 CONCEPTS - KEYWORDS/Neural Networks.md"
+      ]
+    },
+    "neural_network_models": {
+      "count": 1,
+      "files": [
+        "1 CONCEPTS - KEYWORDS/Neural Networks.md"
+      ]
+    },
+    "Neural_Networks": {
+      "count": 1,
+      "files": [
+        "1 CONCEPTS - KEYWORDS/Neural Networks.md"
+      ]
+    },
+    "Recurrent_Neural_Networks": {
+      "count": 1,
+      "files": [
+        "1 CONCEPTS - KEYWORDS/Neural Networks.md"
+      ]
+    },
+    "Bayesian_Neural_Network": {
+      "count": 2,
+      "files": [
+        "1 CONCEPTS - KEYWORDS/Neural Networks.md",
+        "1 CONCEPTS - KEYWORDS/Bayesian Neural Network.md"
+      ]
+    },
+    "Deep_Neural_Networks": {
+      "count": 1,
+      "files": [
+        "1 CONCEPTS - KEYWORDS/Neural Networks.md"
+      ]
+    },
+    "Neural_Network": {
+      "count": 1,
+      "files": [
+        "1 CONCEPTS - KEYWORDS/Neural Networks.md"
+      ]
+    },
+    "Machine_Learning": {
+      "count": 2,
+      "files": [
+        "1 CONCEPTS - KEYWORDS/Machine Learning.md",
+        "4 Articles/Autor2015-lv.md"
+      ]
+    },
+    "Maskininl\u00e4rning": {
+      "count": 1,
+      "files": [
+        "1 CONCEPTS - KEYWORDS/Machine Learning.md"
+      ]
+    },
+    "Quantum_Machine_Learning": {
+      "count": 1,
+      "files": [
+        "1 CONCEPTS - KEYWORDS/Machine Learning.md"
+      ]
+    },
+    "page": {
+      "count": 5,
+      "files": [
+        "1 CONCEPTS - KEYWORDS/Concepts Maskinspykologi/Learning definition.md",
+        "1 CONCEPTS - KEYWORDS/Concepts Maskinspykologi/AARR.md",
+        "1 CONCEPTS - KEYWORDS/Concepts Maskinspykologi/Learning Psychology.md",
+        "4 Articles/OConnor2010-jw.md",
+        "4 Articles/Reynolds2010-cm.md"
+      ]
+    },
+    "iCBTLorentz": {
+      "count": 1,
+      "files": [
+        "2 AUTHORS - SCHOLLARS/Stefan Hrastinski.md"
+      ]
+    },
+    "Hinton_G": {
+      "count": 1,
+      "files": [
+        "2 AUTHORS - SCHOLLARS/Geoffrey Hinton.md"
+      ]
+    },
+    "CCSS": {
+      "count": 1,
+      "files": [
+        "9 Paperpile/Paperpile/All Papers/C/Carpenter and Krutka 2014 - How and Why Educators Use Twitter - A Survey of the Field.md"
+      ]
+    },
+    "view": {
+      "count": 1,
+      "files": [
+        "9 Paperpile/Paperpile/All Papers/C/Carpenter and Krutka 2014 - How and Why Educators Use Twitter - A Survey of the Field.md"
+      ]
+    },
+    "edchat": {
+      "count": 1,
+      "files": [
+        "9 Paperpile/Paperpile/All Papers/C/Carpenter and Krutka 2014 - How and Why Educators Use Twitter - A Survey of the Field.md"
+      ]
+    },
+    "cpchat": {
+      "count": 1,
+      "files": [
+        "9 Paperpile/Paperpile/All Papers/C/Carpenter and Krutka 2014 - How and Why Educators Use Twitter - A Survey of the Field.md"
+      ]
+    },
+    "satchat": {
+      "count": 1,
+      "files": [
+        "9 Paperpile/Paperpile/All Papers/C/Carpenter and Krutka 2014 - How and Why Educators Use Twitter - A Survey of the Field.md"
+      ]
+    },
+    "21stedchat": {
+      "count": 1,
+      "files": [
+        "9 Paperpile/Paperpile/All Papers/C/Carpenter and Krutka 2014 - How and Why Educators Use Twitter - A Survey of the Field.md"
+      ]
+    },
+    "engchat": {
+      "count": 1,
+      "files": [
+        "9 Paperpile/Paperpile/All Papers/C/Carpenter and Krutka 2014 - How and Why Educators Use Twitter - A Survey of the Field.md"
+      ]
+    },
+    "sschat": {
+      "count": 1,
+      "files": [
+        "9 Paperpile/Paperpile/All Papers/C/Carpenter and Krutka 2014 - How and Why Educators Use Twitter - A Survey of the Field.md"
+      ]
+    },
+    "mathchat": {
+      "count": 1,
+      "files": [
+        "9 Paperpile/Paperpile/All Papers/C/Carpenter and Krutka 2014 - How and Why Educators Use Twitter - A Survey of the Field.md"
+      ]
+    },
+    "elemchat": {
+      "count": 1,
+      "files": [
+        "9 Paperpile/Paperpile/All Papers/C/Carpenter and Krutka 2014 - How and Why Educators Use Twitter - A Survey of the Field.md"
+      ]
+    },
+    "WestmooreHS": {
+      "count": 1,
+      "files": [
+        "9 Paperpile/Paperpile/All Papers/C/Carpenter and Krutka 2014 - How and Why Educators Use Twitter - A Survey of the Field.md"
+      ]
+    },
+    "APBio101": {
+      "count": 1,
+      "files": [
+        "9 Paperpile/Paperpile/All Papers/C/Carpenter and Krutka 2014 - How and Why Educators Use Twitter - A Survey of the Field.md"
+      ]
+    },
+    "Searles": {
+      "count": 2,
+      "files": [
+        "0 Daily notes/2024-10-11 Teknisk perspektiv.md",
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "en_nypa_AI": {
+      "count": 2,
+      "files": [
+        "0 Daily notes/2024-10-11 Teknisk perspektiv.md",
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "intelligenskvot": {
+      "count": 2,
+      "files": [
+        "0 Daily notes/2024-10-11 Teknisk perspektiv.md",
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "LISP": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/2024-09-16 Samh\u00e4llsperspektiv.md"
+      ]
+    },
+    "From": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/2024-05-20.md"
+      ]
+    },
+    "15_16": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/2025-05-15 KUL2025 Paper draft.md"
+      ]
+    },
+    "truth_values": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/2025-01-10.md"
+      ]
+    },
+    "ResearchQuestion": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/2024-03-14.md"
+      ]
+    },
+    "ai_limitations": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/2025-01-23.md"
+      ]
+    },
+    "UNESCO_framework": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/2024-10-12 Samh\u00e4llsperspektiv.md"
+      ]
+    },
+    "Anecdotal": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Connection": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Planning": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Comparison": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Focused": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Who": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Summary": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Quick": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Core": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Applications": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Shift": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Why": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "said": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Exploration": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Influence": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Cognitive": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "ChatGPT": {
+      "count": 5,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md",
+        "4 Articles/Stojanov2024-pr.md",
+        "4 Articles/Essel2024-hy.md",
+        "4 Articles/Farhi2023-lx.md",
+        "4 Articles/Arun2024-cw.md"
+      ]
+    },
+    "Types": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Socratic": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Historical": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Reflection": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Next": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Philosophical": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Modern": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Instruktioner": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Example": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Overall": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Evolution": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Memory": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Overview": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Simplifying": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Hybrid": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Conclusion": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Perspective": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "What": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Structure": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Application": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Moving": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Development": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "sade": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/Daily Notes AI-kurs l\u00e4rare.md"
+      ]
+    },
+    "Step": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/2024-03-26.md"
+      ]
+    },
+    "plausabiliy": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/2024-03-26.md"
+      ]
+    },
+    "Textbook": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/2024-03-26.md"
+      ]
+    },
+    "Purpose": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/2024-03-26.md"
+      ]
+    },
+    "Pedagogical_Knowledge": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/2024-03-19.md"
+      ]
+    },
+    "Pedagogical_Practice": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/2024-03-19.md"
+      ]
+    },
+    "Literacy/Pedagogical_Literacy": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/2024-03-19.md"
+      ]
+    },
+    "thesis": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/2024-05-28.md"
+      ]
+    },
+    "Professional_Development": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/2024-04-06.md"
+      ]
+    },
+    "collaborative_learning": {
+      "count": 47,
+      "files": [
+        "0 Daily notes/2024-04-06.md",
+        "4 Articles/Chatti2007-ss.md",
+        "4 Articles/Scardamalia2004-qv.md",
+        "4 Articles/Ivarsson2010-dx.md",
+        "4 Articles/Strijbos2004-rq.md",
+        "4 Articles/Ludvigsen2007-qb.md",
+        "4 Articles/Lavonen2006-zw.md",
+        "4 Articles/Koschmann1999-fl.md",
+        "4 Articles/Chu2012-qd.md",
+        "4 Articles/Amhag2009-eb.md",
+        "4 Articles/Stahl2002-cf.md",
+        "4 Articles/Estelles2010-qq.md",
+        "4 Articles/Suthers2010-fj.md",
+        "4 Articles/Stahl2006-hr.md",
+        "4 Articles/Goggins2013-rc.md",
+        "4 Articles/Toven-Lindsey2015-lc.md",
+        "4 Articles/Stahl2009-px.md",
+        "4 Articles/Williams2020-jh.md",
+        "4 Articles/Suthers2006-fh.md",
+        "4 Articles/Scardamalia1994-xh.md",
+        "4 Articles/Scardamalia2010-et.md",
+        "4 Articles/Hakkarainen2007-gx.md",
+        "4 Articles/Khine2010-aj.md",
+        "4 Articles/Arvaja2008-nt.md",
+        "4 Articles/Arnseth2006-tg.md",
+        "4 Articles/Gierl2014-px.md",
+        "4 Articles/Resta2007-ot.md",
+        "4 Articles/Furberg2009-qc.md",
+        "4 Articles/Wheeler2008-iv.md",
+        "4 Articles/Pifarre2011-wb.md",
+        "4 Articles/Yang2014-tg.md",
+        "4 Articles/Lipponen2003-rg.md",
+        "4 Articles/Cohen2007-xr.md",
+        "4 Articles/Dillenbourg1999-ca.md",
+        "4 Articles/Wesely2013-aj.md",
+        "4 Articles/Carpenter2014-gg.md",
+        "4 Articles/Ronnerman2015-pe.md",
+        "4 Articles/Bradley2013-gq.md",
+        "4 Articles/Oliveira2011-kv.md",
+        "4 Articles/A_Fields2009-ai.md",
+        "4 Articles/Scardamalia2005-lo.md",
+        "4 Articles/Ludvigsen2001-lc.md",
+        "4 Articles/Koschmann1996-oe.md",
+        "4 Articles/Guribye2002-tw.md",
+        "4 Articles/Steffens2015-io.md",
+        "4 Articles/Larusson2009-vm.md",
+        "4 Articles/Stahl1995-zb.md"
+      ]
+    },
+    "digital_divide": {
+      "count": 4,
+      "files": [
+        "0 Daily notes/2024-03-28.md",
+        "4 Articles/Weigand2019-wx.md",
+        "4 Articles/Livingstone2010-ab.md",
+        "4 Articles/Celik2023-cv.md"
+      ]
+    },
+    "NeilSelwyn": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/2024-03-28.md"
+      ]
+    },
+    "Selwyn": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/2024-03-28.md"
+      ]
+    },
+    "digital_literacy": {
+      "count": 7,
+      "files": [
+        "0 Daily notes/2024-03-18.md",
+        "4 Articles/Hedberg2008-mf.md",
+        "4 Articles/Egenfeldt-Nielsen2006-yw.md",
+        "4 Articles/Bruder2013-sw.md",
+        "4 Articles/Chan2023-zd.md",
+        "4 Articles/Chase2011-rw.md",
+        "4 Articles/Lankshear2007-jb.md"
+      ]
+    },
+    "pedagogical_literacy": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/2024-03-18.md"
+      ]
+    },
+    "TPACK": {
+      "count": 4,
+      "files": [
+        "0 Daily notes/2024-03-18.md",
+        "4 Articles/Sannino2009-ix.md",
+        "4 Articles/Unknown2019-yg.md",
+        "4 Articles/Wang2024-sk.md"
+      ]
+    },
+    "disciplinary_literacy": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/2024-03-18.md"
+      ]
+    },
+    "PCK": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/2024-03-18.md"
+      ]
+    },
+    "literacyai_literacy": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/2024-03-18.md"
+      ]
+    },
+    "Literacy/Disciplinary_Literacy": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/2024-03-18.md"
+      ]
+    },
+    "literacygenerative_ai_literacy": {
+      "count": 1,
+      "files": [
+        "0 Daily notes/2024-03-18.md"
+      ]
+    },
+    "blogging": {
+      "count": 2,
+      "files": [
+        "4 Articles/Hines2008-ms.md",
+        "4 Articles/A_Hemmi2009-jb.md"
+      ]
+    },
+    "case_study": {
+      "count": 41,
+      "files": [
+        "4 Articles/Hines2008-ms.md",
+        "4 Articles/Jones2016-wx.md",
+        "4 Articles/Glazko2023-as.md",
+        "4 Articles/Butler2012-fx.md",
+        "4 Articles/Leppanen2009-kr.md",
+        "4 Articles/Charalambos2004-ed.md",
+        "4 Articles/Hatakka2013-tz.md",
+        "4 Articles/Fox2015-kf.md",
+        "4 Articles/Lantz-Andersson2013-gd.md",
+        "4 Articles/Juuti2009-st.md",
+        "4 Articles/Kulavuz-Onal2013-pd.md",
+        "4 Articles/Seo2013-du.md",
+        "4 Articles/Britt2016-yr.md",
+        "4 Articles/Avraamidou2014-fo.md",
+        "4 Articles/Neuhaus2012-xs.md",
+        "4 Articles/Barab2000-iw.md",
+        "4 Articles/Rudolph2016-ae.md",
+        "4 Articles/Netolicky2016-fa.md",
+        "4 Articles/Booth2012-ez.md",
+        "4 Articles/Squire2004-bj.md",
+        "4 Articles/Barron2006-rj.md",
+        "4 Articles/Zimmer2010-nf.md",
+        "4 Articles/Heath2009-xb.md",
+        "4 Articles/Roth2004-fc.md",
+        "4 Articles/Prestridge2017-at.md",
+        "4 Articles/Lee2015-vs.md",
+        "4 Articles/King2011-ph.md",
+        "4 Articles/Ito2010-lg.md",
+        "4 Articles/Albion2015-rs.md",
+        "4 Articles/Sutherland2000-rw.md",
+        "4 Articles/Horst2012-cs.md",
+        "4 Articles/Drent2008-xb.md",
+        "4 Articles/Olsen2009-ag.md",
+        "4 Articles/Knutsson2012-cp.md",
+        "4 Articles/Henry2012-uu.md",
+        "4 Articles/Cesareni2011-dk.md",
+        "4 Articles/Foot2002-fq.md",
+        "4 Articles/Hoffman2015-qt.md",
+        "4 Articles/Larusson2009-vm.md",
+        "4 Articles/Sandholtz2006-wy.md",
+        "4 Articles/Arnold2010-to.md"
+      ]
+    },
+    "teacher_education": {
+      "count": 50,
+      "files": [
+        "4 Articles/Hines2008-ms.md",
+        "4 Articles/Wopereis2010-qm.md",
+        "4 Articles/Avalos2011-sw.md",
+        "4 Articles/Krutka2017-rk.md",
+        "4 Articles/Lavonen2006-zw.md",
+        "4 Articles/Kinchin2015-nw.md",
+        "4 Articles/Beaudin2015-eu.md",
+        "4 Articles/Sadaf2016-ie.md",
+        "4 Articles/Fox2015-kf.md",
+        "4 Articles/Beach2012-ah.md",
+        "4 Articles/Cook2016-mu.md",
+        "4 Articles/Deng2011-wq.md",
+        "4 Articles/Laat2012-ah.md",
+        "4 Articles/Britt2016-yr.md",
+        "4 Articles/Hughes2015-gu.md",
+        "4 Articles/Player-Koro2012-mg.md",
+        "4 Articles/Teo2016-kb.md",
+        "4 Articles/Player-Koro2011-lu.md",
+        "4 Articles/Avraamidou2014-fo.md",
+        "4 Articles/Rokenes2014-yy.md",
+        "4 Articles/Santana_Lisboa2013-hj.md",
+        "4 Articles/Yazan2018-mh.md",
+        "4 Articles/Adams2017-yj.md",
+        "4 Articles/Krutka2014-jp.md",
+        "4 Articles/Gerstein2011-fc.md",
+        "4 Articles/Erol_Donmez_Fevzi_Inan2012-uq.md",
+        "4 Articles/Scardamalia2010-et.md",
+        "4 Articles/Lee2013-xv.md",
+        "4 Articles/Carpenter2015-ur.md",
+        "4 Articles/Celik2022-zu.md",
+        "4 Articles/Jobe2014-tp.md",
+        "4 Articles/Lee2015-vs.md",
+        "4 Articles/Chavis2015-qf.md",
+        "4 Articles/Lee2024-zo.md",
+        "4 Articles/Wesely2013-aj.md",
+        "4 Articles/Carpenter2014-gg.md",
+        "4 Articles/Domine2012-dv.md",
+        "4 Articles/Ostashewski2010-kr.md",
+        "4 Articles/Drent2008-xb.md",
+        "4 Articles/Oliver2014-qg.md",
+        "4 Articles/Cesareni2011-dk.md",
+        "4 Articles/Steinbrecher2012-vv.md",
+        "4 Articles/Kizilcec2023-fc.md",
+        "4 Articles/Lindwall2011-ve.md",
+        "4 Articles/Heafner2015-fp.md",
+        "4 Articles/OBannon2014-eu.md",
+        "4 Articles/Chapman2024-zi.md",
+        "4 Articles/Atabek2012-lr.md",
+        "4 Articles/Dalgarno2013-st.md",
+        "4 Articles/Rolando2014-pq.md"
+      ]
+    },
+    "professional_development": {
+      "count": 108,
+      "files": [
+        "4 Articles/Hines2008-ms.md",
+        "4 Articles/Loizzo2017-eo.md",
+        "4 Articles/Lord2014-yk.md",
+        "4 Articles/Grimmett2014-ad.md",
+        "4 Articles/Jones2016-wx.md",
+        "4 Articles/Bruder2013-vf.md",
+        "4 Articles/Avalos2011-sw.md",
+        "4 Articles/Butler2012-fx.md",
+        "4 Articles/Rybakova2016-uy.md",
+        "4 Articles/Trust2012-yw.md",
+        "4 Articles/Lavonen2006-zw.md",
+        "4 Articles/Deutsch2013-ix.md",
+        "4 Articles/Forte2012-tk.md",
+        "4 Articles/Karlsson2014-by.md",
+        "4 Articles/Karlsson2016-hg.md",
+        "4 Articles/Donmez2016-mb.md",
+        "4 Articles/Macia2016-vc.md",
+        "4 Articles/Kier2014-hk.md",
+        "4 Articles/Juuti2009-st.md",
+        "4 Articles/Moon2013-ji.md",
+        "4 Articles/Poitras2017-aq.md",
+        "4 Articles/Whitehouse2006-oy.md",
+        "4 Articles/Laat2012-ah.md",
+        "4 Articles/Clement2000-mm.md",
+        "4 Articles/Britt2016-yr.md",
+        "4 Articles/Borko2004-uy.md",
+        "4 Articles/Rudolph2016-ae.md",
+        "4 Articles/Al-Zyoud2020-vd.md",
+        "4 Articles/Mor2013-wf.md",
+        "4 Articles/Prestridge2014-fb.md",
+        "4 Articles/Brown2002-po.md",
+        "4 Articles/McNamara2010-fw.md",
+        "4 Articles/Killeavy2010-gx.md",
+        "4 Articles/Perez2012-fs.md",
+        "4 Articles/Byrum2015-jk.md",
+        "4 Articles/Mills2012-wa.md",
+        "4 Articles/Hanuscin2014-ak.md",
+        "4 Articles/Karlsson2014-mp.md",
+        "4 Articles/Liu2016-st.md",
+        "4 Articles/Van_Bommel2016-tq.md",
+        "4 Articles/Weigel2012-mi.md",
+        "4 Articles/Laverick1978-ya.md",
+        "4 Articles/Brown2010-hd.md",
+        "4 Articles/Matzat2013-bs.md",
+        "4 Articles/Gerstein2011-fc.md",
+        "4 Articles/Erol_Donmez_Fevzi_Inan2012-uq.md",
+        "4 Articles/Asino2016-yr.md",
+        "4 Articles/Slotte2006-be.md",
+        "4 Articles/Ke2009-az.md",
+        "4 Articles/Levenberg2010-pj.md",
+        "4 Articles/Manca2014-kt.md",
+        "4 Articles/Khine2010-aj.md",
+        "4 Articles/Kemmis2012-ez.md",
+        "4 Articles/Prestridge2017-at.md",
+        "4 Articles/Carpenter2015-ur.md",
+        "4 Articles/Van_Den_Beemt2016-ks.md",
+        "4 Articles/Tondeur2017-wq.md",
+        "4 Articles/Holmes2013-tg.md",
+        "4 Articles/Jobe2014-tp.md",
+        "4 Articles/Dede2009-am.md",
+        "4 Articles/King2011-ph.md",
+        "4 Articles/Rehm2016-to.md",
+        "4 Articles/Mindell2014-pd.md",
+        "4 Articles/Webster-Wright2009-gk.md",
+        "4 Articles/Rodesiler2014-xn.md",
+        "4 Articles/Dirckinck-Holmfeld2009-kc.md",
+        "4 Articles/Chavis2015-qf.md",
+        "4 Articles/Dirckinck-Holmfeld2008-gr.md",
+        "4 Articles/Bruder2013-sw.md",
+        "4 Articles/Forsberg2012-eg.md",
+        "4 Articles/Albion2015-rs.md",
+        "4 Articles/Wesely2013-aj.md",
+        "4 Articles/Lieberman2010-jb.md",
+        "4 Articles/Kramarski2021-uq.md",
+        "4 Articles/Vangrieken2017-vq.md",
+        "4 Articles/Shields2017-ko.md",
+        "4 Articles/Daniels2004-uz.md",
+        "4 Articles/Greenhalgh2016-me.md",
+        "4 Articles/Luehmann2008-qg.md",
+        "4 Articles/Ostashewski2010-kr.md",
+        "4 Articles/Hungwe2010-ac.md",
+        "4 Articles/Wake2014-gx.md",
+        "4 Articles/Carpenter2016-yy.md",
+        "4 Articles/Fisher2013-qw.md",
+        "4 Articles/Kastner2012-gs.md",
+        "4 Articles/Salmon2015-jv.md",
+        "4 Articles/Polly2010-dw.md",
+        "4 Articles/Bissessar2014-ug.md",
+        "4 Articles/Stewart2013-ge.md",
+        "4 Articles/Patahuddin2013-od.md",
+        "4 Articles/Mishra2006-ex.md",
+        "4 Articles/Fransson2020-gt.md",
+        "4 Articles/Lock2006-ea.md",
+        "4 Articles/Smith2012-ye.md",
+        "4 Articles/Owston2008-of.md",
+        "4 Articles/Hoffman2015-qt.md",
+        "4 Articles/Sumuer2014-pe.md",
+        "4 Articles/Sandholtz2006-wy.md",
+        "4 Articles/Kim2013-th.md",
+        "4 Articles/Chapman2024-zi.md",
+        "4 Articles/Slotwinski2011-py.md",
+        "4 Articles/Meijs2016-bx.md",
+        "4 Articles/Liu2012-ve.md",
+        "4 Articles/Davis2013-bx.md",
+        "4 Articles/Rice2008-lh.md",
+        "4 Articles/Pennell2015-iz.md",
+        "4 Articles/Villegas-Reimers2003-nz.md",
+        "4 Articles/Rolando2014-pq.md"
+      ]
+    },
+    "social_media": {
+      "count": 99,
+      "files": [
+        "4 Articles/Hines2008-ms.md",
+        "4 Articles/Lord2014-yk.md",
+        "4 Articles/Andersson2014-wo.md",
+        "4 Articles/Grimmett2014-ad.md",
+        "4 Articles/Kelly2016-zv.md",
+        "4 Articles/Alias2013-av.md",
+        "4 Articles/Krutka2017-rk.md",
+        "4 Articles/Cooper2014-se.md",
+        "4 Articles/Opfer2011-fn.md",
+        "4 Articles/Oliver2016-kf.md",
+        "4 Articles/John2013-ig.md",
+        "4 Articles/Hatakka2013-tz.md",
+        "4 Articles/Kinchin2015-nw.md",
+        "4 Articles/Forte2012-tk.md",
+        "4 Articles/Beaudin2015-eu.md",
+        "4 Articles/Matei2011-fo.md",
+        "4 Articles/Lantz-Andersson2013-gd.md",
+        "4 Articles/Gao2016-aq.md",
+        "4 Articles/Ford2014-yy.md",
+        "4 Articles/Britt2016-yr.md",
+        "4 Articles/Bechmann2012-io.md",
+        "4 Articles/Pieterse2014-em.md",
+        "4 Articles/Neuhaus2012-xs.md",
+        "4 Articles/Rudolph2016-ae.md",
+        "4 Articles/Greenhow2014-qe.md",
+        "4 Articles/Stald2008-yc.md",
+        "4 Articles/Selwyn2009-gn.md",
+        "4 Articles/Krutka2014-jp.md",
+        "4 Articles/Mills2012-wa.md",
+        "4 Articles/Lantz-andersson2017-zl.md",
+        "4 Articles/De_Vries2013-eq.md",
+        "4 Articles/Van_Bommel2016-tq.md",
+        "4 Articles/Dabbagh2012-ja.md",
+        "4 Articles/Rosenberg2016-oy.md",
+        "4 Articles/Manca2015-dd.md",
+        "4 Articles/Erol_Donmez_Fevzi_Inan2012-uq.md",
+        "4 Articles/Pilgrim2011-km.md",
+        "4 Articles/Zimmer2010-nf.md",
+        "4 Articles/Smith_Risser2013-xg.md",
+        "4 Articles/Asino2016-yr.md",
+        "4 Articles/Weckert2010-dn.md",
+        "4 Articles/Manca2014-kt.md",
+        "4 Articles/Carpenter2015-ur.md",
+        "4 Articles/Good2013-rd.md",
+        "4 Articles/Goodyear2014-at.md",
+        "4 Articles/McLoughlin2016-cs.md",
+        "4 Articles/Yang2014-tg.md",
+        "4 Articles/Greenhow2011-zv.md",
+        "4 Articles/Skrypnyk2015-lz.md",
+        "4 Articles/De_Jong2012-tn.md",
+        "4 Articles/Holmes2013-tg.md",
+        "4 Articles/Kascak2015-jn.md",
+        "4 Articles/Elliott2010-ds.md",
+        "4 Articles/King2011-ph.md",
+        "4 Articles/Rehm2016-to.md",
+        "4 Articles/Ito2010-lg.md",
+        "4 Articles/Communication2009-ye.md",
+        "4 Articles/Rodesiler2014-xn.md",
+        "4 Articles/Hart2011-eh.md",
+        "4 Articles/Ravenscroft2011-od.md",
+        "4 Articles/Wesely2013-aj.md",
+        "4 Articles/Carpenter2014-gg.md",
+        "4 Articles/Sutton2008-yp.md",
+        "4 Articles/Greenhalgh2016-me.md",
+        "4 Articles/Ostashewski2010-kr.md",
+        "4 Articles/Horst2012-cs.md",
+        "4 Articles/Kilinc2012-hk.md",
+        "4 Articles/Barash2011-ve.md",
+        "4 Articles/Persson2010-qm.md",
+        "4 Articles/Bissessar2014-ug.md",
+        "4 Articles/Power2013-ic.md",
+        "4 Articles/Homan2014-ad.md",
+        "4 Articles/Lomborg2014-sr.md",
+        "4 Articles/Alexander2008-gh.md",
+        "4 Articles/Takahashi2010-dl.md",
+        "4 Articles/Conole2010-jd.md",
+        "4 Articles/Langhorst2001-tx.md",
+        "4 Articles/Steinbrecher2012-vv.md",
+        "4 Articles/Ellison2011-vl.md",
+        "4 Articles/Macia2017-kh.md",
+        "4 Articles/Rodriguez-Hoyos2015-xm.md",
+        "4 Articles/Pollet2011-pg.md",
+        "4 Articles/Lindgren2011-pq.md",
+        "4 Articles/Lomborg2014-ku.md",
+        "4 Articles/Parra2016-ak.md",
+        "4 Articles/Bell2016-hm.md",
+        "4 Articles/OBannon2014-eu.md",
+        "4 Articles/Sumuer2014-pe.md",
+        "4 Articles/Van_Puijenbroek2014-tk.md",
+        "4 Articles/Conole2011-qh.md",
+        "4 Articles/Atabek2012-lr.md",
+        "4 Articles/Carpenter2014-ms.md",
+        "4 Articles/Arnold2010-to.md",
+        "4 Articles/Hogan2010-hu.md",
+        "4 Articles/Davis2013-bx.md",
+        "4 Articles/A_Hemmi2009-jb.md",
+        "4 Articles/Ross2011-hz.md",
+        "4 Articles/Noble2016-mo.md",
+        "4 Articles/Sie2013-wp.md"
+      ]
+    },
+    "online_communities": {
+      "count": 4,
+      "files": [
+        "4 Articles/Hines2008-ms.md",
+        "4 Articles/Charalambos2004-ed.md",
+        "4 Articles/Lee2013-xv.md",
+        "4 Articles/Nam2009-oi.md"
+      ]
+    },
+    "systematic_review": {
+      "count": 19,
+      "files": [
+        "4 Articles/Bearman2015-gt.md",
+        "4 Articles/Macia2016-vc.md",
+        "4 Articles/Malinen2015-lv.md",
+        "4 Articles/Alnasyan2024-xh.md",
+        "4 Articles/Bearman2013-cf.md",
+        "4 Articles/Sellberg2016-wk.md",
+        "4 Articles/Shute2017-zl.md",
+        "4 Articles/Tondeur2017-wq.md",
+        "4 Articles/De_Jong2012-tn.md",
+        "4 Articles/Celik2022-zu.md",
+        "4 Articles/Utterberg2017-br.md",
+        "4 Articles/Lee2024-zo.md",
+        "4 Articles/Vangrieken2017-vq.md",
+        "4 Articles/Adiguzel2023-zb.md",
+        "4 Articles/Gimeno-Santos2014-gg.md",
+        "4 Articles/Chen2020-vv.md",
+        "4 Articles/Fleischer2012-ts.md",
+        "4 Articles/Idowu2024-dy.md",
+        "4 Articles/Panadero2020-hy.md"
+      ]
+    },
+    "phenomenography": {
+      "count": 1,
+      "files": [
+        "4 Articles/Van_Le2024-fg.md"
+      ]
+    },
+    "educational_research": {
+      "count": 6,
+      "files": [
+        "4 Articles/Van_Le2024-fg.md",
+        "4 Articles/Barab2004-fh.md",
+        "4 Articles/Bransford2014-qq.md",
+        "4 Articles/Kumpulainen2009-sh.md",
+        "4 Articles/Hammersley2008-iz.md",
+        "4 Articles/Greenhow2009-kd.md"
+      ]
+    },
+    "qualitative_research": {
+      "count": 6,
+      "files": [
+        "4 Articles/Van_Le2024-fg.md",
+        "4 Articles/Hanna2012-cu.md",
+        "4 Articles/Erol_Donmez_Fevzi_Inan2012-uq.md",
+        "4 Articles/Wesely2013-aj.md",
+        "4 Articles/Cesareni2011-dk.md",
+        "4 Articles/A_N_Markham2005-vs.md"
+      ]
+    },
+    "research_methods": {
+      "count": 5,
+      "files": [
+        "4 Articles/Van_Le2024-fg.md",
+        "4 Articles/A_McKee2008-co.md",
+        "4 Articles/Muhonen2024-zf.md",
+        "4 Articles/Hsu2013-ra.md",
+        "4 Articles/Roni2014-xl.md"
+      ]
+    },
+    "doctoral_research": {
+      "count": 1,
+      "files": [
+        "4 Articles/Van_Le2024-fg.md"
+      ]
+    },
+    "stem_education": {
+      "count": 16,
+      "files": [
+        "4 Articles/Lindahl2013-am.md",
+        "4 Articles/Yannier2024-al.md",
+        "4 Articles/Haudek2023-vp.md",
+        "4 Articles/Juuti2009-st.md",
+        "4 Articles/Ravenscroft2007-vu.md",
+        "4 Articles/Gerstein2011-fc.md",
+        "4 Articles/Roth2004-fc.md",
+        "4 Articles/Greenhow2011-zv.md",
+        "4 Articles/El_Fathi2025-lz.md",
+        "4 Articles/Ideland2012-qz.md",
+        "4 Articles/Beach1999-dw.md",
+        "4 Articles/Colucci-Gray2006-az.md",
+        "4 Articles/Novak1990-gx.md",
+        "4 Articles/Roth2012-gp.md",
+        "4 Articles/Lindwall2011-ve.md",
+        "4 Articles/Roth1997-ml.md"
+      ]
+    },
+    "knowledge_management": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chatti2007-ss.md"
+      ]
+    },
+    "learning_management": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chatti2007-ss.md"
+      ]
+    },
+    "web_2_0": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chatti2007-ss.md"
+      ]
+    },
+    "online_learning": {
+      "count": 30,
+      "files": [
+        "4 Articles/Chatti2007-ss.md",
+        "4 Articles/Cuban2015-xv.md",
+        "4 Articles/Haudek2023-vp.md",
+        "4 Articles/Lantz-Andersson2013-gd.md",
+        "4 Articles/Laat2012-ah.md",
+        "4 Articles/Britt2016-yr.md",
+        "4 Articles/Jones2006-ks.md",
+        "4 Articles/Teo2014-yg.md",
+        "4 Articles/Booth2012-ez.md",
+        "4 Articles/Toven-Lindsey2015-lc.md",
+        "4 Articles/Gillani2014-cs.md",
+        "4 Articles/Gerstein2011-fc.md",
+        "4 Articles/Erol_Donmez_Fevzi_Inan2012-uq.md",
+        "4 Articles/Hay2008-sa.md",
+        "4 Articles/Slotte2006-be.md",
+        "4 Articles/Skrypnyk2015-lz.md",
+        "4 Articles/Jobe2014-tp.md",
+        "4 Articles/Carlen2010-hy.md",
+        "4 Articles/Jia2024-hx.md",
+        "4 Articles/Jones2005-ss.md",
+        "4 Articles/Wesely2013-aj.md",
+        "4 Articles/Hood2017-jt.md",
+        "4 Articles/Ostashewski2010-kr.md",
+        "4 Articles/Oliveira2011-kv.md",
+        "4 Articles/Robertson2011-ux.md",
+        "4 Articles/Conole2004-bs.md",
+        "4 Articles/Lock2006-ea.md",
+        "4 Articles/Smith2012-ye.md",
+        "4 Articles/Koedinger2012-yo.md",
+        "4 Articles/A_Hemmi2009-jb.md"
+      ]
+    },
+    "knowledge_sharing": {
+      "count": 3,
+      "files": [
+        "4 Articles/Chatti2007-ss.md",
+        "4 Articles/Barron2006-rj.md",
+        "4 Articles/A_Fields2009-ai.md"
+      ]
+    },
+    "social_constructivism": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chatti2007-ss.md"
+      ]
+    },
+    "social_software": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chatti2007-ss.md"
+      ]
+    },
+    "knowledge_networking": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chatti2007-ss.md"
+      ]
+    },
+    "km_lm_integration": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chatti2007-ss.md"
+      ]
+    },
+    "e-learning": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chatti2007-ss.md"
+      ]
+    },
+    "moocs": {
+      "count": 30,
+      "files": [
+        "4 Articles/Loizzo2017-eo.md",
+        "4 Articles/Jones2016-wx.md",
+        "4 Articles/Koschmann1984-pi.md",
+        "4 Articles/Bell2011-na.md",
+        "4 Articles/Karlsson2014-by.md",
+        "4 Articles/Karlsson2016-hg.md",
+        "4 Articles/Teo2014-yg.md",
+        "4 Articles/Milligan2013-js.md",
+        "4 Articles/Kop2011-mh.md",
+        "4 Articles/Fischer2014-ns.md",
+        "4 Articles/Veletsianos2016-kk.md",
+        "4 Articles/Alnasyan2024-xh.md",
+        "4 Articles/Toven-Lindsey2015-lc.md",
+        "4 Articles/Ebben2014-tw.md",
+        "4 Articles/Baggaley2013-ek.md",
+        "4 Articles/Gillani2014-cs.md",
+        "4 Articles/Mak2010-gd.md",
+        "4 Articles/Karlsson2015-cd.md",
+        "4 Articles/Kennedy2014-jr.md",
+        "4 Articles/Skrypnyk2015-lz.md",
+        "4 Articles/Dede2009-am.md",
+        "4 Articles/Alraimi2014-uy.md",
+        "4 Articles/Dron2015-rq.md",
+        "4 Articles/Milligan2014-dj.md",
+        "4 Articles/Fournier2015-ei.md",
+        "4 Articles/Salmon2015-jv.md",
+        "4 Articles/Steffens2015-io.md",
+        "4 Articles/Siemens2013-at.md",
+        "4 Articles/Bell2016-hm.md",
+        "4 Articles/Mackness2010-lr.md"
+      ]
+    },
+    "ethnography": {
+      "count": 68,
+      "files": [
+        "4 Articles/Loizzo2017-eo.md",
+        "4 Articles/Glazko2023-as.md",
+        "4 Articles/Eichhorn2001-tj.md",
+        "4 Articles/Gallagher2011-dq.md",
+        "4 Articles/Nichols2000-qp.md",
+        "4 Articles/Leppanen2009-kr.md",
+        "4 Articles/Larsen2008-nb.md",
+        "4 Articles/Leander2008-zc.md",
+        "4 Articles/Driscoll2010-hu.md",
+        "4 Articles/Beach2011-zd.md",
+        "4 Articles/White2009-ky.md",
+        "4 Articles/Macaulay2000-wh.md",
+        "4 Articles/Lantz-Andersson2013-gd.md",
+        "4 Articles/Hammersley2003-gy.md",
+        "4 Articles/Stahl2002-cf.md",
+        "4 Articles/Kulavuz-Onal2013-pd.md",
+        "4 Articles/Coffey2006-ae.md",
+        "4 Articles/Beach2010-tl.md",
+        "4 Articles/Dennis2010-de.md",
+        "4 Articles/Hine2011-uv.md",
+        "4 Articles/Player-Koro2012-mg.md",
+        "4 Articles/Player-Koro2011-lu.md",
+        "4 Articles/Hammersley2006-iz.md",
+        "4 Articles/Leander2003-hx.md",
+        "4 Articles/Yazan2018-mh.md",
+        "4 Articles/Fields2010-nb.md",
+        "4 Articles/Adams2017-yj.md",
+        "4 Articles/Robson2016-xc.md",
+        "4 Articles/Star1999-bc.md",
+        "4 Articles/Bearman2013-cf.md",
+        "4 Articles/Davies1999-gn.md",
+        "4 Articles/Hammersley2007-vn.md",
+        "4 Articles/Lindroth2010-zs.md",
+        "4 Articles/Hurdley2011-qo.md",
+        "4 Articles/OHara2006-gl.md",
+        "4 Articles/Roth2004-fc.md",
+        "4 Articles/Kennedy2014-jr.md",
+        "4 Articles/Hammersley1990-ew.md",
+        "4 Articles/Vergunst2011-eq.md",
+        "4 Articles/Gillespie2010-uc.md",
+        "4 Articles/Torres2010-xs.md",
+        "4 Articles/Dempsey2010-ke.md",
+        "4 Articles/Ito2010-lg.md",
+        "4 Articles/Dicks2006-ic.md",
+        "4 Articles/Hine2008-ug.md",
+        "4 Articles/Rensfeldt2023-ul.md",
+        "4 Articles/Sinha2024-uz.md",
+        "4 Articles/Walford2007-uw.md",
+        "4 Articles/Larsson2006-tj.md",
+        "4 Articles/Cordoba-Pachon2015-fu.md",
+        "4 Articles/Levinson2010-tt.md",
+        "4 Articles/Horst2012-cs.md",
+        "4 Articles/Guribye2005-gv.md",
+        "4 Articles/Burrell2009-lb.md",
+        "4 Articles/A_Fields2009-ai.md",
+        "4 Articles/Johnson2011-ks.md",
+        "4 Articles/Patahuddin2013-od.md",
+        "4 Articles/Takahashi2010-dl.md",
+        "4 Articles/Robinson2011-md.md",
+        "4 Articles/Guribye2002-tw.md",
+        "4 Articles/Nader2011-oz.md",
+        "4 Articles/Beaulieu2006-ti.md",
+        "4 Articles/Steinkuehler2005-ic.md",
+        "4 Articles/Garcia2009-zv.md",
+        "4 Articles/A_N_Markham2005-vs.md",
+        "4 Articles/Kien2008-tu.md",
+        "4 Articles/Biddix2008-we.md",
+        "4 Articles/A_Hemmi2009-jb.md"
+      ]
+    },
+    "twitter": {
+      "count": 44,
+      "files": [
+        "4 Articles/Lord2014-yk.md",
+        "4 Articles/Grimmett2014-ad.md",
+        "4 Articles/Alias2013-av.md",
+        "4 Articles/Krutka2017-rk.md",
+        "4 Articles/Cooper2014-se.md",
+        "4 Articles/Oliver2016-kf.md",
+        "4 Articles/Forte2012-tk.md",
+        "4 Articles/Beaudin2015-eu.md",
+        "4 Articles/Gao2016-aq.md",
+        "4 Articles/Ford2014-yy.md",
+        "4 Articles/Britt2016-yr.md",
+        "4 Articles/Pieterse2014-em.md",
+        "4 Articles/Neuhaus2012-xs.md",
+        "4 Articles/Rudolph2016-ae.md",
+        "4 Articles/Mills2012-wa.md",
+        "4 Articles/Rosenberg2016-oy.md",
+        "4 Articles/Erol_Donmez_Fevzi_Inan2012-uq.md",
+        "4 Articles/Smith_Risser2013-xg.md",
+        "4 Articles/Asino2016-yr.md",
+        "4 Articles/Carpenter2015-ur.md",
+        "4 Articles/Goodyear2014-at.md",
+        "4 Articles/McLoughlin2016-cs.md",
+        "4 Articles/Skrypnyk2015-lz.md",
+        "4 Articles/Holmes2013-tg.md",
+        "4 Articles/Elliott2010-ds.md",
+        "4 Articles/Rehm2016-to.md",
+        "4 Articles/Rodesiler2014-xn.md",
+        "4 Articles/Cohen2007-xr.md",
+        "4 Articles/Wesely2013-aj.md",
+        "4 Articles/Carpenter2014-gg.md",
+        "4 Articles/Greenhalgh2016-me.md",
+        "4 Articles/Kilinc2012-hk.md",
+        "4 Articles/Barash2011-ve.md",
+        "4 Articles/Power2013-ic.md",
+        "4 Articles/Langhorst2001-tx.md",
+        "4 Articles/Macia2017-kh.md",
+        "4 Articles/Lindgren2011-pq.md",
+        "4 Articles/Parra2016-ak.md",
+        "4 Articles/Bell2016-hm.md",
+        "4 Articles/Carpenter2014-ms.md",
+        "4 Articles/Greenhow2012-pm.md",
+        "4 Articles/Ross2011-hz.md",
+        "4 Articles/Noble2016-mo.md",
+        "4 Articles/Sie2013-wp.md"
+      ]
+    },
+    "knowledge_building": {
+      "count": 5,
+      "files": [
+        "4 Articles/Scardamalia2004-qv.md",
+        "4 Articles/Scardamalia1994-xh.md",
+        "4 Articles/Scardamalia2005-lo.md",
+        "4 Articles/Ludvigsen2001-lc.md",
+        "4 Articles/Cesareni2011-dk.md"
+      ]
+    },
+    "learning_theory": {
+      "count": 3,
+      "files": [
+        "4 Articles/Scardamalia2004-qv.md",
+        "4 Articles/Salomon2003-wb.md",
+        "4 Articles/Urmeneta2024-cg.md"
+      ]
+    },
+    "automated_assessment": {
+      "count": 4,
+      "files": [
+        "4 Articles/Demeyer2016-qj.md",
+        "4 Articles/Pado2023-dv.md",
+        "4 Articles/Celik2022-zu.md",
+        "4 Articles/Chang2001-vq.md"
+      ]
+    },
+    "L\u00e4rares_kompetensutveckling": {
+      "count": 1,
+      "files": [
+        "4 Articles/Levinsson2023-pk.md"
+      ]
+    },
+    "Bernstein": {
+      "count": 1,
+      "files": [
+        "4 Articles/Levinsson2023-pk.md"
+      ]
+    },
+    "cscl": {
+      "count": 4,
+      "files": [
+        "4 Articles/Ivarsson2010-dx.md",
+        "4 Articles/Stahl2009-px.md",
+        "4 Articles/Arnseth2006-tg.md",
+        "4 Articles/Cesareni2011-dk.md"
+      ]
+    },
+    "interaction_analysis": {
+      "count": 4,
+      "files": [
+        "4 Articles/Ivarsson2010-dx.md",
+        "4 Articles/Furberg2008-wb.md",
+        "4 Articles/Santana_Lisboa2013-hj.md",
+        "4 Articles/Pearce2010-jz.md"
+      ]
+    },
+    "k-12": {
+      "count": 48,
+      "files": [
+        "4 Articles/Grimmett2014-ad.md",
+        "4 Articles/Rybakova2016-uy.md",
+        "4 Articles/Xia2024-xe.md",
+        "4 Articles/Haudek2023-vp.md",
+        "4 Articles/Sadaf2016-ie.md",
+        "4 Articles/Fox2015-kf.md",
+        "4 Articles/Andersen2013-tm.md",
+        "4 Articles/Wheeler2001-ip.md",
+        "4 Articles/Lin2011-sv.md",
+        "4 Articles/Clement2000-mm.md",
+        "4 Articles/Rudolph2016-ae.md",
+        "4 Articles/Booth2012-ez.md",
+        "4 Articles/McNamara2010-fw.md",
+        "4 Articles/Killeavy2010-gx.md",
+        "4 Articles/Ertmer2013-on.md",
+        "4 Articles/Lofving2024-bt.md",
+        "4 Articles/Cuban1990-xq.md",
+        "4 Articles/Peters2010-kj.md",
+        "4 Articles/Evaldsson2004-lk.md",
+        "4 Articles/Levenberg2010-pj.md",
+        "4 Articles/Jarvela2004-gw.md",
+        "4 Articles/Player-Koro2014-vo.md",
+        "4 Articles/Carpenter2015-ur.md",
+        "4 Articles/Gierl2014-px.md",
+        "4 Articles/Shute2017-zl.md",
+        "4 Articles/Wastiau2013-lg.md",
+        "4 Articles/Zhang2011-hd.md",
+        "4 Articles/Barab2005-sy.md",
+        "4 Articles/Elliott2010-ds.md",
+        "4 Articles/Mindell2014-pd.md",
+        "4 Articles/Lee2024-zo.md",
+        "4 Articles/Ford2012-ck.md",
+        "4 Articles/Shields2017-ko.md",
+        "4 Articles/Schlager2008-to.md",
+        "4 Articles/Lai2011-nv.md",
+        "4 Articles/Oliver2014-qg.md",
+        "4 Articles/Polly2010-dw.md",
+        "4 Articles/Koschmann1996-oe.md",
+        "4 Articles/Steinbrecher2012-vv.md",
+        "4 Articles/Fransson2020-gt.md",
+        "4 Articles/Arens2011-wb.md",
+        "4 Articles/Chase2011-rw.md",
+        "4 Articles/Donnelly2011-td.md",
+        "4 Articles/Engestrom1995-gy.md",
+        "4 Articles/Kim2013-th.md",
+        "4 Articles/Stahl2000-ib.md",
+        "4 Articles/Jonsson2021-us.md",
+        "4 Articles/Rice2008-lh.md"
+      ]
+    },
+    "sociotechnical_systems": {
+      "count": 2,
+      "files": [
+        "4 Articles/Waltz2004-ql.md",
+        "4 Articles/Bowker2008-es.md"
+      ]
+    },
+    "generative_AI": {
+      "count": 1,
+      "files": [
+        "4 Articles/Verhelst2024-iy.md"
+      ]
+    },
+    "natural_language_processing": {
+      "count": 4,
+      "files": [
+        "4 Articles/Verhelst2024-iy.md",
+        "4 Articles/Pado2023-dv.md",
+        "4 Articles/Morris2024-tx.md",
+        "4 Articles/Chen2020-vv.md"
+      ]
+    },
+    "game_based_learning": {
+      "count": 3,
+      "files": [
+        "4 Articles/Francis2006-hs.md",
+        "4 Articles/Nardi2006-es.md",
+        "4 Articles/Egenfeldt-Nielsen2006-yw.md"
+      ]
+    },
+    "AIED": {
+      "count": 40,
+      "files": [
+        "4 Articles/Pado2023-dv.md",
+        "4 Articles/Mouta2023-mq.md",
+        "4 Articles/Yannier2024-al.md",
+        "4 Articles/Haudek2023-vp.md",
+        "4 Articles/Mao2023-jz.md",
+        "4 Articles/Horbach2023-ns.md",
+        "4 Articles/Chaudhry2022-dx.md",
+        "4 Articles/Graesser2024-gn.md",
+        "4 Articles/Morris2024-tx.md",
+        "4 Articles/Lofving2024-bt.md",
+        "4 Articles/Lebis2023-js.md",
+        "4 Articles/Pinkwart2016-xj.md",
+        "4 Articles/Gombert2024-oj.md",
+        "4 Articles/Hayashi2023-yj.md",
+        "4 Articles/Porayska-Pomsta2024-fv.md",
+        "4 Articles/Pelletier2024-fa.md",
+        "4 Articles/noauthor_2024-ob.md",
+        "4 Articles/Celik2022-zu.md",
+        "4 Articles/Tuomi2024-rk.md",
+        "4 Articles/Sperling2024-lp.md",
+        "4 Articles/McNamara2024-yz.md",
+        "4 Articles/Lee2020-al.md",
+        "4 Articles/Labadze2023-gg.md",
+        "4 Articles/Eynon2024-ql.md",
+        "4 Articles/Ucar2024-qo.md",
+        "4 Articles/Brusilovsky2024-wh.md",
+        "4 Articles/Rodrigo2024-rz.md",
+        "4 Articles/Holmes2024-np.md",
+        "4 Articles/Kizilcec2023-fc.md",
+        "4 Articles/Koedinger2024-jz.md",
+        "4 Articles/Xu2023-dr.md",
+        "4 Articles/Selwyn2024-kh.md",
+        "4 Articles/Swist2024-zm.md",
+        "4 Articles/McNamara2024-jq.md",
+        "4 Articles/Persson2024-nz.md",
+        "4 Articles/Ouyang2021-uo.md",
+        "4 Articles/Roll2016-lj.md",
+        "4 Articles/Pelanek2024-hv.md",
+        "4 Articles/Idowu2024-dy.md",
+        "4 Articles/Du_Boulay2024-dg.md"
+      ]
+    },
+    "0": {
+      "count": 2,
+      "files": [
+        "4 Articles/Hakkarainen2009-nn.md",
+        "4 Articles/Gee2007-je.md"
+      ]
+    },
+    "community_of_practice": {
+      "count": 2,
+      "files": [
+        "4 Articles/Charalambos2004-ed.md",
+        "4 Articles/Cesareni2011-dk.md"
+      ]
+    },
+    "online_professional_development": {
+      "count": 1,
+      "files": [
+        "4 Articles/Charalambos2004-ed.md"
+      ]
+    },
+    "technology_integration": {
+      "count": 1,
+      "files": [
+        "4 Articles/Charalambos2004-ed.md"
+      ]
+    },
+    "tpd": {
+      "count": 2,
+      "files": [
+        "4 Articles/Charalambos2004-ed.md",
+        "4 Articles/Chaipidech2022-he.md"
+      ]
+    },
+    "constructivist_learning": {
+      "count": 1,
+      "files": [
+        "4 Articles/Charalambos2004-ed.md"
+      ]
+    },
+    "situated_cognition": {
+      "count": 1,
+      "files": [
+        "4 Articles/Charalambos2004-ed.md"
+      ]
+    },
+    "distributed_cognition": {
+      "count": 3,
+      "files": [
+        "4 Articles/Charalambos2004-ed.md",
+        "4 Articles/Salomon2003-wb.md",
+        "4 Articles/Boden2016-qc.md"
+      ]
+    },
+    "lessons_learned": {
+      "count": 1,
+      "files": [
+        "4 Articles/Charalambos2004-ed.md"
+      ]
+    },
+    "constructivism": {
+      "count": 1,
+      "files": [
+        "4 Articles/Charalambos2004-ed.md"
+      ]
+    },
+    "technology_adoption": {
+      "count": 2,
+      "files": [
+        "4 Articles/Player-Koro2012-ty.md",
+        "4 Articles/Schnaars2004-ib.md"
+      ]
+    },
+    "personalized_learning": {
+      "count": 9,
+      "files": [
+        "4 Articles/Pesovski2024-ua.md",
+        "4 Articles/Chaipidech2022-he.md",
+        "4 Articles/Chan2023-ev.md",
+        "4 Articles/Al_Shloul2024-ih.md",
+        "4 Articles/Pelletier2024-fa.md",
+        "4 Articles/Weigand2019-wx.md",
+        "4 Articles/Chen2020-vv.md",
+        "4 Articles/Urmeneta2024-cg.md",
+        "4 Articles/Alkhatlan2018-nk.md"
+      ]
+    },
+    "1": {
+      "count": 3,
+      "files": [
+        "4 Articles/Beaulieu2005-be.md",
+        "4 Articles/Engestrom2006-vi.md",
+        "4 Articles/Boyd2008-xz.md"
+      ]
+    },
+    "ICT_competence": {
+      "count": 1,
+      "files": [
+        "4 Articles/Lavonen2006-zw.md"
+      ]
+    },
+    "aied": {
+      "count": 17,
+      "files": [
+        "4 Articles/Yannier2024-al.md",
+        "4 Articles/Chaipidech2022-he.md",
+        "4 Articles/Selwyn2022-nr.md",
+        "4 Articles/Graesser2024-gn.md",
+        "4 Articles/Lebis2023-js.md",
+        "4 Articles/Cerratto_Pargman2024-im.md",
+        "4 Articles/Pelletier2024-fa.md",
+        "4 Articles/Celik2022-zu.md",
+        "4 Articles/Eynon2024-ql.md",
+        "4 Articles/Chen2020-vv.md",
+        "4 Articles/Rodrigo2024-rz.md",
+        "4 Articles/Holmes2024-np.md",
+        "4 Articles/Kizilcec2023-fc.md",
+        "4 Articles/Koedinger2024-jz.md",
+        "4 Articles/Farhi2023-lx.md",
+        "4 Articles/Selwyn2024-kh.md",
+        "4 Articles/Pelanek2024-hv.md"
+      ]
+    },
+    "intelligent_tutoring_systems": {
+      "count": 4,
+      "files": [
+        "4 Articles/Yannier2024-al.md",
+        "4 Articles/Chen2020-vv.md",
+        "4 Articles/Alkhatlan2018-nk.md",
+        "4 Articles/Koedinger2024-jz.md"
+      ]
+    },
+    "inquiry_based_learning": {
+      "count": 1,
+      "files": [
+        "4 Articles/Yannier2024-al.md"
+      ]
+    },
+    "Automatic_assessment": {
+      "count": 1,
+      "files": [
+        "4 Articles/Gao2024-xf.md"
+      ]
+    },
+    "social_learning": {
+      "count": 2,
+      "files": [
+        "4 Articles/Koschmann1999-fl.md",
+        "4 Articles/Brown2008-lg.md"
+      ]
+    },
+    "Generative_AI": {
+      "count": 3,
+      "files": [
+        "4 Articles/Collie2024-ty.md",
+        "4 Articles/Fleckenstein2024-ey.md",
+        "4 Articles/Moorhouse2024-jy.md"
+      ]
+    },
+    "assessment": {
+      "count": 13,
+      "files": [
+        "4 Articles/Haudek2023-vp.md",
+        "4 Articles/Hashemi2023-ax.md",
+        "4 Articles/Puntambekar2011-zp.md",
+        "4 Articles/Teplovs2007-yu.md",
+        "4 Articles/Schmidt2009-kt.md",
+        "4 Articles/Agostini2024-bt.md",
+        "4 Articles/Anderson1995-ts.md",
+        "4 Articles/Ning2024-zl.md",
+        "4 Articles/Ding2016-nr.md",
+        "4 Articles/Shute2017-zl.md",
+        "4 Articles/Jobe2014-tp.md",
+        "4 Articles/Forsberg2012-eg.md",
+        "4 Articles/Chang2001-vq.md"
+      ]
+    },
+    "evaluation": {
+      "count": 2,
+      "files": [
+        "4 Articles/Haudek2023-vp.md",
+        "4 Articles/Gerstein2011-fc.md"
+      ]
+    },
+    "machine_learning": {
+      "count": 10,
+      "files": [
+        "4 Articles/Haudek2023-vp.md",
+        "4 Articles/Horbach2023-ns.md",
+        "4 Articles/Mason2023-dx.md",
+        "4 Articles/Alnasyan2024-xh.md",
+        "4 Articles/Celik2022-zu.md",
+        "4 Articles/Dillenbourg1999-ca.md",
+        "4 Articles/Ucar2024-qo.md",
+        "4 Articles/Xu2023-dr.md",
+        "4 Articles/Idowu2024-dy.md",
+        "4 Articles/Boden2016-qc.md"
+      ]
+    },
+    "k_12_education": {
+      "count": 3,
+      "files": [
+        "4 Articles/Haudek2023-vp.md",
+        "4 Articles/Erol_Donmez_Fevzi_Inan2012-uq.md",
+        "4 Articles/Lee2024-zo.md"
+      ]
+    },
+    "research_ethics": {
+      "count": 5,
+      "files": [
+        "4 Articles/OConnor2010-jw.md",
+        "4 Articles/A_McKee2008-co.md",
+        "4 Articles/Frisoli2010-wt.md",
+        "4 Articles/Griffiths2010-ch.md",
+        "4 Articles/Lomborg2014-ku.md"
+      ]
+    },
+    "science_education": {
+      "count": 5,
+      "files": [
+        "4 Articles/Chaipidech2022-he.md",
+        "4 Articles/Furberg2008-wb.md",
+        "4 Articles/Willerman1991-ny.md",
+        "4 Articles/Hakkarainen2004-pu.md",
+        "4 Articles/Chase2011-rw.md"
+      ]
+    },
+    "tpack": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chaipidech2022-he.md"
+      ]
+    },
+    "andragogy": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chaipidech2022-he.md"
+      ]
+    },
+    "quantitative_research": {
+      "count": 3,
+      "files": [
+        "4 Articles/Chaipidech2022-he.md",
+        "4 Articles/Acosta-Enriquez2024-hn.md",
+        "4 Articles/Celik2023-cv.md"
+      ]
+    },
+    "in_service_teachers": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chaipidech2022-he.md"
+      ]
+    },
+    "Instructional_Design": {
+      "count": 1,
+      "files": [
+        "4 Articles/Sannino2009-ix.md"
+      ]
+    },
+    "Angeli_C": {
+      "count": 1,
+      "files": [
+        "4 Articles/Sannino2009-ix.md"
+      ]
+    },
+    "Technology_Integration": {
+      "count": 1,
+      "files": [
+        "4 Articles/Sannino2009-ix.md"
+      ]
+    },
+    "Valanides_N": {
+      "count": 1,
+      "files": [
+        "4 Articles/Sannino2009-ix.md"
+      ]
+    },
+    "ICT_TPCK": {
+      "count": 1,
+      "files": [
+        "4 Articles/Sannino2009-ix.md"
+      ]
+    },
+    "Teacher_Education": {
+      "count": 2,
+      "files": [
+        "4 Articles/Sannino2009-ix.md",
+        "4 Articles/Unknown2019-yg.md"
+      ]
+    },
+    "massively_multiplayer_online_games": {
+      "count": 2,
+      "files": [
+        "4 Articles/Nardi2006-es.md",
+        "4 Articles/Reynolds2010-cm.md"
+      ]
+    },
+    "genai": {
+      "count": 3,
+      "files": [
+        "4 Articles/Chan2023-ev.md",
+        "4 Articles/Chan2023-zd.md",
+        "4 Articles/Chapman2024-zi.md"
+      ]
+    },
+    "survey_research": {
+      "count": 3,
+      "files": [
+        "4 Articles/Chan2023-ev.md",
+        "4 Articles/Amoozadeh2023-me.md",
+        "4 Articles/Chan2023-zd.md"
+      ]
+    },
+    "policy_implications": {
+      "count": 2,
+      "files": [
+        "4 Articles/Chan2023-ev.md",
+        "4 Articles/Chan2023-zd.md"
+      ]
+    },
+    "student_perceptions": {
+      "count": 2,
+      "files": [
+        "4 Articles/Chan2023-ev.md",
+        "4 Articles/Amoozadeh2023-me.md"
+      ]
+    },
+    "chatgpt": {
+      "count": 9,
+      "files": [
+        "4 Articles/Chan2023-ev.md",
+        "4 Articles/Kajiwara2024-la.md",
+        "4 Articles/Al_Shloul2024-ih.md",
+        "4 Articles/Acosta-Enriquez2024-hn.md",
+        "4 Articles/El_Fathi2025-lz.md",
+        "4 Articles/Lee2024-ui.md",
+        "4 Articles/Adiguzel2023-zb.md",
+        "4 Articles/Celik2023-cv.md",
+        "4 Articles/Chapman2024-zi.md"
+      ]
+    },
+    "privacy_concerns": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chan2023-ev.md"
+      ]
+    },
+    "ethical_concerns": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chan2023-ev.md"
+      ]
+    },
+    "boundary_objects": {
+      "count": 1,
+      "files": [
+        "4 Articles/Leigh_Star2010-wx.md"
+      ]
+    },
+    "theoretical_framework": {
+      "count": 5,
+      "files": [
+        "4 Articles/Leigh_Star2010-wx.md",
+        "4 Articles/Wegerif2024-uc.md",
+        "4 Articles/Lynch1997-ho.md",
+        "4 Articles/Wertsch1994-bp.md",
+        "4 Articles/Engestrom2007-tw.md"
+      ]
+    },
+    "web_2": {
+      "count": 4,
+      "files": [
+        "4 Articles/Hedberg2008-mf.md",
+        "4 Articles/Brown2008-lg.md",
+        "4 Articles/Lankshear2007-jb.md",
+        "4 Articles/A_Hemmi2009-jb.md"
+      ]
+    },
+    "modding": {
+      "count": 2,
+      "files": [
+        "4 Articles/Hedberg2008-mf.md",
+        "4 Articles/Postigo2007-bf.md"
+      ]
+    },
+    "communities_of_practice": {
+      "count": 4,
+      "files": [
+        "4 Articles/Lindkvist2005-cb.md",
+        "4 Articles/Gee2000-wu.md",
+        "4 Articles/Lee2013-xv.md",
+        "4 Articles/Engestrom2007-tw.md"
+      ]
+    },
+    "organizational_learning": {
+      "count": 3,
+      "files": [
+        "4 Articles/Lindkvist2005-cb.md",
+        "4 Articles/Visser2003-ki.md",
+        "4 Articles/Engestrom2007-tw.md"
+      ]
+    },
+    "curriculum_design": {
+      "count": 4,
+      "files": [
+        "4 Articles/DePaula2001-yu.md",
+        "4 Articles/Kajiwara2024-la.md",
+        "4 Articles/Gerstein2011-fc.md",
+        "4 Articles/Lee2024-zo.md"
+      ]
+    },
+    "fair_use": {
+      "count": 1,
+      "files": [
+        "4 Articles/A_McKee2008-co.md"
+      ]
+    },
+    "digital_writing": {
+      "count": 1,
+      "files": [
+        "4 Articles/A_McKee2008-co.md"
+      ]
+    },
+    "informed_consent": {
+      "count": 1,
+      "files": [
+        "4 Articles/A_McKee2008-co.md"
+      ]
+    },
+    "media_convergence": {
+      "count": 1,
+      "files": [
+        "4 Articles/A_McKee2008-co.md"
+      ]
+    },
+    "digital_humanities": {
+      "count": 1,
+      "files": [
+        "4 Articles/A_McKee2008-co.md"
+      ]
+    },
+    "copyright": {
+      "count": 1,
+      "files": [
+        "4 Articles/A_McKee2008-co.md"
+      ]
+    },
+    "cognitive_science": {
+      "count": 2,
+      "files": [
+        "4 Articles/McNeil2025-bp.md",
+        "4 Articles/Bransford2014-qq.md"
+      ]
+    },
+    "mathematics_education": {
+      "count": 1,
+      "files": [
+        "4 Articles/McNeil2025-bp.md"
+      ]
+    },
+    "Selwyn_N": {
+      "count": 1,
+      "files": [
+        "4 Articles/Selwyn2022-nr.md"
+      ]
+    },
+    "AI_Ideology": {
+      "count": 1,
+      "files": [
+        "4 Articles/Selwyn2022-nr.md"
+      ]
+    },
+    "Environmental_Sustainability": {
+      "count": 1,
+      "files": [
+        "4 Articles/Selwyn2022-nr.md"
+      ]
+    },
+    "Critical_AI_Studies": {
+      "count": 1,
+      "files": [
+        "4 Articles/Selwyn2022-nr.md"
+      ]
+    },
+    "AI_Limitations": {
+      "count": 1,
+      "files": [
+        "4 Articles/Selwyn2022-nr.md"
+      ]
+    },
+    "AI_Social_Harms": {
+      "count": 1,
+      "files": [
+        "4 Articles/Selwyn2022-nr.md"
+      ]
+    },
+    "computer_supported_collaborative_learning": {
+      "count": 3,
+      "files": [
+        "4 Articles/Lymer2009-ds.md",
+        "4 Articles/Stahl2009-px.md",
+        "4 Articles/Arnseth2006-tg.md"
+      ]
+    },
+    "design_education": {
+      "count": 2,
+      "files": [
+        "4 Articles/Lymer2009-ds.md",
+        "4 Articles/Svensson2010-ed.md"
+      ]
+    },
+    "Description": {
+      "count": 1,
+      "files": [
+        "4 Articles/Dicks2011-qr.md"
+      ]
+    },
+    "AI_literacy": {
+      "count": 2,
+      "files": [
+        "4 Articles/Ayanwale2024-ir.md",
+        "4 Articles/Kajiwara2024-la.md"
+      ]
+    },
+    "human_computer_interaction": {
+      "count": 2,
+      "files": [
+        "4 Articles/Wegerif2024-uc.md",
+        "4 Articles/OMalley1996-gc.md"
+      ]
+    },
+    "activity_theory": {
+      "count": 3,
+      "files": [
+        "4 Articles/Wegerif2024-uc.md",
+        "4 Articles/Arnseth2006-tg.md",
+        "4 Articles/Engestrom2011-js.md"
+      ]
+    },
+    "cognitive_psychology": {
+      "count": 3,
+      "files": [
+        "4 Articles/Wegerif2024-uc.md",
+        "4 Articles/Salomon2003-wb.md",
+        "4 Articles/Wertsch1997-fl.md"
+      ]
+    },
+    "McGrath_C": {
+      "count": 3,
+      "files": [
+        "4 Articles/De_Bem_Machado2024-yw.md",
+        "4 Articles/Cerratto_Pargman2023-wv.md",
+        "4 Articles/Farazouli2024-pt.md"
+      ]
+    },
+    "Farazouli_A": {
+      "count": 3,
+      "files": [
+        "4 Articles/De_Bem_Machado2024-yw.md",
+        "4 Articles/Farazouli2024-pt.md",
+        "4 Articles/Farazouli2024-fj.md"
+      ]
+    },
+    "Cerratto_Pargman_T": {
+      "count": 2,
+      "files": [
+        "4 Articles/De_Bem_Machado2024-yw.md",
+        "4 Articles/Cerratto_Pargman2023-wv.md"
+      ]
+    },
+    "critical_analysis": {
+      "count": 2,
+      "files": [
+        "4 Articles/De_Bem_Machado2024-yw.md",
+        "4 Articles/Pelletier2024-fa.md"
+      ]
+    },
+    "Sporrong_E": {
+      "count": 1,
+      "files": [
+        "4 Articles/De_Bem_Machado2024-yw.md"
+      ]
+    },
+    "PhDChat": {
+      "count": 1,
+      "files": [
+        "4 Articles/Ford2014-yy.md"
+      ]
+    },
+    "PhDchat": {
+      "count": 1,
+      "files": [
+        "4 Articles/Ford2014-yy.md"
+      ]
+    },
+    "uence": {
+      "count": 1,
+      "files": [
+        "4 Articles/Clement2000-mm.md"
+      ]
+    },
+    "Edchat": {
+      "count": 1,
+      "files": [
+        "4 Articles/Britt2016-yr.md"
+      ]
+    },
+    "Markopoulos_P": {
+      "count": 1,
+      "files": [
+        "4 Articles/Barakova2023-xk.md"
+      ]
+    },
+    "Barakova_E": {
+      "count": 1,
+      "files": [
+        "4 Articles/Barakova2023-xk.md"
+      ]
+    },
+    "Kaipainen_K": {
+      "count": 1,
+      "files": [
+        "4 Articles/Barakova2023-xk.md"
+      ]
+    },
+    "V\u00e4\u00e4n\u00e4nen_K": {
+      "count": 1,
+      "files": [
+        "4 Articles/Barakova2023-xk.md"
+      ]
+    },
+    "educational_effectiveness": {
+      "count": 1,
+      "files": [
+        "4 Articles/Barakova2023-xk.md"
+      ]
+    },
+    "ethical_frameworks": {
+      "count": 2,
+      "files": [
+        "4 Articles/Cerratto_Pargman2023-wv.md",
+        "4 Articles/Carusi2008-tf.md"
+      ]
+    },
+    "Knight_S": {
+      "count": 1,
+      "files": [
+        "4 Articles/Cerratto_Pargman2023-wv.md"
+      ]
+    },
+    "Viberg_O": {
+      "count": 1,
+      "files": [
+        "4 Articles/Cerratto_Pargman2023-wv.md"
+      ]
+    },
+    "ai_literacy": {
+      "count": 5,
+      "files": [
+        "4 Articles/Kajiwara2024-la.md",
+        "4 Articles/Acosta-Enriquez2024-hn.md",
+        "4 Articles/Knoth2024-ta.md",
+        "4 Articles/Weigand2019-wx.md",
+        "4 Articles/Celik2023-cv.md"
+      ]
+    },
+    "educational_intervention": {
+      "count": 2,
+      "files": [
+        "4 Articles/Kajiwara2024-la.md",
+        "4 Articles/El_Fathi2025-lz.md"
+      ]
+    },
+    "technology_acceptance": {
+      "count": 2,
+      "files": [
+        "4 Articles/Kajiwara2024-la.md",
+        "4 Articles/Acosta-Enriquez2024-hn.md"
+      ]
+    },
+    "sustainability": {
+      "count": 1,
+      "files": [
+        "4 Articles/unep2017-yr.md"
+      ]
+    },
+    "commentary": {
+      "count": 7,
+      "files": [
+        "4 Articles/Graesser2024-gn.md",
+        "4 Articles/Pelletier2024-fa.md",
+        "4 Articles/Linell2007-qj.md",
+        "4 Articles/Greenhow2009-kd.md",
+        "4 Articles/Rodrigo2024-rz.md",
+        "4 Articles/Holmes2024-np.md",
+        "4 Articles/Selwyn2024-kh.md"
+      ]
+    },
+    "AI_ethics": {
+      "count": 3,
+      "files": [
+        "4 Articles/Graesser2024-gn.md",
+        "4 Articles/James2007-ly.md",
+        "4 Articles/Koedinger2024-jz.md"
+      ]
+    },
+    "practice_theory": {
+      "count": 1,
+      "files": [
+        "4 Articles/Lynch1997-ho.md"
+      ]
+    },
+    "social_theory": {
+      "count": 3,
+      "files": [
+        "4 Articles/Lynch1997-ho.md",
+        "4 Articles/Castells1996-kt.md",
+        "4 Articles/Heath2017-ef.md"
+      ]
+    },
+    "educational_psychology": {
+      "count": 4,
+      "files": [
+        "4 Articles/Salomon2003-wb.md",
+        "4 Articles/Muhonen2024-zf.md",
+        "4 Articles/Bransford2014-qq.md",
+        "4 Articles/Hoadley2004-bx.md"
+      ]
+    },
+    "Generative_artificial_intelligence": {
+      "count": 2,
+      "files": [
+        "4 Articles/Chiu2024-gi.md",
+        "4 Articles/Gupta2024-bn.md"
+      ]
+    },
+    "Majlesi_AR": {
+      "count": 1,
+      "files": [
+        "4 Articles/Guneysu_Ozgur2022-qo.md"
+      ]
+    },
+    "multiplayer_games": {
+      "count": 1,
+      "files": [
+        "4 Articles/Guneysu_Ozgur2022-qo.md"
+      ]
+    },
+    "Kuoppamaki_S": {
+      "count": 1,
+      "files": [
+        "4 Articles/Guneysu_Ozgur2022-qo.md"
+      ]
+    },
+    "quote_motivation": {
+      "count": 2,
+      "files": [
+        "4 Articles/Guneysu_Ozgur2022-qo.md",
+        "4 Articles/Skantze2021-ht.md"
+      ]
+    },
+    "quote_finding": {
+      "count": 4,
+      "files": [
+        "4 Articles/Guneysu_Ozgur2022-qo.md",
+        "4 Articles/Suzen2020-zr.md",
+        "4 Articles/Farazouli2024-pt.md",
+        "4 Articles/Urmeneta2024-cg.md"
+      ]
+    },
+    "social_interaction": {
+      "count": 2,
+      "files": [
+        "4 Articles/Guneysu_Ozgur2022-qo.md",
+        "4 Articles/Baym2002-ox.md"
+      ]
+    },
+    "Guneysu_Ozgur_A": {
+      "count": 1,
+      "files": [
+        "4 Articles/Guneysu_Ozgur2022-qo.md"
+      ]
+    },
+    "Meijer_S": {
+      "count": 1,
+      "files": [
+        "4 Articles/Guneysu_Ozgur2022-qo.md"
+      ]
+    },
+    "Leite_I": {
+      "count": 1,
+      "files": [
+        "4 Articles/Guneysu_Ozgur2022-qo.md"
+      ]
+    },
+    "tangible_robotics": {
+      "count": 1,
+      "files": [
+        "4 Articles/Guneysu_Ozgur2022-qo.md"
+      ]
+    },
+    "sample_size_limitation": {
+      "count": 2,
+      "files": [
+        "4 Articles/Guneysu_Ozgur2022-qo.md",
+        "4 Articles/Farazouli2024-pt.md"
+      ]
+    },
+    "Taburet_V": {
+      "count": 1,
+      "files": [
+        "4 Articles/Guneysu_Ozgur2022-qo.md"
+      ]
+    },
+    "digital_competence": {
+      "count": 2,
+      "files": [
+        "4 Articles/Willermark2023-dl.md",
+        "4 Articles/Lofving2024-bt.md"
+      ]
+    },
+    "digitalization": {
+      "count": 2,
+      "files": [
+        "4 Articles/Willermark2023-dl.md",
+        "4 Articles/Digitaliseringskommissionen2016-rn.md"
+      ]
+    },
+    "educational_policy": {
+      "count": 2,
+      "files": [
+        "4 Articles/Willermark2023-dl.md",
+        "4 Articles/Skolverket2011-cl.md"
+      ]
+    },
+    "covid_19": {
+      "count": 3,
+      "files": [
+        "4 Articles/Hogan2023-ua.md",
+        "4 Articles/Jia2024-hx.md",
+        "4 Articles/Swist2024-zm.md"
+      ]
+    },
+    "professional_learning": {
+      "count": 1,
+      "files": [
+        "4 Articles/Netolicky2016-fa.md"
+      ]
+    },
+    "professional_identity": {
+      "count": 1,
+      "files": [
+        "4 Articles/Netolicky2016-fa.md"
+      ]
+    },
+    "digital_learning": {
+      "count": 2,
+      "files": [
+        "4 Articles/Santana_Lisboa2013-hj.md",
+        "4 Articles/Greenhow2009-kd.md"
+      ]
+    },
+    "interactive_learning": {
+      "count": 1,
+      "files": [
+        "4 Articles/Al_Shloul2024-ih.md"
+      ]
+    },
+    "student_performance": {
+      "count": 1,
+      "files": [
+        "4 Articles/Al_Shloul2024-ih.md"
+      ]
+    },
+    "activity_based_learning": {
+      "count": 1,
+      "files": [
+        "4 Articles/Al_Shloul2024-ih.md"
+      ]
+    },
+    "active_learning": {
+      "count": 1,
+      "files": [
+        "4 Articles/Al_Shloul2024-ih.md"
+      ]
+    },
+    "ai_in_education": {
+      "count": 2,
+      "files": [
+        "4 Articles/Al_Shloul2024-ih.md",
+        "4 Articles/Alkhatlan2018-nk.md"
+      ]
+    },
+    "comparative_study": {
+      "count": 2,
+      "files": [
+        "4 Articles/Al_Shloul2024-ih.md",
+        "4 Articles/Chang2001-vq.md"
+      ]
+    },
+    "formative_feedback": {
+      "count": 2,
+      "files": [
+        "4 Articles/Morris2024-tx.md",
+        "4 Articles/Chang2001-vq.md"
+      ]
+    },
+    "llm": {
+      "count": 2,
+      "files": [
+        "4 Articles/Morris2024-tx.md",
+        "4 Articles/Knoth2024-ta.md"
+      ]
+    },
+    "planetary_scale_systems": {
+      "count": 1,
+      "files": [
+        "4 Articles/Jordan2019-ub.md"
+      ]
+    },
+    "data_provenance": {
+      "count": 1,
+      "files": [
+        "4 Articles/Jordan2019-ub.md"
+      ]
+    },
+    "quote_conclusion": {
+      "count": 2,
+      "files": [
+        "4 Articles/Jordan2019-ub.md",
+        "4 Articles/Urmeneta2024-cg.md"
+      ]
+    },
+    "Jordan_MI": {
+      "count": 1,
+      "files": [
+        "4 Articles/Jordan2019-ub.md"
+      ]
+    },
+    "intelligent_infrastructure": {
+      "count": 1,
+      "files": [
+        "4 Articles/Jordan2019-ub.md"
+      ]
+    },
+    "deep_learning": {
+      "count": 2,
+      "files": [
+        "4 Articles/Alnasyan2024-xh.md",
+        "4 Articles/Chen2020-vv.md"
+      ]
+    },
+    "lms": {
+      "count": 1,
+      "files": [
+        "4 Articles/Alnasyan2024-xh.md"
+      ]
+    },
+    "predictive_modeling": {
+      "count": 1,
+      "files": [
+        "4 Articles/Alnasyan2024-xh.md"
+      ]
+    },
+    "student_performance_prediction": {
+      "count": 1,
+      "files": [
+        "4 Articles/Alnasyan2024-xh.md"
+      ]
+    },
+    "learning_analytics": {
+      "count": 3,
+      "files": [
+        "4 Articles/Alnasyan2024-xh.md",
+        "4 Articles/Swist2024-zm.md",
+        "4 Articles/Ferguson2013-yf.md"
+      ]
+    },
+    "Deep_Learning": {
+      "count": 1,
+      "files": [
+        "4 Articles/Alnasyan2024-xh.md"
+      ]
+    },
+    "virtual_learning_environments": {
+      "count": 1,
+      "files": [
+        "4 Articles/Alnasyan2024-xh.md"
+      ]
+    },
+    "educational_data_mining": {
+      "count": 1,
+      "files": [
+        "4 Articles/Alnasyan2024-xh.md"
+      ]
+    },
+    "hypothesis_formation": {
+      "count": 2,
+      "files": [
+        "4 Articles/Johansson2023-dt.md",
+        "4 Articles/Johansson2024-bv.md"
+      ]
+    },
+    "confidence_values": {
+      "count": 1,
+      "files": [
+        "4 Articles/Johansson2023-dt.md"
+      ]
+    },
+    "quote_significance": {
+      "count": 2,
+      "files": [
+        "4 Articles/Johansson2023-dt.md",
+        "4 Articles/Wang2018-dx.md"
+      ]
+    },
+    "Lofthouse_T": {
+      "count": 2,
+      "files": [
+        "4 Articles/Johansson2023-dt.md",
+        "4 Articles/Johansson2024-ig.md"
+      ]
+    },
+    "Hammer_P": {
+      "count": 4,
+      "files": [
+        "4 Articles/Johansson2023-dt.md",
+        "4 Articles/Johansson2024-ig.md",
+        "4 Articles/Hammer2022-xl.md",
+        "4 Articles/Wang2018-dx.md"
+      ]
+    },
+    "matching_to_sample": {
+      "count": 1,
+      "files": [
+        "4 Articles/Johansson2023-dt.md"
+      ]
+    },
+    "identity_matching": {
+      "count": 2,
+      "files": [
+        "4 Articles/Johansson2023-dt.md",
+        "4 Articles/Johansson2024-ig.md"
+      ]
+    },
+    "informal_learning": {
+      "count": 3,
+      "files": [
+        "4 Articles/Downes2010-xk.md",
+        "4 Articles/Barron2006-rj.md",
+        "4 Articles/A_Fields2009-ai.md"
+      ]
+    },
+    "emerging_technologies": {
+      "count": 2,
+      "files": [
+        "4 Articles/Downes2010-xk.md",
+        "4 Articles/Siemens2009-ac.md"
+      ]
+    },
+    "self_directed_learning": {
+      "count": 2,
+      "files": [
+        "4 Articles/Barron2006-rj.md",
+        "4 Articles/Robertson2011-ux.md"
+      ]
+    },
+    "literacy": {
+      "count": 3,
+      "files": [
+        "4 Articles/Nichols2023-ij.md",
+        "4 Articles/Knutsson2012-cp.md",
+        "4 Articles/Klein2006-rc.md"
+      ]
+    },
+    "editorial": {
+      "count": 2,
+      "files": [
+        "4 Articles/Stahl2009-px.md",
+        "4 Articles/noauthor_2024-ob.md"
+      ]
+    },
+    "discourse_analysis": {
+      "count": 4,
+      "files": [
+        "4 Articles/Jefferson2004-nt.md",
+        "4 Articles/Engestrom2011-js.md",
+        "4 Articles/Ravenscroft2008-ac.md",
+        "4 Articles/Trausan-Matu2021-nm.md"
+      ]
+    },
+    "research_methodology": {
+      "count": 12,
+      "files": [
+        "4 Articles/Jefferson2004-nt.md",
+        "4 Articles/Barab2004-fh.md",
+        "4 Articles/Bereiter2002-sj.md",
+        "4 Articles/Muhonen2024-zf.md",
+        "4 Articles/Lykke2009-ya.md",
+        "4 Articles/Pearce2010-jz.md",
+        "4 Articles/Kumpulainen2009-sh.md",
+        "4 Articles/Arbuckle2016-te.md",
+        "4 Articles/Markham2011-vk.md",
+        "4 Articles/Greenhow2009-kd.md",
+        "4 Articles/Hoadley2004-bx.md",
+        "4 Articles/Conway2003-xh.md"
+      ]
+    },
+    "conversation_analysis": {
+      "count": 4,
+      "files": [
+        "4 Articles/Jefferson2004-nt.md",
+        "4 Articles/Macbeth2011-qw.md",
+        "4 Articles/Pearce2010-jz.md",
+        "4 Articles/Trausan-Matu2021-nm.md"
+      ]
+    },
+    "Suzen_N": {
+      "count": 1,
+      "files": [
+        "4 Articles/Suzen2020-zr.md"
+      ]
+    },
+    "supervised_learning": {
+      "count": 1,
+      "files": [
+        "4 Articles/Suzen2020-zr.md"
+      ]
+    },
+    "k_means_clustering": {
+      "count": 1,
+      "files": [
+        "4 Articles/Suzen2020-zr.md"
+      ]
+    },
+    "Levesley_J": {
+      "count": 1,
+      "files": [
+        "4 Articles/Suzen2020-zr.md"
+      ]
+    },
+    "Gorban_AN": {
+      "count": 1,
+      "files": [
+        "4 Articles/Suzen2020-zr.md"
+      ]
+    },
+    "Mirkes_EM": {
+      "count": 1,
+      "files": [
+        "4 Articles/Suzen2020-zr.md"
+      ]
+    },
+    "educational_games": {
+      "count": 2,
+      "files": [
+        "4 Articles/Barendregt2013-ip.md",
+        "4 Articles/Egenfeldt-Nielsen2006-yw.md"
+      ]
+    },
+    "networked_learning": {
+      "count": 2,
+      "files": [
+        "4 Articles/Toikkanen2011-mz.md",
+        "4 Articles/Musselbrook2000-xj.md"
+      ]
+    },
+    "from_paperpile": {
+      "count": 7,
+      "files": [
+        "4 Articles/Unknown2022-rb.md",
+        "4 Articles/Kumar2008-hn.md",
+        "4 Articles/Unknown2019-yg.md",
+        "4 Articles/noauthor_2024-yb.md",
+        "4 Articles/Greenhow2009-kd.md",
+        "4 Articles/Owston2009-py.md",
+        "4 Articles/Skolverket2020-xx.md"
+      ]
+    },
+    "Ji_S": {
+      "count": 1,
+      "files": [
+        "4 Articles/Unknown2022-rb.md"
+      ]
+    },
+    "Yuan_T": {
+      "count": 1,
+      "files": [
+        "4 Articles/Unknown2022-rb.md"
+      ]
+    },
+    "9": {
+      "count": 1,
+      "files": [
+        "4 Articles/Davies1999-gn.md"
+      ]
+    },
+    "Skantze_G": {
+      "count": 1,
+      "files": [
+        "4 Articles/Skantze2021-ht.md"
+      ]
+    },
+    "continuous_models": {
+      "count": 1,
+      "files": [
+        "4 Articles/Skantze2021-ht.md"
+      ]
+    },
+    "quote_future": {
+      "count": 1,
+      "files": [
+        "4 Articles/Skantze2021-ht.md"
+      ]
+    },
+    "multimodal_interaction": {
+      "count": 1,
+      "files": [
+        "4 Articles/Skantze2021-ht.md"
+      ]
+    },
+    "llms": {
+      "count": 1,
+      "files": [
+        "4 Articles/Agostini2024-bt.md"
+      ]
+    },
+    "feedback": {
+      "count": 1,
+      "files": [
+        "4 Articles/Agostini2024-bt.md"
+      ]
+    },
+    "organizational_change": {
+      "count": 2,
+      "files": [
+        "4 Articles/Lofving2024-bt.md",
+        "4 Articles/Engestrom2011-js.md"
+      ]
+    },
+    "teacher_professional_development": {
+      "count": 2,
+      "files": [
+        "4 Articles/Lofving2024-bt.md",
+        "4 Articles/Miettinen1999-pi.md"
+      ]
+    },
+    "secondary_education": {
+      "count": 2,
+      "files": [
+        "4 Articles/Lofving2024-bt.md",
+        "4 Articles/Lee2024-zo.md"
+      ]
+    },
+    "learning_sciences": {
+      "count": 4,
+      "files": [
+        "4 Articles/Lebis2023-js.md",
+        "4 Articles/Gee2000-wu.md",
+        "4 Articles/noauthor_2024-ob.md",
+        "4 Articles/Ravenscroft2008-ac.md"
+      ]
+    },
+    "online_interviewing": {
+      "count": 2,
+      "files": [
+        "4 Articles/Hanna2012-cu.md",
+        "4 Articles/Frisoli2010-wt.md"
+      ]
+    },
+    "cerratto_pargman_t": {
+      "count": 1,
+      "files": [
+        "4 Articles/Farazouli2024-pt.md"
+      ]
+    },
+    "student_attitudes": {
+      "count": 1,
+      "files": [
+        "4 Articles/Acosta-Enriquez2024-hn.md"
+      ]
+    },
+    "academic_integrity": {
+      "count": 3,
+      "files": [
+        "4 Articles/Acosta-Enriquez2024-hn.md",
+        "4 Articles/Lee2024-ui.md",
+        "4 Articles/Chapman2024-zi.md"
+      ]
+    },
+    "responsible_ai_use": {
+      "count": 2,
+      "files": [
+        "4 Articles/Acosta-Enriquez2024-hn.md",
+        "4 Articles/Chan2023-zd.md"
+      ]
+    },
+    "EdChat": {
+      "count": 2,
+      "files": [
+        "4 Articles/Erol_Donmez_Fevzi_Inan2012-uq.md",
+        "4 Articles/Davis2015-fo.md"
+      ]
+    },
+    "educational_automation": {
+      "count": 2,
+      "files": [
+        "4 Articles/Petrina2004-fk.md",
+        "4 Articles/Farazouli2024-fj.md"
+      ]
+    },
+    "Petrina_S": {
+      "count": 1,
+      "files": [
+        "4 Articles/Petrina2004-fk.md"
+      ]
+    },
+    "educational_reform": {
+      "count": 2,
+      "files": [
+        "4 Articles/Petrina2004-fk.md",
+        "4 Articles/Broadfoot2009-ek.md"
+      ]
+    },
+    "prompt_engineering": {
+      "count": 2,
+      "files": [
+        "4 Articles/Knoth2024-ta.md",
+        "4 Articles/De_Paoli2024-mt.md"
+      ]
+    },
+    "human_ai_interaction": {
+      "count": 1,
+      "files": [
+        "4 Articles/Knoth2024-ta.md"
+      ]
+    },
+    "Large_language_model": {
+      "count": 1,
+      "files": [
+        "4 Articles/Knoth2024-ta.md"
+      ]
+    },
+    "Classroom_observation": {
+      "count": 1,
+      "files": [
+        "4 Articles/Tengberg2024-hy.md"
+      ]
+    },
+    "dialogic_approach": {
+      "count": 2,
+      "files": [
+        "4 Articles/Silseth2011-pa.md",
+        "4 Articles/Arnseth2006-tg.md"
+      ]
+    },
+    "sociocultural_theory": {
+      "count": 2,
+      "files": [
+        "4 Articles/Silseth2011-pa.md",
+        "4 Articles/Wertsch1994-bp.md"
+      ]
+    },
+    "educational_design": {
+      "count": 2,
+      "files": [
+        "4 Articles/Barab2004-fh.md",
+        "4 Articles/Conole2010-gj.md"
+      ]
+    },
+    "design_based_research": {
+      "count": 2,
+      "files": [
+        "4 Articles/Barab2004-fh.md",
+        "4 Articles/Hoadley2004-bx.md"
+      ]
+    },
+    "oklaed": {
+      "count": 1,
+      "files": [
+        "4 Articles/Asino2016-yr.md"
+      ]
+    },
+    "professional_learning_networks": {
+      "count": 1,
+      "files": [
+        "4 Articles/Lee2013-xv.md"
+      ]
+    },
+    "student_learning": {
+      "count": 1,
+      "files": [
+        "4 Articles/Cerratto_Pargman2024-im.md"
+      ]
+    },
+    "teaching_practices": {
+      "count": 1,
+      "files": [
+        "4 Articles/Cerratto_Pargman2024-im.md"
+      ]
+    },
+    "students_as_civic_actors": {
+      "count": 1,
+      "files": [
+        "4 Articles/Cerratto_Pargman2024-im.md"
+      ]
+    },
+    "human_technology_mediations": {
+      "count": 1,
+      "files": [
+        "4 Articles/Cerratto_Pargman2024-im.md"
+      ]
+    },
+    "critical_debate": {
+      "count": 1,
+      "files": [
+        "4 Articles/Cerratto_Pargman2024-im.md"
+      ]
+    },
+    "ai_chatbots": {
+      "count": 1,
+      "files": [
+        "4 Articles/Cerratto_Pargman2024-im.md"
+      ]
+    },
+    "trialogical_learning": {
+      "count": 2,
+      "files": [
+        "4 Articles/Hakkarainen2007-gx.md",
+        "4 Articles/Paavola2005-ml.md"
+      ]
+    },
+    "academic_performance": {
+      "count": 1,
+      "files": [
+        "4 Articles/Anderson1995-ts.md"
+      ]
+    },
+    "internet_research_ethics": {
+      "count": 4,
+      "files": [
+        "4 Articles/Grodzinsky2010-cl.md",
+        "4 Articles/Markham2011-vk.md",
+        "4 Articles/Carusi2008-tf.md",
+        "4 Articles/Reynolds2010-cm.md"
+      ]
+    },
+    "cs_education": {
+      "count": 1,
+      "files": [
+        "4 Articles/Amoozadeh2023-me.md"
+      ]
+    },
+    "genai_adoption": {
+      "count": 1,
+      "files": [
+        "4 Articles/Amoozadeh2023-me.md"
+      ]
+    },
+    "exploratory_study": {
+      "count": 1,
+      "files": [
+        "4 Articles/Amoozadeh2023-me.md"
+      ]
+    },
+    "trust_in_ai": {
+      "count": 1,
+      "files": [
+        "4 Articles/Amoozadeh2023-me.md"
+      ]
+    },
+    "student_confidence": {
+      "count": 1,
+      "files": [
+        "4 Articles/Amoozadeh2023-me.md"
+      ]
+    },
+    "learning_with_ai": {
+      "count": 1,
+      "files": [
+        "4 Articles/Amoozadeh2023-me.md"
+      ]
+    },
+    "Data_science_applications_in_education": {
+      "count": 1,
+      "files": [
+        "4 Articles/Xuan_Lam2024-fm.md"
+      ]
+    },
+    "knowledge_construction": {
+      "count": 2,
+      "files": [
+        "4 Articles/Arnseth2006-tg.md",
+        "4 Articles/DiSessa2014-ju.md"
+      ]
+    },
+    "folksonomy": {
+      "count": 2,
+      "files": [
+        "4 Articles/Peterson2006-nb.md",
+        "4 Articles/Hassan-Montero2006-tj.md"
+      ]
+    },
+    "metadata": {
+      "count": 2,
+      "files": [
+        "4 Articles/Peterson2006-nb.md",
+        "4 Articles/Mathes2014-rg.md"
+      ]
+    },
+    "information_organization": {
+      "count": 3,
+      "files": [
+        "4 Articles/Peterson2006-nb.md",
+        "4 Articles/Bowker2008-es.md",
+        "4 Articles/Mathes2014-rg.md"
+      ]
+    },
+    "question_answering": {
+      "count": 1,
+      "files": [
+        "4 Articles/Nam2009-oi.md"
+      ]
+    },
+    "educational_innovation": {
+      "count": 2,
+      "files": [
+        "4 Articles/Bereiter2002-sj.md",
+        "4 Articles/Miettinen1999-pi.md"
+      ]
+    },
+    "design_research": {
+      "count": 1,
+      "files": [
+        "4 Articles/Bereiter2002-sj.md"
+      ]
+    },
+    "Artificial_intelligence": {
+      "count": 3,
+      "files": [
+        "4 Articles/Li2024-fn.md",
+        "4 Articles/Zawacki-Richter2019-nk.md",
+        "4 Articles/Wang2024-uo.md"
+      ]
+    },
+    "concept_maps": {
+      "count": 2,
+      "files": [
+        "4 Articles/Cantu2007-va.md",
+        "4 Articles/Willerman1991-ny.md"
+      ]
+    },
+    "Katuk_N": {
+      "count": 1,
+      "files": [
+        "4 Articles/Nkambou2010-wu.md"
+      ]
+    },
+    "Ryu_H": {
+      "count": 1,
+      "files": [
+        "4 Articles/Nkambou2010-wu.md"
+      ]
+    },
+    "internet_research": {
+      "count": 1,
+      "files": [
+        "4 Articles/Griffiths2010-ch.md"
+      ]
+    },
+    "mediated_action": {
+      "count": 2,
+      "files": [
+        "4 Articles/Wertsch1994-bp.md",
+        "4 Articles/Wertsch1997-fl.md"
+      ]
+    },
+    "vygotsky": {
+      "count": 1,
+      "files": [
+        "4 Articles/Wertsch1994-bp.md"
+      ]
+    },
+    "educational_technology_research": {
+      "count": 2,
+      "files": [
+        "4 Articles/Muhonen2024-zf.md",
+        "4 Articles/Hsu2013-ra.md"
+      ]
+    },
+    "pragmatics": {
+      "count": 2,
+      "files": [
+        "4 Articles/Macbeth2011-qw.md",
+        "4 Articles/Steffensen2009-uh.md"
+      ]
+    },
+    "classroom_interaction": {
+      "count": 2,
+      "files": [
+        "4 Articles/Macbeth2011-qw.md",
+        "4 Articles/Kumpulainen2009-sh.md"
+      ]
+    },
+    "swedish_language": {
+      "count": 2,
+      "files": [
+        "4 Articles/Lykke2009-ya.md",
+        "4 Articles/Heath2017-ef.md"
+      ]
+    },
+    "bibliometric_analysis": {
+      "count": 1,
+      "files": [
+        "4 Articles/Olson2015-ci.md"
+      ]
+    },
+    "internet_of_things": {
+      "count": 2,
+      "files": [
+        "4 Articles/Olson2015-ci.md",
+        "4 Articles/Nolin2016-pj.md"
+      ]
+    },
+    "ubiquitous_computing": {
+      "count": 2,
+      "files": [
+        "4 Articles/Olson2015-ci.md",
+        "4 Articles/Nolin2016-pj.md"
+      ]
+    },
+    "teaching_planning": {
+      "count": 1,
+      "files": [
+        "4 Articles/Celik2022-zu.md"
+      ]
+    },
+    "teacher_roles": {
+      "count": 1,
+      "files": [
+        "4 Articles/Celik2022-zu.md"
+      ]
+    },
+    "teachers_and_ai": {
+      "count": 1,
+      "files": [
+        "4 Articles/Celik2022-zu.md"
+      ]
+    },
+    "Koh_J_H_L": {
+      "count": 1,
+      "files": [
+        "4 Articles/Unknown2019-yg.md"
+      ]
+    },
+    "Teo_Y_H": {
+      "count": 1,
+      "files": [
+        "4 Articles/Unknown2019-yg.md"
+      ]
+    },
+    "Teacher_Design_Beliefs": {
+      "count": 1,
+      "files": [
+        "4 Articles/Unknown2019-yg.md"
+      ]
+    },
+    "TPACK_21CQL": {
+      "count": 1,
+      "files": [
+        "4 Articles/Unknown2019-yg.md"
+      ]
+    },
+    "21st_Century_Learning": {
+      "count": 1,
+      "files": [
+        "4 Articles/Unknown2019-yg.md"
+      ]
+    },
+    "Chai_C_S": {
+      "count": 1,
+      "files": [
+        "4 Articles/Unknown2019-yg.md"
+      ]
+    },
+    "AI_Literacy": {
+      "count": 1,
+      "files": [
+        "4 Articles/Lane2023-mb.md"
+      ]
+    },
+    "ecological_psychology": {
+      "count": 1,
+      "files": [
+        "4 Articles/Steffensen2009-uh.md"
+      ]
+    },
+    "social_cognition": {
+      "count": 2,
+      "files": [
+        "4 Articles/Steffensen2009-uh.md",
+        "4 Articles/Gillespie2006-la.md"
+      ]
+    },
+    "instructional_design": {
+      "count": 1,
+      "files": [
+        "4 Articles/Willerman1991-ny.md"
+      ]
+    },
+    "text_mining": {
+      "count": 1,
+      "files": [
+        "4 Articles/Hsu2013-ra.md"
+      ]
+    },
+    "research_trends": {
+      "count": 1,
+      "files": [
+        "4 Articles/Hsu2013-ra.md"
+      ]
+    },
+    "educational_commercialization": {
+      "count": 1,
+      "files": [
+        "4 Articles/Weigand2019-wx.md"
+      ]
+    },
+    "Holmes_W": {
+      "count": 1,
+      "files": [
+        "4 Articles/Weigand2019-wx.md"
+      ]
+    },
+    "teacher_disempowerment": {
+      "count": 1,
+      "files": [
+        "4 Articles/Weigand2019-wx.md"
+      ]
+    },
+    "data_analysis": {
+      "count": 2,
+      "files": [
+        "4 Articles/Roni2014-xl.md",
+        "4 Articles/Arbuckle2016-te.md"
+      ]
+    },
+    "statistical_software": {
+      "count": 2,
+      "files": [
+        "4 Articles/Roni2014-xl.md",
+        "4 Articles/Arbuckle2016-te.md"
+      ]
+    },
+    "spss": {
+      "count": 2,
+      "files": [
+        "4 Articles/Roni2014-xl.md",
+        "4 Articles/Arbuckle2016-te.md"
+      ]
+    },
+    "infrastructure_studies": {
+      "count": 2,
+      "files": [
+        "4 Articles/Bowker2008-es.md",
+        "4 Articles/Guribye2015-pu.md"
+      ]
+    },
+    "qualitative_research_methods": {
+      "count": 2,
+      "files": [
+        "4 Articles/Kumpulainen2009-sh.md",
+        "4 Articles/Trausan-Matu2021-nm.md"
+      ]
+    },
+    "relational_ethics_approach": {
+      "count": 1,
+      "files": [
+        "4 Articles/Farazouli2024-fj.md"
+      ]
+    },
+    "lFig5": {
+      "count": 1,
+      "files": [
+        "4 Articles/Flasinski2016-rx.md"
+      ]
+    },
+    "ai_definition_2017": {
+      "count": 1,
+      "files": [
+        "4 Articles/Flasinski2016-rx.md"
+      ]
+    },
+    "quote_definition": {
+      "count": 2,
+      "files": [
+        "4 Articles/Flasinski2016-rx.md",
+        "4 Articles/Wang2023-iz.md"
+      ]
+    },
+    "lFn7": {
+      "count": 1,
+      "files": [
+        "4 Articles/Flasinski2016-rx.md"
+      ]
+    },
+    "lFn8": {
+      "count": 1,
+      "files": [
+        "4 Articles/Flasinski2016-rx.md"
+      ]
+    },
+    "lFig6": {
+      "count": 1,
+      "files": [
+        "4 Articles/Flasinski2016-rx.md"
+      ]
+    },
+    "machine_consciousness": {
+      "count": 2,
+      "files": [
+        "4 Articles/Flasinski2016-rx.md",
+        "4 Articles/Boden2016-qc.md"
+      ]
+    },
+    "lFPar8": {
+      "count": 1,
+      "files": [
+        "4 Articles/Flasinski2016-rx.md"
+      ]
+    },
+    "braitenberg_vehicles": {
+      "count": 1,
+      "files": [
+        "4 Articles/Flasinski2016-rx.md"
+      ]
+    },
+    "lFig7": {
+      "count": 1,
+      "files": [
+        "4 Articles/Flasinski2016-rx.md"
+      ]
+    },
+    "chatterbot_systems": {
+      "count": 1,
+      "files": [
+        "4 Articles/Flasinski2016-rx.md"
+      ]
+    },
+    "lSec9": {
+      "count": 1,
+      "files": [
+        "4 Articles/Flasinski2016-rx.md"
+      ]
+    },
+    "ch10chapter": {
+      "count": 1,
+      "files": [
+        "4 Articles/Flasinski2016-rx.md"
+      ]
+    },
+    "lFPar6": {
+      "count": 1,
+      "files": [
+        "4 Articles/Flasinski2016-rx.md"
+      ]
+    },
+    "lFig1": {
+      "count": 1,
+      "files": [
+        "4 Articles/Flasinski2016-rx.md"
+      ]
+    },
+    "Ertel_W": {
+      "count": 1,
+      "files": [
+        "4 Articles/Flasinski2016-rx.md"
+      ]
+    },
+    "ELSec7": {
+      "count": 1,
+      "files": [
+        "4 Articles/Flasinski2016-rx.md"
+      ]
+    },
+    "lFn6": {
+      "count": 1,
+      "files": [
+        "4 Articles/Flasinski2016-rx.md"
+      ]
+    },
+    "turing_test": {
+      "count": 2,
+      "files": [
+        "4 Articles/Flasinski2016-rx.md",
+        "4 Articles/Boden2016-qc.md"
+      ]
+    },
+    "Job_Polarization": {
+      "count": 1,
+      "files": [
+        "4 Articles/Autor2015-lv.md"
+      ]
+    },
+    "Labor_Markets": {
+      "count": 1,
+      "files": [
+        "4 Articles/Autor2015-lv.md"
+      ]
+    },
+    "Occupational_Change": {
+      "count": 1,
+      "files": [
+        "4 Articles/Autor2015-lv.md"
+      ]
+    },
+    "Automation": {
+      "count": 1,
+      "files": [
+        "4 Articles/Autor2015-lv.md"
+      ]
+    },
+    "Autor_D": {
+      "count": 1,
+      "files": [
+        "4 Articles/Autor2015-lv.md"
+      ]
+    },
+    "Complementarity": {
+      "count": 1,
+      "files": [
+        "4 Articles/Autor2015-lv.md"
+      ]
+    },
+    "Polanyi": {
+      "count": 1,
+      "files": [
+        "4 Articles/Autor2015-lv.md"
+      ]
+    },
+    "Skill_Biased_Technical_Change": {
+      "count": 1,
+      "files": [
+        "4 Articles/Autor2015-lv.md"
+      ]
+    },
+    "student_teacher_perspectives": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chan2023-zd.md"
+      ]
+    },
+    "student_optimism": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chan2023-zd.md"
+      ]
+    },
+    "generation_gap": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chan2023-zd.md"
+      ]
+    },
+    "mixed_methods": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chan2023-zd.md"
+      ]
+    },
+    "teacher_concerns": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chan2023-zd.md"
+      ]
+    },
+    "structural_equation_modeling": {
+      "count": 1,
+      "files": [
+        "4 Articles/Arbuckle2016-te.md"
+      ]
+    },
+    "human_ai_collaboration": {
+      "count": 1,
+      "files": [
+        "4 Articles/De_Paoli2024-mt.md"
+      ]
+    },
+    "quote_methodology": {
+      "count": 2,
+      "files": [
+        "4 Articles/De_Paoli2024-mt.md",
+        "4 Articles/Wang2023-iz.md"
+      ]
+    },
+    "inductive_analysis_2023": {
+      "count": 1,
+      "files": [
+        "4 Articles/De_Paoli2024-mt.md"
+      ]
+    },
+    "methodological_framework": {
+      "count": 1,
+      "files": [
+        "4 Articles/De_Paoli2024-mt.md"
+      ]
+    },
+    "qualitative_coding": {
+      "count": 1,
+      "files": [
+        "4 Articles/De_Paoli2024-mt.md"
+      ]
+    },
+    "DePaoli_S": {
+      "count": 1,
+      "files": [
+        "4 Articles/De_Paoli2024-mt.md"
+      ]
+    },
+    "token_limitation": {
+      "count": 1,
+      "files": [
+        "4 Articles/De_Paoli2024-mt.md"
+      ]
+    },
+    "sociology_of_education": {
+      "count": 2,
+      "files": [
+        "4 Articles/Hammersley2008-iz.md",
+        "4 Articles/Broadfoot2009-ek.md"
+      ]
+    },
+    "video_mediated_communication": {
+      "count": 2,
+      "files": [
+        "4 Articles/OMalley1996-gc.md",
+        "4 Articles/Kirk2010-ch.md"
+      ]
+    },
+    "teaching_strategies": {
+      "count": 1,
+      "files": [
+        "4 Articles/Mollick2023-bq.md"
+      ]
+    },
+    "llm_implementation": {
+      "count": 1,
+      "files": [
+        "4 Articles/Mollick2023-bq.md"
+      ]
+    },
+    "educational_ai_prompts": {
+      "count": 1,
+      "files": [
+        "4 Articles/Mollick2023-bq.md"
+      ]
+    },
+    "Mollick_L": {
+      "count": 1,
+      "files": [
+        "4 Articles/Mollick2023-bq.md"
+      ]
+    },
+    "ai_teaching_framework_2023": {
+      "count": 1,
+      "files": [
+        "4 Articles/Mollick2023-bq.md"
+      ]
+    },
+    "Mollick_E": {
+      "count": 1,
+      "files": [
+        "4 Articles/Mollick2023-bq.md"
+      ]
+    },
+    "swedish_education": {
+      "count": 1,
+      "files": [
+        "4 Articles/Beach2011-nm.md"
+      ]
+    },
+    "digital_ethics": {
+      "count": 1,
+      "files": [
+        "4 Articles/Markham2011-vk.md"
+      ]
+    },
+    "online_research": {
+      "count": 1,
+      "files": [
+        "4 Articles/Markham2011-vk.md"
+      ]
+    },
+    "Essay_mills": {
+      "count": 1,
+      "files": [
+        "4 Articles/Sweeney2023-ua.md"
+      ]
+    },
+    "educattentats": {
+      "count": 1,
+      "files": [
+        "4 Articles/Greenhalgh2016-me.md"
+      ]
+    },
+    "digital_games": {
+      "count": 1,
+      "files": [
+        "4 Articles/Postigo2007-bf.md"
+      ]
+    },
+    "OLeary_M": {
+      "count": 1,
+      "files": [
+        "4 Articles/Gardner2021-qa.md"
+      ]
+    },
+    "Yuan_L": {
+      "count": 1,
+      "files": [
+        "4 Articles/Gardner2021-qa.md"
+      ]
+    },
+    "Gardner_J": {
+      "count": 1,
+      "files": [
+        "4 Articles/Gardner2021-qa.md"
+      ]
+    },
+    "distance_education": {
+      "count": 1,
+      "files": [
+        "4 Articles/Ostashewski2010-kr.md"
+      ]
+    },
+    "21st_century_learning": {
+      "count": 1,
+      "files": [
+        "4 Articles/Fischer2013-ev.md"
+      ]
+    },
+    "collaborative_problem_solving": {
+      "count": 1,
+      "files": [
+        "4 Articles/Fischer2013-ev.md"
+      ]
+    },
+    "socio_technical_environments": {
+      "count": 1,
+      "files": [
+        "4 Articles/Fischer2013-ev.md"
+      ]
+    },
+    "Hu_Q": {
+      "count": 1,
+      "files": [
+        "4 Articles/Cui2022-ww.md"
+      ]
+    },
+    "Song_X": {
+      "count": 1,
+      "files": [
+        "4 Articles/Cui2022-ww.md"
+      ]
+    },
+    "Li_Y": {
+      "count": 1,
+      "files": [
+        "4 Articles/Cui2022-ww.md"
+      ]
+    },
+    "Khapre_S": {
+      "count": 1,
+      "files": [
+        "4 Articles/Cui2022-ww.md"
+      ]
+    },
+    "Sharma_P": {
+      "count": 1,
+      "files": [
+        "4 Articles/Cui2022-ww.md"
+      ]
+    },
+    "Cui_Y": {
+      "count": 1,
+      "files": [
+        "4 Articles/Cui2022-ww.md"
+      ]
+    },
+    "peer_learning": {
+      "count": 1,
+      "files": [
+        "4 Articles/A_Fields2009-ai.md"
+      ]
+    },
+    "virtual_worlds": {
+      "count": 1,
+      "files": [
+        "4 Articles/A_Fields2009-ai.md"
+      ]
+    },
+    "gaming_in_education": {
+      "count": 1,
+      "files": [
+        "4 Articles/A_Fields2009-ai.md"
+      ]
+    },
+    "connective_ethnography": {
+      "count": 1,
+      "files": [
+        "4 Articles/A_Fields2009-ai.md"
+      ]
+    },
+    "digital_tools": {
+      "count": 1,
+      "files": [
+        "4 Articles/Ravenscroft2008-ac.md"
+      ]
+    },
+    "opennars_applications": {
+      "count": 2,
+      "files": [
+        "4 Articles/Johansson2024-ig.md",
+        "4 Articles/Hammer2022-xl.md"
+      ]
+    },
+    "adaptive_behavior": {
+      "count": 2,
+      "files": [
+        "4 Articles/Johansson2024-ig.md",
+        "4 Articles/Johansson2024-bv.md"
+      ]
+    },
+    "behavioral_flexibility": {
+      "count": 1,
+      "files": [
+        "4 Articles/Johansson2024-ig.md"
+      ]
+    },
+    "stimulus_equivalence": {
+      "count": 2,
+      "files": [
+        "4 Articles/Johansson2024-ig.md",
+        "4 Articles/Johansson2019-ot.md"
+      ]
+    },
+    "pedagogy": {
+      "count": 2,
+      "files": [
+        "4 Articles/Scardamalia2005-lo.md",
+        "4 Articles/Siemens2009-ac.md"
+      ]
+    },
+    "responsible_ai": {
+      "count": 1,
+      "files": [
+        "4 Articles/Adiguzel2023-zb.md"
+      ]
+    },
+    "teaching_innovation": {
+      "count": 1,
+      "files": [
+        "4 Articles/Adiguzel2023-zb.md"
+      ]
+    },
+    "chatbots": {
+      "count": 1,
+      "files": [
+        "4 Articles/Adiguzel2023-zb.md"
+      ]
+    },
+    "Informatics_education": {
+      "count": 1,
+      "files": [
+        "4 Articles/Arcia2024-vv.md"
+      ]
+    },
+    "theory_practice_gap": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chen2020-vv.md"
+      ]
+    },
+    "literature_review": {
+      "count": 2,
+      "files": [
+        "4 Articles/Chen2020-vv.md",
+        "4 Articles/Alkhatlan2018-nk.md"
+      ]
+    },
+    "learning_networks": {
+      "count": 2,
+      "files": [
+        "4 Articles/Musselbrook2000-xj.md",
+        "4 Articles/Miettinen1999-pi.md"
+      ]
+    },
+    "sociocultural_analysis": {
+      "count": 2,
+      "files": [
+        "4 Articles/Guribye2015-pu.md",
+        "4 Articles/Wertsch1997-fl.md"
+      ]
+    },
+    "learning_artifacts": {
+      "count": 1,
+      "files": [
+        "4 Articles/Guribye2015-pu.md"
+      ]
+    },
+    "web_based_learning": {
+      "count": 1,
+      "files": [
+        "4 Articles/Ludvigsen2001-lc.md"
+      ]
+    },
+    "digital_transformation": {
+      "count": 2,
+      "files": [
+        "4 Articles/Digitaliseringskommissionen2016-rn.md",
+        "4 Articles/Heath2017-ef.md"
+      ]
+    },
+    "ai_supported_learning": {
+      "count": 1,
+      "files": [
+        "4 Articles/Urmeneta2024-cg.md"
+      ]
+    },
+    "ai_empowered_learning": {
+      "count": 1,
+      "files": [
+        "4 Articles/Urmeneta2024-cg.md"
+      ]
+    },
+    "multimodal_data_collection": {
+      "count": 1,
+      "files": [
+        "4 Articles/Urmeneta2024-cg.md"
+      ]
+    },
+    "aied_paradigms": {
+      "count": 1,
+      "files": [
+        "4 Articles/Urmeneta2024-cg.md"
+      ]
+    },
+    "learner_agency": {
+      "count": 1,
+      "files": [
+        "4 Articles/Urmeneta2024-cg.md"
+      ]
+    },
+    "Jiao_P": {
+      "count": 1,
+      "files": [
+        "4 Articles/Urmeneta2024-cg.md"
+      ]
+    },
+    "ai_directed_learning": {
+      "count": 1,
+      "files": [
+        "4 Articles/Urmeneta2024-cg.md"
+      ]
+    },
+    "limited_empirical_evidence": {
+      "count": 1,
+      "files": [
+        "4 Articles/Urmeneta2024-cg.md"
+      ]
+    },
+    "Ouyang_F": {
+      "count": 1,
+      "files": [
+        "4 Articles/Urmeneta2024-cg.md"
+      ]
+    },
+    "human_centered_ai": {
+      "count": 1,
+      "files": [
+        "4 Articles/Urmeneta2024-cg.md"
+      ]
+    },
+    "openNARS_applications": {
+      "count": 1,
+      "files": [
+        "4 Articles/Johansson2024-bv.md"
+      ]
+    },
+    "edchats": {
+      "count": 1,
+      "files": [
+        "4 Articles/Langhorst2001-tx.md"
+      ]
+    },
+    "blended_learning": {
+      "count": 1,
+      "files": [
+        "4 Articles/Cesareni2011-dk.md"
+      ]
+    },
+    "expert_novice_teachers": {
+      "count": 1,
+      "files": [
+        "4 Articles/Cesareni2011-dk.md"
+      ]
+    },
+    "its": {
+      "count": 1,
+      "files": [
+        "4 Articles/Alkhatlan2018-nk.md"
+      ]
+    },
+    "computer_assisted_instruction": {
+      "count": 1,
+      "files": [
+        "4 Articles/Alkhatlan2018-nk.md"
+      ]
+    },
+    "scaffold_effectiveness": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chang2001-vq.md"
+      ]
+    },
+    "learning_environments": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chang2001-vq.md"
+      ]
+    },
+    "concept_mapping": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chang2001-vq.md"
+      ]
+    },
+    "scaffolding": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chang2001-vq.md"
+      ]
+    },
+    "biology_education": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chang2001-vq.md"
+      ]
+    },
+    "computer_based_learning": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chang2001-vq.md"
+      ]
+    },
+    "WikiLeaks": {
+      "count": 1,
+      "files": [
+        "4 Articles/Lindgren2011-pq.md"
+      ]
+    },
+    "project_based_learning": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chase2011-rw.md"
+      ]
+    },
+    "multimodal_literacy": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chase2011-rw.md"
+      ]
+    },
+    "practical_implementation": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chase2011-rw.md"
+      ]
+    },
+    "civic_engagement": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chase2011-rw.md"
+      ]
+    },
+    "information_graphics": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chase2011-rw.md"
+      ]
+    },
+    "government_information": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chase2011-rw.md"
+      ]
+    },
+    "online_tools": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chase2011-rw.md"
+      ]
+    },
+    "education": {
+      "count": 1,
+      "files": [
+        "4 Articles/Koedinger2012-yo.md"
+      ]
+    },
+    "knowledge_representation": {
+      "count": 3,
+      "files": [
+        "4 Articles/Koedinger2012-yo.md",
+        "4 Articles/Wang2018-dx.md",
+        "4 Articles/Boden2016-qc.md"
+      ]
+    },
+    "Foundation_model": {
+      "count": 1,
+      "files": [
+        "4 Articles/Rossi2024-tv.md"
+      ]
+    },
+    "Slamene_R": {
+      "count": 1,
+      "files": [
+        "4 Articles/Farhi2023-lx.md"
+      ]
+    },
+    "Technology_Acceptance": {
+      "count": 1,
+      "files": [
+        "4 Articles/Farhi2023-lx.md"
+      ]
+    },
+    "Ethics": {
+      "count": 1,
+      "files": [
+        "4 Articles/Farhi2023-lx.md"
+      ]
+    },
+    "Higher_Education": {
+      "count": 1,
+      "files": [
+        "4 Articles/Farhi2023-lx.md"
+      ]
+    },
+    "Aburezeq_I": {
+      "count": 1,
+      "files": [
+        "4 Articles/Farhi2023-lx.md"
+      ]
+    },
+    "Artificial_Intelligence": {
+      "count": 1,
+      "files": [
+        "4 Articles/Farhi2023-lx.md"
+      ]
+    },
+    "Student_Perceptions": {
+      "count": 1,
+      "files": [
+        "4 Articles/Farhi2023-lx.md"
+      ]
+    },
+    "Jeljeli_R": {
+      "count": 1,
+      "files": [
+        "4 Articles/Farhi2023-lx.md"
+      ]
+    },
+    "Dweikat_FF": {
+      "count": 1,
+      "files": [
+        "4 Articles/Farhi2023-lx.md"
+      ]
+    },
+    "Farhi_F": {
+      "count": 1,
+      "files": [
+        "4 Articles/Farhi2023-lx.md"
+      ]
+    },
+    "open_education": {
+      "count": 1,
+      "files": [
+        "4 Articles/Brown2008-lg.md"
+      ]
+    },
+    "computational_thinking": {
+      "count": 1,
+      "files": [
+        "4 Articles/Celik2023-cv.md"
+      ]
+    },
+    "cognitive_absorption": {
+      "count": 1,
+      "files": [
+        "4 Articles/Celik2023-cv.md"
+      ]
+    },
+    "digital_skills": {
+      "count": 1,
+      "files": [
+        "4 Articles/Celik2023-cv.md"
+      ]
+    },
+    "ict_access": {
+      "count": 1,
+      "files": [
+        "4 Articles/Celik2023-cv.md"
+      ]
+    },
+    "Dikli_S": {
+      "count": 1,
+      "files": [
+        "4 Articles/Dikli2010-qh.md"
+      ]
+    },
+    "contextual_control": {
+      "count": 1,
+      "files": [
+        "4 Articles/Johansson2019-ot.md"
+      ]
+    },
+    "cognitive_development": {
+      "count": 1,
+      "files": [
+        "4 Articles/Johansson2019-ot.md"
+      ]
+    },
+    "intervention_design": {
+      "count": 1,
+      "files": [
+        "4 Articles/Hoadley2004-bx.md"
+      ]
+    },
+    "interpretive_methods": {
+      "count": 1,
+      "files": [
+        "4 Articles/A_N_Markham2005-vs.md"
+      ]
+    },
+    "fragmented_narrative": {
+      "count": 1,
+      "files": [
+        "4 Articles/A_N_Markham2005-vs.md"
+      ]
+    },
+    "bricolage": {
+      "count": 1,
+      "files": [
+        "4 Articles/A_N_Markham2005-vs.md"
+      ]
+    },
+    "writing_as_inquiry": {
+      "count": 1,
+      "files": [
+        "4 Articles/A_N_Markham2005-vs.md"
+      ]
+    },
+    "reflexivity": {
+      "count": 1,
+      "files": [
+        "4 Articles/A_N_Markham2005-vs.md"
+      ]
+    },
+    "narrative_inquiry": {
+      "count": 1,
+      "files": [
+        "4 Articles/A_N_Markham2005-vs.md"
+      ]
+    },
+    "self_organization": {
+      "count": 2,
+      "files": [
+        "4 Articles/Wang2018-dx.md",
+        "4 Articles/Wang2023-iz.md"
+      ]
+    },
+    "Li_X": {
+      "count": 1,
+      "files": [
+        "4 Articles/Wang2018-dx.md"
+      ]
+    },
+    "Wang_P": {
+      "count": 2,
+      "files": [
+        "4 Articles/Wang2018-dx.md",
+        "4 Articles/Wang2023-iz.md"
+      ]
+    },
+    "adaptive_intelligence": {
+      "count": 2,
+      "files": [
+        "4 Articles/Wang2018-dx.md",
+        "4 Articles/Wang2023-iz.md"
+      ]
+    },
+    "concept_centered_representation": {
+      "count": 1,
+      "files": [
+        "4 Articles/Wang2023-iz.md"
+      ]
+    },
+    "implementation_complexity": {
+      "count": 1,
+      "files": [
+        "4 Articles/Wang2023-iz.md"
+      ]
+    },
+    "educator_competence": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chapman2024-zi.md"
+      ]
+    },
+    "assessment_literacy": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chapman2024-zi.md"
+      ]
+    },
+    "aardvarc_framework": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chapman2024-zi.md"
+      ]
+    },
+    "innovative_assessment": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chapman2024-zi.md"
+      ]
+    },
+    "assessment_design": {
+      "count": 1,
+      "files": [
+        "4 Articles/Chapman2024-zi.md"
+      ]
+    },
+    "Study_strategies": {
+      "count": 1,
+      "files": [
+        "4 Articles/Bressane2024-dr.md"
+      ]
+    },
+    "dialogism": {
+      "count": 1,
+      "files": [
+        "4 Articles/Trausan-Matu2021-nm.md"
+      ]
+    },
+    "Secondary_education": {
+      "count": 1,
+      "files": [
+        "4 Articles/Meyer2024-he.md"
+      ]
+    },
+    "AI_education": {
+      "count": 1,
+      "files": [
+        "4 Articles/Sperling2024-xc.md"
+      ]
+    },
+    "virtual_ethnography": {
+      "count": 1,
+      "files": [
+        "4 Articles/A_Hemmi2009-jb.md"
+      ]
+    },
+    "wikis": {
+      "count": 1,
+      "files": [
+        "4 Articles/A_Hemmi2009-jb.md"
+      ]
+    },
+    "exploratory_factor_analysis": {
+      "count": 1,
+      "files": [
+        "4 Articles/Conway2003-xh.md"
+      ]
+    },
+    "quantitative_methods": {
+      "count": 1,
+      "files": [
+        "4 Articles/Conway2003-xh.md"
+      ]
+    },
+    "Boden_MA": {
+      "count": 1,
+      "files": [
+        "4 Articles/Boden2016-qc.md"
+      ]
+    },
+    "neural_networks": {
+      "count": 1,
+      "files": [
+        "4 Articles/Boden2016-qc.md"
+      ]
+    }
+  }
+}

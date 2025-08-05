@@ -1,0 +1,252 @@
+OBSIDIAN VAULT TAG ANALYSIS REPORT
+Generated: 2025-07-31 19:09:26
+
+SUMMARY
+- Total unique tags: 625
+- Total tag uses: 2712
+- Average uses per tag: 4.3
+
+TAG DISTRIBUTION
+- Single use tags: 233
+- Rare use (2-5): 331
+- Moderate use (6-20): 41
+- Common use (>20): 20
+
+MOST COMMON TAGS
+- #professional_development: 172 uses
+- #social_media: 135 uses
+- #chatgpt: 108 uses
+- #higher_education: 100 uses
+- #ethnography: 96 uses
+- #teacher_education: 74 uses
+- #sade: 62 uses
+- #k-12: 60 uses
+- #collaborative_learning: 58 uses
+- #twitter: 56 uses
+- #artificial_intelligence: 52 uses
+- #online_learning: 50 uses
+- #case_study: 49 uses
+- #moocs: 48 uses
+- #said: 39 uses
+- #perspective: 29 uses
+- #aied: 24 uses
+- #educational_technology: 23 uses
+- #research_methodology: 21 uses
+- #stem_education: 21 uses
+
+POTENTIAL DUPLICATES
+- 'automatic_assessment' <-> 'automated_assessment' (similarity: 90.00%)
+- 'human_ai_interaction' <-> 'human_machine_interaction' (similarity: 88.89%)
+- 'gardner_m' <-> 'gardner_j' (similarity: 88.89%)
+- 'mollick_e' <-> 'mollick_l' (similarity: 88.89%)
+- 'hammer_r' <-> 'hammer_p' (similarity: 87.50%)
+- 'game_based_learning' <-> 'web_based_learning' (similarity: 86.49%)
+- 'educational_technology' <-> 'educational_psychology' (similarity: 86.36%)
+- 'self_directed_learning' <-> 'ai_directed_learning' (similarity: 85.71%)
+
+STANDARDIZATION SUGGESTIONS
+- Change '#ict' -> '#information_communication_technology' (2 uses)
+- Change '#llm' -> '#large_language_models' (3 uses)
+
+================================================================================
+ADVANCED ANALYSIS
+================================================================================
+
+TEMPORAL TRENDS
+----------------------------------------
+
+Emerging Tags (gaining popularity):
+- #aied: 13/16 recent uses (first seen: 2019)
+- #ChatGPT: 7/7 recent uses (first seen: 2023)
+- #Artificial_intelligence: 6/6 recent uses (first seen: 2023)
+
+Declining Tags:
+- #professional_development: only 1/147 recent uses (peak: 2016)
+- #social_media: only 0/125 recent uses (peak: 2014)
+- #ethnography: only 7/93 recent uses (peak: 2010)
+- #higher_education: only 12/92 recent uses (peak: 2009)
+- #teacher_education: only 7/64 recent uses (peak: 2015)
+
+TAG RELATIONSHIPS
+----------------------------------------
+
+Strong Associations (tags that frequently appear together):
+- twitter <-> social_media (strength: 96.4%, co-occurs: 54 times)
+- k_12_education <-> k-12 (strength: 71.4%, co-occurs: 5 times)
+- commentary <-> aied (strength: 62.5%, co-occurs: 5 times)
+- k_12_education <-> online_learning (strength: 57.1%, co-occurs: 4 times)
+- educational_research <-> research_methodology (strength: 54.5%, co-occurs: 6 times)
+- qualitative_research <-> teacher_education (strength: 45.5%, co-occurs: 5 times)
+- qualitative_research <-> online_learning (strength: 36.4%, co-occurs: 4 times)
+- qualitative_research <-> professional_development (strength: 36.4%, co-occurs: 4 times)
+- online_learning <-> professional_development (strength: 34.0%, co-occurs: 17 times)
+- twitter <-> professional_development (strength: 33.9%, co-occurs: 19 times)
+- case_study <-> professional_development (strength: 32.7%, co-occurs: 16 times)
+
+TAG CLUSTERS (groups of related tags):
+
+BRIDGE TAGS (connecting multiple research areas):
+- #higher_education connects: education, research, professional, social, ai (40 connections)
+- #intelligent_tutoring_systems connects: education, research, professional, social, ai (33 connections)
+- #aied connects: education, research, professional, social, ai (53 connections)
+- #artificial_intelligence connects: education, research, professional, social, ai (92 connections)
+- #professional_development connects: education, research, professional, social, ai (55 connections)
+- #online_learning connects: education, research, professional, social, ai (35 connections)
+- #teacher_professional_development connects: education, research, professional, social, ai (24 connections)
+- #teacher_education connects: education, research, professional, social, ai (51 connections)
+
+ISOLATED TAGS (rarely appear with other tags):
+- #non_axiomatic_reasoning, #neural_network, #ai_limitations, #thesis, #sade, #conclusion, #perspective, #said, #reflection, #step
+
+RESEARCH DOMAIN DISTRIBUTION
+----------------------------------------
+
+Categorization rate: 82.2% of tags categorized
+
+Uncategorized: (0.0% of categorized tags)
+  Total uses: 721
+  Unique tags: 111
+  Top tags:
+    - #sade: 62 uses
+    - #k-12: 60 uses
+    - #moocs: 48 uses
+    - #perspective: 29 uses
+    - #educational_technology: 23 uses
+
+AI & Technology: (24.5% of categorized tags)
+  Total uses: 380
+  Unique tags: 59
+  Top tags:
+    - #chatgpt: 108 uses
+    - #artificial_intelligence: 52 uses
+    - #said: 39 uses
+    - #aied: 24 uses
+    - #machine_learning: 17 uses
+
+Research Methods: (16.8% of categorized tags)
+  Total uses: 261
+  Unique tags: 29
+  Top tags:
+    - #ethnography: 96 uses
+    - #case_study: 49 uses
+    - #research_methodology: 21 uses
+    - #systematic_review: 20 uses
+    - #qualitative_research: 11 uses
+
+Professional Development: (16.5% of categorized tags)
+  Total uses: 257
+  Unique tags: 5
+  Top tags:
+    - #professional_development: 172 uses
+    - #teacher_education: 74 uses
+    - #teacher_professional_development: 8 uses
+    - #21st_century_skills: 2 uses
+    - #skill_biased_technical_change: 1 uses
+
+Social & Digital: (16.0% of categorized tags)
+  Total uses: 248
+  Unique tags: 25
+  Top tags:
+    - #social_media: 135 uses
+    - #twitter: 56 uses
+    - #online_communities: 6 uses
+    - #digital_literacy: 6 uses
+    - #neural_network: 4 uses
+
+Learning & Pedagogy: (11.1% of categorized tags)
+  Total uses: 173
+  Unique tags: 19
+  Top tags:
+    - #collaborative_learning: 58 uses
+    - #online_learning: 50 uses
+    - #assessment: 18 uses
+    - #personalized_learning: 7 uses
+    - #curriculum_design: 6 uses
+
+Education Levels: (7.9% of categorized tags)
+  Total uses: 122
+  Unique tags: 5
+  Top tags:
+    - #higher_education: 100 uses
+    - #phdchat: 10 uses
+    - #k_12_education: 7 uses
+    - #secondary_education: 3 uses
+    - #academic_integrity: 2 uses
+
+Theory & Philosophy: (5.0% of categorized tags)
+  Total uses: 78
+  Unique tags: 32
+  Top tags:
+    - #theoretical_framework: 8 uses
+    - #activity_theory: 7 uses
+    - #five_lenses_framework: 5 uses
+    - #learning_theory: 4 uses
+    - #student_modeling: 3 uses
+
+Assessment & Evaluation: (2.2% of categorized tags)
+  Total uses: 34
+  Unique tags: 9
+  Top tags:
+    - #assessment: 18 uses
+    - #automated_assessment: 4 uses
+    - #baseline_testing: 2 uses
+    - #formative_assessment: 2 uses
+    - #response_measurement: 2 uses
+
+CROSS-DOMAIN TAGS:
+
+- #neural_network_models spans: Social & Digital + Theory & Philosophy + AI & Technology (1 uses)
+- #automated_assessment spans: Learning & Pedagogy + AI & Technology + Assessment & Evaluation (4 uses)
+- #ai_teaching_framework_2023 spans: Theory & Philosophy + Learning & Pedagogy + AI & Technology (2 uses)
+- #neural_network spans: Social & Digital + AI & Technology (4 uses)
+- #neural_networks spans: Social & Digital + AI & Technology (3 uses)
+- #bayesian_neural_network spans: Social & Digital + AI & Technology (2 uses)
+- #deep_neural_networks spans: Social & Digital + AI & Technology (1 uses)
+- #recurrent_neural_networks spans: Social & Digital + AI & Technology (1 uses)
+
+
+SEMANTIC DUPLICATE ANALYSIS
+----------------------------------------
+
+Groups of semantically similar tags:
+- Concept 'education': #experiential_learning, #real_time_learning, #complex_learning, #adaptive_learning_systems, #adaptive_learning +67 more (491 total uses)
+- Concept 'professional': #professional_development, #professional_collaborative_learning, #teacher_professional_development, #teacher_education, #teacher_design_beliefs +5 more (267 total uses)
+- Stem 'education': #higher_education, #swedish_education, #teacher_education, #open_education, #stem_education +5 more (217 total uses)
+- Stem 'professional': #professional_development, #teacher_professional_development, #professional_learning_networks, #professional_identity, #professional_learning (186 total uses)
+- Concept 'development': #development, #professional_development, #teacher_professional_development, #cognitive_development, #identity_development (185 total uses)
+- Prefix 'profes...': #professional_development, #professional_collaborative_learning, #professional_learning_networks, #professional_identity, #professional_learning (179 total uses)
+- Concept 'research': #educational_research, #research_methodology, #qualitative_research, #internet_research, #experimental_research +23 more (159 total uses)
+- Concept 'artificial': #ai_ethics, #machine_psychology_framework_2023, #generative_ai, #artificial_intelligence, #artificial_intelligence_in_education +29 more (158 total uses)
+- Prefix 'social...': #social_media, #social_learning, #social_action, #social_theory, #social_presence +2 more (148 total uses)
+- Concept 'intelligence': #ai_ethics, #generative_ai, #artificial_intelligence, #artificial_intelligence_in_education, #en_nypa_ai +27 more (146 total uses)
+
+TAG REMOVAL RECOMMENDATIONS
+----------------------------------------
+
+Total tags recommended for removal: 301
+Total tag uses affected: 527
+
+- Too Specific: 3 tags
+- Redundant: 67 tags
+- Malformed: 1 tags
+- Low Value: 230 tags
+
+Examples:
+
+Too Specific:
+- #professional_collaborative_learning (1 uses) - Single use and very long
+- #human_intelligence_amplification (1 uses) - Single use and very long
+- #data_science_applications_in_education (1 uses) - Single use and very long
+
+Redundant:
+- #teacher_education (74 uses) - Redundant with 'higher_education'
+- #stem_education (21 uses) - Redundant with 'higher_education'
+- #k_12_education (7 uses) - Redundant with 'higher_education'
+
+Malformed:
+- #15_16 (2 uses) - Contains only numbers or underscores
+
+Low Value:
+- #hammer_r (1 uses) - Single use tag
+- #neural_network_models (1 uses) - Single use tag
+- #deep_neural_networks (1 uses) - Single use tag

@@ -1,0 +1,28 @@
+{
+  "timestamp": "2025-08-02T19:25:53.066771",
+  "file_path": "4 Articles/Alnasyan, Basheri & Alassafi (2024). The power of Deep Learning techniques for predicting student\nperformance in Virtual Learning Environments- A systematic\nliterature review.md",
+  "filename": "Alnasyan, Basheri & Alassafi (2024). The power of Deep Learning techniques for predicting student\nperformance in Virtual Learning Environments- A systematic\nliterature review.md",
+  "title": "The power of Deep Learning techniques for predicting student",
+  "existing_tags": [
+    "#Deep_Learning"
+  ],
+  "suggested_tags": [
+    "deep_learning",
+    "student_performance_prediction",
+    "virtual_learning_environments",
+    "systematic_review",
+    "learning_analytics",
+    "moocs",
+    "lms",
+    "educational_data_mining",
+    "machine_learning",
+    "predictive_modeling"
+  ],
+  "metadata": {
+    "abstract": "With the advances in Artificial Intelligence (AI) and the increasing volume of online educational data, Deep Learning techniques have played a critical role in predicting student performance. Recent developments have assisted instructors in determining the strengths and weaknesses of student achievement. This understanding will benefit from adopting the necessary interventions to assist students in improving their performance, helping at-risk of failure students, and preventing dropout rates. Th",
+    "authors": "",
+    "year": "",
+    "journal": ""
+  },
+  "analysis_prompt": "Perform a DEEP ANALYSIS of this academic article and suggest 5-8 highly specific, contextually appropriate tags.\n\nARTICLE METADATA:\nTitle: The power of Deep Learning techniques for predicting student\nAuthors: \nYear: \nJournal/Conference: \nFile Path: 4 Articles/Alnasyan, Basheri & Alassafi (2024). The power of Deep Learning techniques for predicting student\nperformance in Virtual Learning Environments- A systematic\nliterature review.md\n\nABSTRACT:\nWith the advances in Artificial Intelligence (AI) and the increasing volume of online educational data, Deep Learning techniques have played a critical role in predicting student performance. Recent developments have assisted instructors in determining the strengths and weaknesses of student achievement. This understanding will benefit from adopting the necessary interventions to assist students in improving their performance, helping at-risk of failure students, and preventing dropout rates. The review analyzed 46 studies between 2019 and 2023 "
+}

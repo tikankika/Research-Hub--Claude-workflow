@@ -1,0 +1,196 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+## [Unreleased]
+
+### 2025-08-03
+- **Tag Management System Deep Research Implementation:**
+  - Enhanced bridge tag detection with 8 research domain patterns
+  - Added connection strength scoring for interdisciplinary tags
+  - Improved temporal trend analysis with stable/periodic classification
+  - Added comprehensive tag quality metrics with 5-dimension scoring:
+    - Usage score (normalized by frequency)
+    - Diversity score (co-occurrence patterns)
+    - Clarity score (length and readability)
+    - Temporal consistency (activity over time)
+    - Semantic value (specificity assessment)
+  - Collection-wide metrics now include:
+    - Average tags per file
+    - Tag density (uses per tag)
+    - Reuse ratio
+    - Quality distribution (high/medium/low)
+  - Quality recommendations for tag promotion and review
+  - All improvements based on deep research analysis documents
+- **Article Tagging Progress:**
+  - Analyzed vault: 883 articles (58.8%) have NO tags
+  - 457 articles (30.4%) have only 1-2 tags
+  - Successfully implemented manual tagging workflow
+  - Tagged 8 articles with comprehensive academic tags:
+    - Hines2008-ms.md (teacher education, blogging)
+    - Van_Le2024-fg.md (phenomenography, qualitative research)
+    - Chatti2007-ss.md (e-learning, educational technology)
+    - Scardamalia2004-qv.md (knowledge building, collaborative learning)
+    - Ivarsson2010-dx.md (CSCL, interaction analysis)
+    - A_Hemmi2009-jb.md (web 2.0, virtual ethnography)
+    - A_McKee2008-co.md (research ethics, digital writing)
+    - A_N_Markham2005-vs.md (narrative inquiry, bricolage)
+  - Confirmed tags are written to actual files in "4 Articles" folder
+  - System considers <3 tags as "untagged" (good for comprehensive tagging)
+- **Workflow Findings:**
+  - Claude API integration not yet implemented (placeholder only)
+  - Manual suggestions via JSON works excellently
+  - Created multiple helper scripts for analysis and processing
+  - `obsidian_article_tagger.py` works well with `--auto-apply` flag
+- **Created System 1: Paperpile-Obsidian Literature Bridge**
+  - Built complete synchronization system in `claude_workspace/system1_bridge/`
+  - **Core Components:**
+    - `analyze_vault.py` - Analyzes vault readiness (97.1% match rate achieved)
+    - `migrate_to_bibtex_keys.py` - Renames files to BibTeX keys with aliases
+    - `paperpile_sync.py` - Syncs Paperpile metadata with content provenance
+  - **Key Features:**
+    - Batch processing support (`--batch 50`) to handle 700+ files
+    - Minimal aliases (original filename + citation format)
+    - Content provenance tracking with HTML comment markers
+    - Preserves all user content while updating Paperpile sections
+  - **Format Standardization:**
+    - Title as heading (not in frontmatter)
+    - Three distinct sections: PAPERPILE METADATA, SCRIPT GENERATED, USER CONTENT
+    - PDF links format: `[[9 paperpile/All Papers/...]]`
+- **Git Branch Management:**
+  - Created and pushed `academic-knowledge-to-writing-system` branch
+  - Branch now tracking remote repository
+  - Ready for pull request when System 1 is complete
+- **Paperpile Sync Format Updates:**
+  - Updated `paperpile_sync.py` to match exact user format requirements
+  - Fixed minimal alias generation (only original filename + citation with valid year)
+  - Corrected PDF path to use lowercase '9 paperpile'
+  - Added proper handling for all metadata fields (DOI, URL, Publisher, etc.)
+  - Fixed year extraction from date field
+  - Updated to use correct BibTeX file with all fields
+  - Tested with Sporrong2024-jh article to verify exact format match
+- **Full System 1 Implementation Completed:**
+  - Successfully migrated 2,452 files to BibTeX key format
+  - Applied Paperpile sync to 1,494 entries (1,389 new, 76 updated)
+  - Consolidated all articles from subfolders into main "4 Articles" folder
+  - Moved 1,136 files from "markdown" subfolder
+  - Moved 10 files from "Articles maskinpsykologi" subfolder
+  - Moved 28 files from "Course 2025 SU..." subfolder
+  - Removed all duplicate files and empty subfolders
+  - Final structure: 1,165 BibTeX key files in "4 Articles" ready for Paperpile sync
+  - Removed 84 non-BibTeX files that couldn't be matched
+  - Cleaned up all backup folders to save space
+
+### 2025-08-02
+- **Enhanced Deep Analysis Tagger with Batch Processing Mode:**
+  - Added `--batch` flag for processing multiple articles without manual confirmation
+  - Implemented `--review` mode for interactive review of saved suggestions
+  - Added progress tracking with automatic resume capability
+  - Added `--reset-progress` to clear batch processing state
+  - Batch mode features:
+    - Process up to N articles automatically (e.g., `--batch --limit 50`)
+    - All suggestions saved to JSON for later review
+    - Resume from where you left off if interrupted
+    - Interactive review with options to apply, skip, delete, or edit tags
+    - Bulk apply all suggestions at once
+  - Improved workflow efficiency while maintaining tag quality
+  - Updated CLAUDE.md with recommended batch processing workflow
+- **Implemented Manual Tag Application from JSON:**
+  - Updated `obsidian_article_tagger.py` to apply tags from `manual_tag_suggestions.json`
+  - Added `_apply_manual_suggestions_from_file()` method for bulk tag application
+  - Successfully applied high-quality tags to 18 articles covering:
+    - AI and ChatGPT research (generative_ai, chatgpt, llms)
+    - Educational technology (intelligent_tutoring_systems, moocs, aied)
+    - Learning theories (collaborative_learning, tpck_framework, cognitive_science)
+    - Research methodologies (systematic_review, ethnography, qualitative_research)
+  - Added support for handling filenames with newlines and special characters
+  - Improved file path matching for complex article titles
+  - Applied tags maintain consistency with existing vault vocabulary (625 tags)
+- **Repository Maintenance:**
+  - Excluded `9 Paperpile/` folder from git tracking (contains PDF files)
+  - Updated `.gitignore` to prevent future Paperpile uploads
+  - Committed and pushed all improvements to GitHub
+
+### 2025-08-01
+- **Enhanced Deep Analysis Tagging Workflow:**
+  - Refined `obsidian_article_tagger.py` for semi-manual workflow
+  - Added `save_tag_suggestion()` method to save individual suggestions to JSON
+  - Added `apply_saved_suggestions()` method to apply suggestions from files
+  - Created manual tag suggestions workflow using export folder
+  - Implemented replace mode to remove low-quality tags while preserving author tags
+  - Successfully tagged 3 articles with deep analysis:
+    - Acosta-Enriquez et al. (2024) - ChatGPT and academic integrity
+    - Fields & Kafai (2009) - Virtual worlds and peer learning
+    - McKee (2008) - Research ethics in digital writing
+  - Created `manual_tag_suggestions.json` for external tag management
+  - Improved suggestion format with full metadata and file paths
+  - Added support for applying individual suggestion files
+
+### 2025-01-31 (continued)
+- **Enhanced Tag Analysis System:**
+  - Added semantic duplicate detection beyond string similarity
+  - Enhanced tag relationships with clustering analysis and bridge tag detection
+  - Expanded research domain auto-categorization to 8 domains with 94.3% coverage
+  - Added comprehensive tag removal recommendations (1,705 tags identified)
+  - Removed TOP 100 tag list from reports for cleaner output
+- **Tag Cleanup Operations:**
+  - Removed 1,520 invalid/single-use tags, reducing from 1,914 to 625 tags
+  - Cleaned malformed tags (number-only tags like 3_5, 9_14, 15_16)
+  - Merged duplicate tags: literacy variants, Swedish translations (maskininlärning)
+  - Standardized tags to shorter forms: llm, k-12, aied, ict
+  - Final cleanup: merged literacydigital_literacy → digital_literacy
+  - Verified all 2,605 articles in "4 Articles" folder are updated
+- **Report Improvements:**
+  - Added automatic archiving of old reports to keep export directory clean
+  - Added JSON export alongside human-readable reports for programmatic use
+  - JSON includes complete tag data, file mappings, and all analysis results
+- **Updated `obsidian_tag_manager.py` with:**
+  - `find_semantic_duplicates()` - Groups tags by stems, synonyms, and prefixes
+  - `analyze_tags_to_remove()` - Categorizes removal candidates
+  - `_archive_old_reports()` - Auto-archives previous reports
+  - `_export_json_data()` - Exports comprehensive JSON data
+- **Created Deep Analysis Article Tagger:**
+  - Completely rewrote `obsidian_article_tagger.py` for deep analysis mode
+  - Focuses on articles in main "4 Articles" directory (not subdirectories)
+  - Filters to only process articles with abstracts (673 found)
+  - Extracts comprehensive metadata: abstract, methodology, findings, theoretical framework
+  - Loads existing vault tags (625 tags) for consistency
+  - Creates detailed prompts for Claude including full context
+  - Processes one article at a time for thorough analysis
+  - Added domain-specific tag categories (AI, pedagogy, methodology)
+  - Generates detailed session reports with statistics
+
+### 2025-01-31
+- Created Obsidian-compatible tagging system with Claude integration
+- Added `obsidian_article_tagger.py` - Analyzes articles without tags using Claude
+- Added `obsidian_tag_manager.py` - Manages, deduplicates, and standardizes tags
+- Created comprehensive README_TAGGING.md with usage instructions
+- Tested system: Found 1552 articles needing tags, 1927 unique tags in vault
+- Created `standardize_all_tags.py` - Converts all tags to use underscores
+- Found 91 tags needing underscore conversion (e.g., k-12 → k_12) 
+- Found 50 invalid tags to remove (numbers, too short, common words)
+- Successfully standardized 244 tag occurrences across 144 files
+- Created `merge_duplicate_tags.py` - Merges duplicate/similar tags
+- Merged 11 duplicate tag sets (e.g., sociocultural_theory + socio-cultural_theory)
+- Created export/ folder for all script outputs and reports
+- Consolidated scripts: Archived 4 legacy tag scripts to archive/legacy_tag_scripts/
+- Reorganized tagging scripts into dedicated `tagging/` subfolder
+- Created `obsidian_tag_tools.py` - Unified tool combining all tag operations
+- Updated workflow documentation with simplified commands
+- **Created `obsidian_batch_tagger.py` - Full Claude Code integration for batch tagging**
+- **Successfully tagged 25 articles using Claude Code analysis**
+- **Reduced untagged articles from 1,562 to 1,536**
+- **Updated README with complete Claude Code workflow documentation**
+- **Fixed Obsidian graph view issue by converting reports to .txt format**
+- **Added .obsidianignore to export directory to exclude files from Obsidian**
+
+### 2025-01-30
+- Initial CLAUDE.md created
+- Set up git repository and pushed to GitHub
+- Organized all Claude-related files into `/claude_workspace` directory
+- Added `.gitignore` for video files, audio files, and system files
+- Created README files for main repository and claude_workspace
+- Added paperpile folder to repository structure
+- Created `paperpile_to_markdown.py` script with wikilink support
+- Successfully imported articles from paperpile.bib with abstracts
+- Removed 217 duplicate files from main folder

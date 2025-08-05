@@ -1,0 +1,9 @@
+Deep Analysis Tagging Report
+Generated: 2025-08-03 22:42:52.321964
+============================================================
+
+Statistics:
+  total_analyzed: 1
+  successfully_tagged: 0
+  analysis_failed: 0
+  already_tagged: 0

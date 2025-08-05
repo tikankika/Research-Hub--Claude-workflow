@@ -1,0 +1,34 @@
+# Medium Priority: 1-2 tags, has abstract (needs tag expansion)
+# Generated: 2025-08-03 17:51:42.675315
+# Count: 30
+
+Bearman2015-gt.md  # Current tags: systematic_review
+Andersson2014-wo.md  # Current tags: social_media
+Levinsson2023-pk.md  # Current tags: Bernstein, Lärares_kompetensutveckling
+Verhelst2024-iy.md  # Current tags: generative_AI, natural_language_processing
+Avalos2011-sw.md  # Current tags: teacher_education, professional_development
+Strijbos2004-rq.md  # Current tags: collaborative_learning
+Kelly2016-zv.md  # Current tags: social_media
+Bell2011-na.md  # Current tags: moocs
+Glazko2023-as.md  # Current tags: case_study, ethnography
+Butler2012-fx.md  # Current tags: case_study, professional_development
+Cuban2015-xv.md  # Current tags: online_learning
+Francis2006-hs.md  # Current tags: game_based_learning
+Jonsson2018-jk.md  # Current tags: experimental_design
+Rybakova2016-uy.md  # Current tags: k-12, professional_development
+Trust2012-yw.md  # Current tags: professional_development
+Xia2024-xe.md  # Current tags: k-12, artificial_intelligence
+Gallagher2011-dq.md  # Current tags: ethnography
+Leppanen2009-kr.md  # Current tags: case_study, ethnography
+Opfer2011-fn.md  # Current tags: social_media
+Oliver2016-kf.md  # Current tags: twitter, social_media
+Larsen2008-nb.md  # Current tags: ethnography
+John2013-ig.md  # Current tags: social_media
+Novak2006-uc.md  # Current tags: higher_education
+Charalambos2004-ed.md  # Current tags: professional_development
+Leander2008-zc.md  # Current tags: ethnography
+Garrison1999-gc.md  # Current tags: higher_education
+Karlsson2002-ut.md  # Current tags: higher_education
+Hatakka2013-tz.md  # Current tags: case_study, social_media
+Gao2024-xf.md  # Current tags: Automatic_assessment
+Koschmann1999-fl.md  # Current tags: collaborative_learning, social_learning

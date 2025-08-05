@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-08-02T22:43:02.485858",
+  "file_path": "4 Articles/Anderson, Corbett & Koedinger (1995). Cognitive tutors- Lessons learned.md",
+  "filename": "Anderson, Corbett & Koedinger (1995). Cognitive tutors- Lessons learned.md",
+  "title": "Cognitive tutors: Lessons learned",
+  "existing_tags": [],
+  "suggested_tags": [
+    "assessment",
+    "academic_performance"
+  ],
+  "metadata": {
+    "abstract": "This article reviews the 10-year history of tutor development based on the advanced computer tutoring (ACT) theory (J. R. Anderson, 1983, 1993). We developed production system models in ACT of how students solved problems in LISP, geometry, and algebra. Computer tutors were developed around these cognitive models. Construction of these tutors was guided by a set of eight principles loosely based on the ACT theory. Early evaluations of these tutors usually, but not always, showed significant achi",
+    "authors": "",
+    "year": "",
+    "journal": ""
+  },
+  "analysis_prompt": "Perform a DEEP ANALYSIS of this academic article and suggest 5-8 highly specific, contextually appropriate tags.\n\nARTICLE METADATA:\nTitle: Cognitive tutors: Lessons learned\nAuthors: \nYear: \nJournal/Conference: \nFile Path: 4 Articles/Anderson, Corbett & Koedinger (1995). Cognitive tutors- Lessons learned.md\n\nABSTRACT:\nThis article reviews the 10-year history of tutor development based on the advanced computer tutoring (ACT) theory (J. R. Anderson, 1983, 1993). We developed production system models in ACT of how students solved problems in LISP, geometry, and algebra. Computer tutors were developed around these cognitive models. Construction of these tutors was guided by a set of eight principles loosely based on the ACT theory. Early evaluations of these tutors usually, but not always, showed significant achievement gains. Best case evaluations showed that students could achieve at least the same level of proficiency as conventional instruction in one third of the time. Empirical studie"
+}

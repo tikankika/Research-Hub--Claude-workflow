@@ -1,0 +1,159 @@
+# Tag Standardization Report
+Generated: 2025-07-31 00:21:15
+
+## Summary
+- Tags needing changes: 91
+- Tags to remove: 50
+
+## Tags to Standardize
+
+| Current Tag | New Tag | Uses | Example Files |
+|-------------|---------|------|---------------|
+| #k_12 | #k_12 | 61 | Rybakova & Witte (2016). Professional Development 2.0- Teaching Teachers about Technology.md, Oliver & Stallings (2014). Preparing Teachers for Emerging Blended Learning Environments.md +59 more |
+| #k_12_education | #k_12_education | 7 | Peters & Slotta (2010). Scaffolding Knowledge Communities in the Classroom- New Opportunities in the Web 2.0 Era.md, Sperling, Stenliden, Nissen & Heintz (2024). Behind the Scenes of Co-designing AI and LA in K-12 Education.md +5 more |
+| #covid_19 | #covid_19 | 4 | Swist, Buckingham Shum & Gulson (2024). Co-producing AIED Ethics Under Lockdown- an Empirical Study of Deliberative Democracy in Action.md, Chaudhry & Kazim (2022). Artificial Intelligence in Education (AIEd)- a high-level academic and industry note 2021.md +2 more |
+| #design_based_research | #design_based_research | 4 | The Design-Based Research Collective (2003). Design-Based Research- An Emerging Paradigm for Educational Inquiry.md, Hoadley (2004). Methodological Alignment in Design-Based Research.md +2 more |
+| #game_based_learning | #game_based_learning | 4 | Nardi & Harris (2006). Strangers and Friends- Collaborative Play in World of Warcraft.md, Egenfeldt-Nielsen (2006). Overview of research on the educational use of video games.md +2 more |
+| #generative_ai | #generative_ai | 3 | Generative AI.md, Generative AI.md +1 more |
+| #human_computer_interaction | #human_computer_interaction | 3 | O´Malley, Langton, Anderson, Doherty-Sneddon & Bruce (1996). Comparison of face-to-face and video-mediated interaction.md, Kuurti (1995). Activity Theory as a Potential Framework for Human-Computer Interaction Research.md +1 more |
+| #self_directed_learning | #self_directed_learning | 3 | Barron (2006). Interest and Self-Sustained Learning as Catalysts of Development- A Learning Ecology Perspective.md, Robertson (2011). The educational affordances of blogs for self-directed learning.md +1 more |
+| #computer_supported_collaborative_learning | #computer_supported_collaborative_learning | 3 | Arnseth & Ludvigsen (2006). Approaching institutional contexts- systemic versus dialogic research in CSCL.md, Stahl (2009). Yes we can!.md +1 more |
+| #artificial_intelligence | #artificial_intelligence | 2 | Artificial Intelligence.md, tag_cleanup_summary.md |
+| #15_16 | #15_16 | 2 | 2025-05-15 KUL2025 Paper draft.md, 2025-05-15 KUL2025 Paper draft.md |
+| #Literacy/Pedagogical_Literacy | #literacypedagogical_literacy | 2 | 2024-03-19.md, 2024-03-18.md |
+| #Literacy/Disciplinary_Literacy | #literacydisciplinary_literacy | 2 | 2024-03-18.md, 2024-03-18.md |
+| #video_mediated_communication | #video_mediated_communication | 2 | O´Malley, Langton, Anderson, Doherty-Sneddon & Bruce (1996). Comparison of face-to-face and video-mediated interaction.md, Kirk, Sellen & Cao (2010). Home video communication- mediating 'closeness'.md |
+| #web_based_learning | #web_based_learning | 2 | Owston (2009). -i-Comments on Greenhow, Robelia, and Hughes---i- Digital Immersion, Teacher Learning, and Games.md, Ludvigsen & Mørch (2003). Categorisation in Knowledge Building.md |
+| #inquiry_based_learning | #inquiry_based_learning | 2 | Yannier, Hudson, Chang & Koedinger (2024). AI Adaptivity in a Mixed-Reality System Improves Learning.md, Peters & Slotta (2010). Scaffolding Knowledge Communities in the Classroom- New Opportunities in the Web 2.0 Era.md |
+| #socio_technical_environments | #socio_technical_environments | 2 | Fischer (2013). From renaissance scholars to renaissance communities- Learning and education in the 21st century.md, Fischer (2011). Social Creativity- Exploiting the Power of Cultures of Participation.md |
+| #core_course_references_peg011 | #core_course_references_peg011 | 1 | All_References_List.md |
+| #speaking_with_generative_ai_references | #speaking_with_generative_ai_references | 1 | All_References_List.md |
+| #machine_psychologynars_research | #machine_psychologynars_research | 1 | All_References_List.md |
+| #additional_educational_technology_references | #additional_educational_technology_references | 1 | All_References_List.md |
+| #assessment_and_evaluation_references | #assessment_and_evaluation_references | 1 | All_References_List.md |
+| #books_and_monographs | #books_and_monographs | 1 | All_References_List.md |
+| #Gen AI | #generative_ai | 1 | Generative AI.md |
+| #"#generative_ai" | #generative_ai | 1 | Generative AI.md |
+| #"Generative_AI" | #generative_ai | 1 | Generative AI.md |
+| #artificial intelligence in education | #artificial_intelligence_in_education | 1 | AIED.md |
+| #Artificial Intelligence in Education | #artificial_intelligence_in_education | 1 | AIED.md |
+| #"#AIED" | #aied | 1 | AIED.md |
+| #Neural Network | #neural_network | 1 | Neural Networks.md |
+| #machine_learning | #machine_learning | 1 | Machine Learning.md |
+| #machine learning | #machine_learning | 1 | Machine Learning.md |
+| #maskin inlärning | #maskin_inlärning | 1 | Machine Learning.md |
+| #3_5 | #3_5 | 1 | 2025-05-15 KUL2025 Paper draft.md |
+| #9_14 | #9_14 | 1 | 2025-05-15 KUL2025 Paper draft.md |
+| #0_22 | #0_22 | 1 | 2025-05-15 KUL2025 Paper draft.md |
+| #29_33 | #29_33 | 1 | 2025-05-15 KUL2025 Paper draft.md |
+| #real_world | #real_world | 1 | Daily Notes AI-kurs lärare.md |
+| #professional collaborative learning | #professional_collaborative_learning | 1 | 2024-04-06.md |
+| #Rönnerman, Karin | #rönnerman_karin | 1 | 2024-04-06.md |
+| #Carlbaum, Sara | #carlbaum_sara | 1 | 2024-04-06.md |
+| #Kirsten, Nils | #kirsten_nils | 1 | 2024-04-06.md |
+| #Literacy/AI_Literacy | #literacyai_literacy | 1 | 2024-03-18.md |
+| #Literacy/Digital_Literacy | #literacydigital_literacy | 1 | 2024-03-18.md |
+| #Literacy/Generative_Ai_Literacy | #literacygenerative_ai_literacy | 1 | 2024-03-18.md |
+| #Literacy/Professional_Literacy | #literacyprofessional_literacy | 1 | 2024-03-18.md |
+| #end_users | #end_users | 1 | Zamfirescu-Pereira, Wong & Hartmann (2023). Why Johnny Can’t Prompt- How Non-AI Experts Try (and Fail) to
+Design LLM Prompts.md |
+| #darling_hammond_l | #darling_hammond_l | 1 | Darling-Hammond, L., Hyler, M. E., & Gardner, M. (2017). Effective Teacher Professional Development.md |
+| #al_shami_sa | #al_shami_sa | 1 | Farhi et al. (2023). Analyzing the students' views, concerns, and perceived ethics about chat GPT usage.md |
+| #artificial_intelligence_assisted_viva | #ai_assisted_viva | 1 | Eachempati, Komattil & Arakala (2025). Should oral examination be reimagined in the era of AI.md |
+| #robot_assisted | #robot_assisted | 1 | Verhelst, Janssens & Demeester (2024). Adaptive Second Language Tutoring Using Generative AI and a
+Social Robot.md |
+| #cultural_historical_activity_theory | #cultural_historical_activity_theory | 1 | Lemke (2000). Across the Scales of Time- Artifacts, Activities, and Meanings in Ecosocial Systems.md |
+| #face_to_face_interaction | #face_to_face_interaction | 1 | O´Malley, Langton, Anderson, Doherty-Sneddon & Bruce (1996). Comparison of face-to-face and video-mediated interaction.md |
+| #text_based_learning | #text_based_learning | 1 | Barron (2006). Interest and Self-Sustained Learning as Catalysts of Development- A Learning Ecology Perspective.md |
+| #theory_practice_bridge | #theory_practice_bridge | 1 | The Design-Based Research Collective (2003). Design-Based Research- An Emerging Paradigm for Educational Inquiry.md |
+| #character_based_learning | #character_based_learning | 1 | Pesovski, Santos, Henriques & Trajkovik (2024). Generative AI for Customizable Learning Experiences.md |
+| #computer_assisted_instruction | #computer_assisted_instruction | 1 | Koschmann (2001). Revisiting the paradigms of instructional technology.md |
+| #cross_curricular_competence | #cross_curricular_competence | 1 | Löfving (2024). Teachers’ negotiation of the cross-curricular concept of student digital competence.md |
+| #meta_analysis | #meta_analysis | 1 | Hsu, Hung & Ching (2013). Trends of educational technology research- more than a decade of international research in six SSCI-indexed refereed journals.md |
+| #inter_rater_reliability | #inter_rater_reliability | 1 | Jönsson & Balan (2018). Analytic or Holistic- A Study of Agreement Between Different Grading Models. Practical Assessment, Research & Evaluation.md |
+| #cultural_historical_theory | #cultural_historical_theory | 1 | Wertsch (1994). The Primacy of Mediated Action in Sociocultural Studies.md |
+| #e_research_ethics | #e_research_ethics | 1 | Carusi (2008). Data as Representation- Beyond Anonymity In E-Research Ethics.md |
+| #ethical_decision_making | #ethical_decision_making | 1 | Markham & Buchanan (2012). Ethical Decision-Making and Internet Research Recommendations from the AoIR Ethics Working Committee.md |
+| #large_scale_systems | #large_scale_systems | 1 | Star & Ruhleder (1996). Steps Toward an Ecology of Infrastructure- Design and Access for Large Information Spaces.md |
+| #explanation_driven_inquiry | #explanation_driven_inquiry | 1 | Hakkarainen (2004). Pursuit of explanation within a computer-supported classroom.md |
+| #computer_supported_learning | #computer_supported_learning | 1 | Hakkarainen (2004). Pursuit of explanation within a computer-supported classroom.md |
+| #socio_cultural_theory | #socio_cultural_theory | 1 | Kaptelinin (n.d.). Activity Theory- Implications for Human-Computer Interaction.md |
+| #short_answer_grading | #short_answer_grading | 1 | Padó, Eryilmaz & Kirschner (2023). Short-Answer Grading for German- Addressing the Challenges.md |
+| #socio_scientific_issues | #socio_scientific_issues | 1 | Furberg & Ludvigsen (2008). Students' Meaning‐making of Socio‐scientific Issues in Computer Mediated Settings- Exploring learning through interaction trajectories.md |
+| #computer_mediated_learning | #computer_mediated_learning | 1 | Furberg & Ludvigsen (2008). Students' Meaning‐making of Socio‐scientific Issues in Computer Mediated Settings- Exploring learning through interaction trajectories.md |
+| #computer_mediated_communication | #computer_mediated_communication | 1 | Baym (2006). The Performance of Humor in Computer-Mediated Communication.md |
+| #place_based_learning | #place_based_learning | 1 | Ponti & Ryberg (n.d.). Rethinking Virtual Space as a Place for Sociability- Theory and Design Implications.md |
+| #one_to_one_computing | #one_to_one_computing | 1 | Fleischer (2012). What is our current understanding of one-to-one computer projects- A systematic narrative research review.md |
+| #computer_supported_cooperative_work | #computer_supported_cooperative_work | 1 | Kirk, Sellen & Cao (2010). Home video communication- mediating 'closeness'.md |
+| #student_authored_summaries | #student_authored_summaries | 1 | Morris, Crossley, Holmes, Ou, Dascalu & McNamara (2024). Formative Feedback on Student-Authored Summaries in Intelligent Textbooks Using Large Language Models.md |
+| #cross_cultural_research | #cross_cultural_research | 1 | Frisoli (2010). Assumptions, emotions, and interpretations as ethical moments- navigating a small‐scale cross‐cultural online interviewing study.md |
+| #deutero_learning | #deutero_learning | 1 | Visser (2003). Gregory Bateson on deutero‐learning and double bind- A brief conceptual history.md |
+| #co_creation | #co_creation | 1 | Lewis, Pea & Rosen (2010). Collaboration with Mobile Media- Shifting from 'Participation' to 'Co-creation'.md |
+| #twenty_first_century_skills | #twenty_first_century_skills | 1 | Casal-Otero, Catala, Fernández-Morante, Taboada, Cebreiro & Barro (2023). AI literacy in K-12- a systematic literature review.md |
+| #computer_assisted_learning | #computer_assisted_learning | 1 | Säljö (2010). Digital tools and challenges to institutional traditions of learning- technologies, social memory and the performative nature of learning.md |
+| #roser_chinchilla_j | #roser_chinchilla_j | 1 | Liu, Morales, Roser-Chinchilla, Sabzalieva, Valentini, Vieira do Nascimento & Yerovi (2023). Harnessing the Era of Artificial Intelligence in Higher Education.md |
+| #porayska_pomsta_k | #porayska_pomsta_k | 1 | Porayska-Pomsta, Holmes & Nemorin (2024). The Ethics of AI in Education.md |
+| #cerratto_pargman_t | #cerratto_pargman_t | 1 | Farazouli, Cerratto-Pargman, Bolander-Laksov & McGrath (2024). Hello GPT- Goodbye home examination - An exploratory study of AI chatbots impact on university teachers' assessment practices.md |
+| #bolander_laksov_k | #bolander_laksov_k | 1 | Farazouli, Cerratto-Pargman, Bolander-Laksov & McGrath (2024). Hello GPT- Goodbye home examination - An exploratory study of AI chatbots impact on university teachers' assessment practices.md |
+| #zawacki_richter_o | #zawacki_richter_o | 1 | Zawacki-Richter, Marín, Bond & Gouverneur (2019). Systematic review of research on artificial intelligence applications in higher education – where are the educators.md |
+| #on_line_teacher_communities | #on_line_teacher_communities | 1 | tag_cleanup_summary.md |
+| #socio_cultural_perspective | #socio_cultural_perspective | 1 | tag_cleanup_summary.md |
+| #pre_service_teachers | #pre_service_teachers | 1 | tag_cleanup_summary.md |
+| #generative_ai | #generative_ai | 1 | tag_report_20250731_000520.md |
+| #artificial_intelligence | #artificial_intelligence | 1 | tag_report_20250731_000520.md |
+| #machine_learning | #machine_learning | 1 | tag_report_20250731_000520.md |
+
+## Tags to Remove (Invalid)
+
+| Tag | Uses | Reason |
+|-----|------|--------|
+| | 63 | Too short |
+| | 48 | Invalid format |
+| | 40 | Invalid format |
+| | 36 | Single digit |
+| | 34 | Single digit |
+| | 31 | Single digit |
+| | 30 | Invalid format |
+| | 27 | Single digit |
+| | 22 | Single digit |
+| | 16 | Single digit |
+| | 13 | Single digit |
+| | 12 | Single digit |
+| | 11 | Single digit |
+| | 10 | Single digit |
+| | 9 | Single digit |
+| | 7 | Single digit |
+| | 6 | Single digit |
+| | 5 | Single digit |
+| | 5 | Single digit |
+| | 3 | Single digit |
+| | 3 | Single digit |
+| | 3 | Single digit |
+| | 2 | Single digit |
+| | 2 | Single digit |
+| | 2 | Too short |
+| | 2 | Invalid/common word |
+| | 2 | Invalid/common word |
+| | 2 | Invalid/common word |
+| | 1 | Too short |
+| | 1 | Too short |
+| | 1 | Single digit |
+| | 1 | Single digit |
+| | 1 | Single digit |
+| | 1 | Single digit |
+| | 1 | Single digit |
+| | 1 | Single digit |
+| | 1 | Single digit |
+| | 1 | Single digit |
+| | 1 | Single digit |
+| | 1 | Single digit |
+| | 1 | Single digit |
+| | 1 | Single digit |
+| | 1 | Single digit |
+| | 1 | Single digit |
+| | 1 | Single digit |
+| | 1 | Single digit |
+| | 1 | Invalid format |
+| | 1 | Too short |
+| | 1 | Single digit |
+| | 1 | Too short |

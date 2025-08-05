@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-08-03T18:18:53.115963",
+  "file_path": "4 Articles/A_McKee2008-co.md",
+  "filename": "A_McKee2008-co.md",
+  "title": "a. McKee (2008). Ethical and legal issues for writing researchers in an age of media convergence",
+  "existing_tags": [],
+  "suggested_tags": [
+    "research_ethics",
+    "digital_writing",
+    "research_methods",
+    "informed_consent",
+    "copyright",
+    "fair_use",
+    "media_convergence",
+    "digital_humanities"
+  ],
+  "metadata": {
+    "abstract": "With the convergence of digital media into ever-widening social and technological networks for creation and distribution, the contexts for writing and the study of writing and writers have certainly changed. Researchers must navigate a dense matrix of ethical and legal issues in all phases of research when studying the ever-changing processes and products of digital communications. In this article, I draw from numerous sources to articulate a few of the challenges facing digital writing research",
+    "authors": "",
+    "year": "",
+    "journal": ""
+  },
+  "analysis_prompt": "Perform a DEEP ANALYSIS of this academic article and suggest 5-8 highly specific, contextually appropriate tags.\n\nARTICLE METADATA:\nTitle: a. McKee (2008). Ethical and legal issues for writing researchers in an age of media convergence\nAuthors: \nYear: \nJournal/Conference: \nFile Path: 4 Articles/A_McKee2008-co.md\n\nABSTRACT:\nWith the convergence of digital media into ever-widening social and technological networks for creation and distribution, the contexts for writing and the study of writing and writers have certainly changed. Researchers must navigate a dense matrix of ethical and legal issues in all phases of research when studying the ever-changing processes and products of digital communications. In this article, I draw from numerous sources to articulate a few of the challenges facing digital writing researchers in this age of convergence, focusing on issues of representation (researcher, participant, third-party), issues of informed consent, and issues of copyright and fair use. "
+}

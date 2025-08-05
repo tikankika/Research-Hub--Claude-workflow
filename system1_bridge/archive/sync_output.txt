@@ -1,0 +1,1 @@
+Error: BibTeX file not found: /Users/niklaskarlsson/Obsidian Sandbox/Book project, Sandbox/claude_workspace/Paperpile - References - 3 aug.bib

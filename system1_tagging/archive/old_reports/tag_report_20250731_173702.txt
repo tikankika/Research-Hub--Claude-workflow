@@ -1,0 +1,227 @@
+OBSIDIAN VAULT TAG ANALYSIS REPORT
+Generated: 2025-07-31 17:37:02
+
+SUMMARY
+- Total unique tags: 1926
+- Total tag uses: 4964
+- Average uses per tag: 2.6
+
+TAG DISTRIBUTION
+- Single use tags: 1467
+- Rare use (2-5): 357
+- Moderate use (6-20): 73
+- Common use (>20): 29
+
+MOST COMMON TAGS
+- #professional_development: 184 uses
+- #social_media: 147 uses
+- #chatgpt: 120 uses
+- #higher_education: 112 uses
+- #ethnography: 108 uses
+- #teacher_education: 86 uses
+- #k_12: 82 uses
+- #sade: 72 uses
+- #artificial_intelligence: 70 uses
+- #collaborative_learning: 70 uses
+- #twitter: 68 uses
+- #moocs: 64 uses
+- #online_learning: 62 uses
+- #case_study: 61 uses
+- #said: 49 uses
+- #generative_ai: 39 uses
+- #perspective: 39 uses
+- #phdchat: 36 uses
+- #machine_learning: 33 uses
+- #stem_education: 32 uses
+
+POTENTIAL DUPLICATES
+- 'literacy/disciplinary_literacy' <-> 'literacydisciplinary_literacy' (similarity: 98.31%)
+- 'literacy/pedagogical_literacy' <-> 'literacypedagogical_literacy' (similarity: 98.25%)
+- 'online_teacher_communities' <-> 'on_line_teacher_communities' (similarity: 98.11%)
+- 'sociocultural_perspective' <-> 'socio_cultural_perspective' (similarity: 98.04%)
+- 'sociocultural_theory' <-> 'socio_cultural_theory' (similarity: 97.56%)
+- 'preservice_teachers' <-> 'pre_service_teachers' (similarity: 97.44%)
+- 'maskininlärning' <-> 'maskin_inlärning' (similarity: 96.77%)
+- 'dialogic_learning' <-> 'dialogical_learning' (similarity: 94.44%)
+- 'ai_interaction' <-> 'ai_integration' (similarity: 92.86%)
+- 'qualitative_research' <-> 'quantitative_research' (similarity: 92.68%)
+- 'teacher_empowerment' <-> 'teacher_disempowerment' (similarity: 92.68%)
+- 'meta_analysis' <-> 'meta-analysis' (similarity: 92.31%)
+- 'quantitative_methods' <-> 'qualitative_methods' (similarity: 92.31%)
+- 'trialogical_learning' <-> 'dialogical_learning' (similarity: 92.31%)
+- 'reflexive_dialogue' <-> 'reflective_dialogue' (similarity: 91.89%)
+- 'science_of_learning' <-> 'science_learning' (similarity: 91.43%)
+- 'technological_education' <-> 'technological_mediation' (similarity: 91.30%)
+- 'matching_to_sample' <-> 'match_to_sample' (similarity: 90.91%)
+- 'liu_l' <-> 'liu_bl' (similarity: 90.91%)
+- 'ai_in_education' <-> 'ict_in_education' (similarity: 90.32%)
+
+STANDARDIZATION SUGGESTIONS
+- Change '#ict' -> '#information_communication_technology' (2 uses)
+- Change '#llm' -> '#large_language_models' (1 uses)
+- Change '#k_12' -> '#k-12' (82 uses)
+- Change '#meta_analysis' -> '#meta-analysis' (13 uses)
+
+COMPLETE TAG LIST (TOP 100)
+
+Tag | Uses | Files
+------------------------------------------------------------
+#professional_development | 184 | 2024-04-06.md, Prestridge (2010). ICT professional development for teachers in online forums-
+Analysing the role of discussion.md, Slotte & Herbert (2006). Putting professional development online- Integrating learning as
+productive activity.md +181 more
+#social_media | 147 | Judy Kamalodeen & Jameson-Charles (2016). A Mixed Methods Research Approach to Exploring Teacher
+Participation in an Online Social Networking Website.md, Smith Risser (2013). Virtual induction- A novice teacher's use of Twitter to form an informal mentoring network.md, Kascak, Pupala & Mbugua (2015). Slovak Preschool Curriculum Reform and Teachers’ Emotions- An Analysis of Facebook Posts.md +144 more
+#chatgpt | 120 | Daily Notes AI-kurs lärare.md, Daily Notes AI-kurs lärare.md, Daily Notes AI-kurs lärare.md +117 more
+#higher_education | 112 | Yusuf, Pervin & Román-González (2024). Generative AI and the future of higher education- a threat to
+academic integrity or reformation Evidence from multicultural
+perspectives.md, Khlaif, Alkouk & Salama (2025). Redesigning assessments for AI-enhanced learning- A framework
+for educators in the generative AI era.md, Farhi et al. (2023). Analyzing the students' views, concerns, and perceived ethics about chat GPT usage.md +109 more
+#ethnography | 108 | Larsson (2006). Ethnography in action. How ethnography was established in Swedish
+educational research.md, Beaulieu (2004). Mediating ethnography- objectivity and the making of ethnographies
+of the internet.md, Beaulieu (2010). Research Note- From co-location to co-presence- Shifts in the use of ethnography for the study of knowledge.md +105 more
+#teacher_education | 86 | Prestridge (2010). ICT professional development for teachers in online forums-
+Analysing the role of discussion.md, Lee & Brett (2015). Dialogic understanding of teachers' online transformative
+learning- A qualitative case study of teacher discussions in a
+graduate-level online course.md, Mumtaz (2000). Factors affecting teachers' use of information and communications
+technology- a review of the literature.md +83 more
+#k_12 | 82 | Shute & Rahimi (2017). Review of computer-based assessment for learning in elementary
+and secondary education- Computer-based assessment for learning.md, Rybakova & Witte (2016). Professional Development 2.0- Teaching Teachers about Technology.md, Oliver & Stallings (2014). Preparing Teachers for Emerging Blended Learning Environments.md +79 more
+#sade | 72 | Daily Notes AI-kurs lärare.md, Daily Notes AI-kurs lärare.md, Daily Notes AI-kurs lärare.md +69 more
+#artificial_intelligence | 70 | Artificial Intelligence.md, Artificial Intelligence.md, al-Zyoud (2020). The Role of Artificial Intelligence in Teacher Professional
+Development.md +67 more
+#collaborative_learning | 70 | 2024-04-06.md, Hogan, Barton, Twiner, James, Ahmed, Casebourne, Steed, Shi, Zhao, Harney & Wegerif (2023). Education for collective intelligence.md, Casebourne, Shi, Hogan, Holmes, Hoel, Wegerif & Yuan (2024). Using AI to Support Education for Collective Intelligence.md +67 more
+#twitter | 68 | Smith Risser (2013). Virtual induction- A novice teacher's use of Twitter to form an informal mentoring network.md, Rudolph (2016). The Merge of Social Network Sites and Professional Development - A Case Study of Twitter Usage Among Minnesota K-12 Principals.md, Goodyear, Casey & Kirk (2014). Tweet me, message me, like me- using social media to facilitate pedagogical change within an emerging community of practice.md +65 more
+#moocs | 64 | Siemens & Dillenbourg (2013). Where are the Learning Sciences in the MOOC debate .md, Godhe, Karlsson & Lindström (2017). Massive Open Online Course (MOOC) - an infrastructure for learning.md, Veletsianos & Shepherdson (2016). A Systematic Analysis and Synthesis of the Empirical MOOC Literature Published in 2013–2015.md +61 more
+#online_learning | 62 | online learning.md, Schmidt, Geith & Håklev (2009). Peer-to-peer recognition of learning in open education.md, Slotte & Herbert (2006). Putting professional development online- Integrating learning as
+productive activity.md +59 more
+#case_study | 61 | Gombert, Fink, Giorgashvili, Jivet, Di Mitri, Yau, Frey & Drachsler (2024). From the Automated Assessment of Student Essay Content to Highly Informative Feedback- a Case Study.md, Barron (2006). Interest and Self-Sustained Learning as Catalysts of Development- A Learning Ecology Perspective.md, Heath, Fuller & Johnston (2009). Chasing shadows- defining network boundaries in qualitative social network analysis.md +58 more
+#said | 49 | Daily Notes AI-kurs lärare.md, Daily Notes AI-kurs lärare.md, Daily Notes AI-kurs lärare.md +46 more
+#generative_ai | 39 | Generative AI.md, Generative AI.md, Generative AI.md +36 more
+#perspective | 39 | Daily Notes AI-kurs lärare.md, Daily Notes AI-kurs lärare.md, Daily Notes AI-kurs lärare.md +36 more
+#phdchat | 36 | Ford, Veletsianos & Resta (2014). The Structure and Characteristics of #PhDChat, an Emergent Online
+Social Network.md, Ford, Veletsianos & Resta (2014). The Structure and Characteristics of #PhDChat, an Emergent Online
+Social Network.md, Ford, Veletsianos & Resta (2014). The Structure and Characteristics of #PhDChat, an Emergent Online
+Social Network.md +33 more
+#machine_learning | 33 | Machine Learning.md, Machine Learning.md, Machine Learning.md +30 more
+#stem_education | 32 | El Fathi, Saad, Larhzil, Lamri & Al Ibrahmi (2025). Integrating generative AI into STEM education- enhancing
+conceptual understanding, addressing misconceptions, and
+assessing student acceptance.md, Ideland & Malmberg (2012). Body talk- students’ identity construction while discussing a socioscientific issue.md, Lavonen, Juuti, Aksela & Meisalo (2006). A professional development project for improving the use of information and communication technologies in science teaching.md +29 more
+#edchat | 32 | Britt & Paulus (2016). “Beyond the Four Walls of My Building”- A Case Study of #Edchat
+as a Community of Practice.md, Britt & Paulus (2016). “Beyond the Four Walls of My Building”- A Case Study of #Edchat
+as a Community of Practice.md, Britt & Paulus (2016). “Beyond the Four Walls of My Building”- A Case Study of #Edchat
+as a Community of Practice.md +29 more
+#educational_technology | 29 | 2024-03-28.md, 2024-03-28.md, al-Zyoud (2020). The Role of Artificial Intelligence in Teacher Professional
+Development.md +26 more
+#wikileaks | 28 | Lindgren & Lundstrom (2011). Pirate culture and hacktivist mobilization- The cultural and
+social protocols of #WikiLeaks on Twitter.md, Lindgren & Lundstrom (2011). Pirate culture and hacktivist mobilization- The cultural and
+social protocols of #WikiLeaks on Twitter.md, Lindgren & Lundstrom (2011). Pirate culture and hacktivist mobilization- The cultural and social protocols of #WikiLeaks on Twitter.md +25 more
+#artificial_intelligence_in_education | 27 | AIED.md, AIED.md, AIED.md +24 more
+#research_methodology | 27 | Larsson (2006). Ethnography in action. How ethnography was established in Swedish
+educational research.md, Beaulieu (2004). Mediating ethnography- objectivity and the making of ethnographies
+of the internet.md, Greenhow, Robelia & Hughes (2009). -textitResponse to Comments- Research on Learning and Teaching
+With Web 2.0- Bridging Conversations.md +24 more
+#systematic_review | 26 | Shute & Rahimi (2017). Review of computer-based assessment for learning in elementary
+and secondary education- Computer-based assessment for learning.md, Wang, Tlili et al. (2023). Examining the applications of intelligent tutoring systems in real educational contexts - A systematic literature review from the social experiment perspective.md, Hsu, Hung & Ching (2013). Trends of educational technology research- more than a decade of
+international research in six SSCI-indexed refereed journals.md +23 more
+#reflection | 25 | Daily Notes AI-kurs lärare.md, Daily Notes AI-kurs lärare.md, Daily Notes AI-kurs lärare.md +22 more
+#assessment | 24 | Shute & Rahimi (2017). Review of computer-based assessment for learning in elementary
+and secondary education- Computer-based assessment for learning.md, Khlaif, Alkouk & Salama (2025). Redesigning assessments for AI-enhanced learning- A framework
+for educators in the generative AI era.md, Schmidt, Geith, Håklev & Thierstein (2009). Peer-to-peer recognition of learning in open education.md +21 more
+#tpack | 23 | 2024-03-18.md, 2024-03-18.md, 2024-03-18.md +20 more
+#cite | 20 | Dignum, V. (2019). Responsible Artificial Intelligence - How to Develop and Use AI in a Responsible Way..md, Dignum, V. (2019). Responsible Artificial Intelligence - How to Develop and Use AI in a Responsible Way..md, Dignum, V. (2019). Responsible Artificial Intelligence - How to Develop and Use AI in a Responsible Way..md +17 more
+#literacy | 18 | Chase & Laufenberg (2011). Embracing the Squishiness of Digital Literacy.md, Meneses, Fàbregues, Rodríguez-Gómez & Ion (2012). Internet in teachers' professional practice outside the classroom- Examining supportive and management uses in primary and secondary schools.md, Kreinsen & Schulz (2023). Towards the Triad of Digital Literacy, Data Literacy and AI Literacy in Teacher Education – A Discussion in Light of the Accessibility of Novel Generative AI.md +15 more
+#educational_research | 17 | Larsson (2006). Ethnography in action. How ethnography was established in Swedish
+educational research.md, Greenhow, Robelia & Hughes (2009). -textitResponse to Comments- Research on Learning and Teaching
+With Web 2.0- Bridging Conversations.md, Karlsson (n.d.). Local Education Order. Ethnomethodological studies of knowledge in action.md +14 more
+#qualitative_research | 17 | Larsson (2006). Ethnography in action. How ethnography was established in Swedish
+educational research.md, Prestridge (2010). ICT professional development for teachers in online forums-
+Analysing the role of discussion.md, Dobbels, Jong, Drost, Elberse, Feridou, Jacobs, Rabinovich, Frei, Puhan, Molen, Williams, Pinnock, Karlsson, Kulich & Rüdell (2014). The PROactive innovative conceptual framework on physical
+activity.md +14 more
+#ai_literacy | 16 | Kajiwara & Kawabata (2024). AI literacy for ethical use of chatbot- Will students accept
+AI ethics.md, Kajiwara & Kawabata (2024). AI literacy for ethical use of chatbot- Will students accept
+AI ethics.md, Markauskaite, Marrone, Poquet, Martinez-Maldonado, Howard, De Laat, Buckingham Shum & Siemens (2022). Rethinking the entwinement between artificial intelligence and
+human learning- What capabilities do learners need for a world
+with AI.md +13 more
+#intelligent_tutoring_systems | 16 | Baker, R. S. (2016). Stupid Tutoring Systems, Intelligent Humans.md, Koschmann (2001). Revisiting the paradigms of instructional technology.md, Yannier, Hudson, Chang & Koedinger (2024). AI Adaptivity in a Mixed-Reality System Improves Learning.md +13 more
+#nars_system | 15 | Lecture 1 Exclude!.md, Lecture 1 Exclude!.md, Lecture 1 Exclude!.md +12 more
+#conclusion | 15 | Daily Notes AI-kurs lärare.md, Daily Notes AI-kurs lärare.md, Daily Notes AI-kurs lärare.md +12 more
+#k_12_education | 15 | Mayor Martins et al. (2023). Machine Learning for All!—Introducing Machine Learning in Middle and High School.md, Peters & Slotta (2010). Scaffolding Knowledge Communities in the Classroom- New Opportunities in the Web 2.0 Era.md, Sperling, Stenliden, Nissen & Heintz (2024). Behind the Scenes of Co-designing AI and LA in K-12 Education.md +12 more
+#ai_ethics | 14 | Lecture 9.md, Yusuf, Pervin & Román-González (2024). Generative AI and the future of higher education- a threat to
+academic integrity or reformation Evidence from multicultural
+perspectives.md, Kajiwara & Kawabata (2024). AI literacy for ethical use of chatbot- Will students accept
+AI ethics.md +11 more
+#aied | 14 | AIED.md, AIED.md, AIED.md +11 more
+#teacher_professional_development | 14 | al-Zyoud (2020). The Role of Artificial Intelligence in Teacher Professional
+Development.md, Judy Kamalodeen & Jameson-Charles (2016). A Mixed Methods Research Approach to Exploring Teacher
+Participation in an Online Social Networking Website.md, Petty, Heafner, Farinde & Plaisance (2015). Windows into teaching and learning- professional growth of classroom teachers in an online environment.md +11 more
+#theoretical_framework | 14 | al-Zyoud (2020). The Role of Artificial Intelligence in Teacher Professional
+Development.md, Kuurti (1995). Activity Theory as a Potential Framework for Human-Computer Interaction Research.md, Wertsch (1994). The Primacy of Mediated Action in Sociocultural Studies.md +11 more
+#commentary | 14 | Shanahan (2022). Talking about large language models.md, Greenhow, Robelia & Hughes (2009). -textitResponse to Comments- Research on Learning and Teaching
+With Web 2.0- Bridging Conversations.md, Pelletier (2024). Against Personalised Learning.md +11 more
+#technology_integration | 14 | Angeli, C., & Valanides, N. (2009). Epistemological and methodological issues for the conceptualization, development, and assessment of ICT–TPCK Advances in technological pedagogical content knowledge (TPCK).md, Graham (2005). Blended Learning Systems - Definition, Current Trends, and Future Directions.md, Kumar & Schwertner (2008). Building Personal Collections and Networks of Digital Objects in a Fedora Repository Using VUE.md +11 more
+#adaptive_learning | 13 | Lecture 3 Exclude!.md, Johansson (2024). Machine Psychology- integrating operant conditioning with the
+non-axiomatic reasoning system for advancing artificial general
+intelligence research.md, Hammer (2022). Reasoning-Learning Systems Based on Non-Axiomatic Reasoning System Theory.md +10 more
+#learning_sciences | 13 | Koedinger, Corbett & Perfetti (2012). The Knowledge-Learning-Instruction Framework- Bridging the
+Science-Practice Chasm to Enhance Robust Student Learning.md, Barab (n.d.). A Methodological Toollut for the Learning Scientist.md, Tabak & Radinsky (2014). Editors’ Note.md +10 more
+#cerratto_pargman_t | 13 | McGrath, Farazouli & Cerratto-Pargman (2024). Generative AI chatbots in higher education - a review of an emerging research area.md, McGrath, Cerratto Pargman, Juth & Palmgren (2023). University teachers' perceptions of responsibility and artificial intelligence in higher education - An experimental philosophical study.md, Cerratto Pargman, McGrath, Viberg & Knight (2023). New Vistas on Responsible Learning Analytics - A Data Feminist Perspective.md +10 more
+#activity_theory | 13 | Engeström & Sannino (2011). Discursive manifestations of contradictions in organizational change efforts- A methodological framework.md, Kuurti (1995). Activity Theory as a Potential Framework for Human-Computer Interaction Research.md, Arnseth & Ludvigsen (2006). Approaching institutional contexts- systemic versus dialogic research in CSCL.md +10 more
+#design_based_research | 13 | The Design-Based Research Collective (2003). Design-Based Research- An Emerging Paradigm for Educational Inquiry.md, Hoadley (2004). Methodological Alignment in Design-Based Research.md, Hillman (2011). The Inscription, Translation and Re-Inscription of Technology for Mathematical Learning.md +10 more
+#game_based_learning | 13 | Nardi & Harris (2006). Strangers and Friends- Collaborative Play in World of Warcraft.md, Egenfeldt-Nielsen (2006). Overview of research on the educational use of video games.md, Francis (2006). Towards a Theory of a Games Based Pedagogy.md +10 more
+#personalized_learning | 13 | Pesovski, Santos, Henriques & Trajkovik (2024). Generative AI for Customizable Learning Experiences.md, Pelletier (2024). Against Personalised Learning.md, Holmes & Tuomi (2022). State of the Art and Practice in AI in Education.md +10 more
+#meta_analysis | 13 | Hsu, Hung & Ching (2013). Trends of educational technology research- more than a decade of international research in six SSCI-indexed refereed journals.md, tag_report_20250731_103834.md, tag_report_20250731_103834.md +10 more
+#johansson_r | 12 | Lecture 9.md, Lecture 6.md, Johansson (2024). Machine Psychology - integrating operant conditioning with the non-axiomatic reasoning system for advancing artificial general intelligence research.md +9 more
+#motor_babbling | 12 | Lecture 6.md, Lecture 4 Exclude!.md, Johansson (2024). Machine Psychology - integrating operant conditioning with the non-axiomatic reasoning system for advancing artificial general intelligence research.md +9 more
+#pck | 12 | 2024-03-18.md, 2024-03-18.md, 2024-03-18.md +9 more
+#curriculum_design | 12 | Kajiwara & Kawabata (2024). AI literacy for ethical use of chatbot- Will students accept
+AI ethics.md, Lavonen, Juuti, Aksela & Meisalo (2006). A professional development project for improving the use of information and communication technologies in science teaching.md, Peters & Slotta (2010). Scaffolding Knowledge Communities in the Classroom- New Opportunities in the Web 2.0 Era.md +9 more
+#uence | 12 | Clement & Vandenberghe (2000). Teachers’ professional development- a solitary or collegial
+(ad)venture.md, Clement & Vandenberghe (2000). Teachers’ professional development- a solitary or collegial
+(ad)venture.md, Clement & Vandenberghe (2000). Teachers’ professional development- a solitary or collegial
+(ad)venture.md +9 more
+#learning_analytics | 12 | Baker, R. S. (2016). Stupid Tutoring Systems, Intelligent Humans.md, Swist, Buckingham Shum & Gulson (2024). Co-producing AIED Ethics Under Lockdown- an Empirical Study of Deliberative Democracy in Action.md, Chen, Xie, Zou & Hwang (2020). Application and theory gaps during the rise of Artificial Intelligence in Education.md +9 more
+#boden_ma | 12 | Boden (2016). AI - Its nature and future.md, Boden (2016). AI - Its nature and future.md, Boden (2016). AI - Its nature and future.md +9 more
+#dehouwer_j | 12 | De Houwer & Hughes (2020).md, De Houwer & Hughes (2020).md, De Houwer & Hughes (2020).md +9 more
+#hughes_s | 12 | De Houwer & Hughes (2020).md, De Houwer & Hughes (2020).md, De Houwer & Hughes (2020).md +9 more
+#digital_literacy | 12 | Brown (2002). Learning in the digital age.md, Egenfeldt-Nielsen (2006). Overview of research on the educational use of video games.md, Lankshear & Knobel (2007). Researching New Literacies- Web 2.0 Practices and Insider Perspectives.md +9 more
+#internet_research_ethics | 12 | Reynolds & de Zwart (2010). The Duty To ‘Play’- Ethics, EULAs and MMOs.md, Carusi (2008). Data as Representation- Beyond Anonymity In E-Research Ethics.md, Markham & Buchanan (2012). Ethical Decision-Making and Internet Research Recommendations from the AoIR Ethics Working Committee.md +9 more
+#quote_finding | 12 | Süzen et al. (2020). Automatic short answer grading and feedback using text mining methods.md, Ouyang & Jiao (2021). Artificial intelligence in education - The three paradigms.md, Guneysu Ozgur, Majlesi, Taburet, Meijer, Leite & Kuoppamäki (2022). Designing Tangible Robot Mediated Co-located Games to Enhance Social Inclusion for Neurodivergent Children.md +9 more
+#nars_implementation | 11 | Lecture 5 Exclude!.md, Lecture 4 Exclude!.md, Lecture 4 Exclude!.md +8 more
+#experience_grounded_semantics | 11 | Lecture 3 Exclude!.md, Wang (2022). Intelligence - From Definition to Design.md, Wang (2022). Intelligence - From Definition to Design.md +8 more
+#ontogenetic_adaptation | 11 | Lecture 4 Exclude!.md, Lecture 1 Exclude!.md, Lecture 1 Exclude!.md +8 more
+#human_computer_interaction | 11 | Held, Kimmerle & Cress (2012). Learning by foraging- The impact of individual knowledge and
+social tags on web navigation processes.md, O´Malley, Langton, Anderson, Doherty-Sneddon & Bruce (1996). Comparison of face-to-face and video-mediated interaction.md, Kuurti (1995). Activity Theory as a Potential Framework for Human-Computer Interaction Research.md +8 more
+#mcgrath_c | 11 | McGrath, Farazouli & Cerratto-Pargman (2024). Generative AI chatbots in higher education - a review of an emerging research area.md, McGrath, Cerratto Pargman, Juth & Palmgren (2023). University teachers' perceptions of responsibility and artificial intelligence in higher education - An experimental philosophical study.md, Cerratto Pargman, McGrath, Viberg & Knight (2023). New Vistas on Responsible Learning Analytics - A Data Feminist Perspective.md +8 more
+#discourse_analysis | 11 | McGrath, Farazouli & Cerratto-Pargman (2024). Generative AI chatbots in higher education - a review of an emerging research area.md, Engeström & Sannino (2011). Discursive manifestations of contradictions in organizational change efforts- A methodological framework.md, Lindwall & Boström (2024). Conversation analysis, dialogism, and the case for a minimal communicative unit.md +8 more
+#holmes_w | 11 | Casebourne, Shi, Hogan, Holmes, Hoel, Wegerif & Yuan (2024). Using AI to Support Education for Collective Intelligence.md, Holmes & Tuomi (2022). State of the Art and Practice in AI in Education.md, Porayska-Pomsta, Holmes & Nemorin (2024). The Ethics of AI in Education.md +8 more
+#educational_design | 11 | Casebourne, Shi, Hogan, Holmes, Hoel, Wegerif & Yuan (2024). Using AI to Support Education for Collective Intelligence.md, Barab & Squire (n.d.). Design-Based Research- Putting a Stake in the Ground.md, Wasson, Guribye & Mørch (n.d.). Project DoCTA- Design and use of Collaborative Telelearning Artefacts.md +8 more
+#covid_19 | 11 | Swist, Buckingham Shum & Gulson (2024). Co-producing AIED Ethics Under Lockdown- an Empirical Study of Deliberative Democracy in Action.md, Chaudhry & Kazim (2022). Artificial Intelligence in Education (AIEd)- a high-level academic and industry note 2021.md, Jia & Tu (2024). Towards a New Conceptual Model of AI-Enhanced Learning for College Students- The Roles of Artificial Intelligence Capabilities, General Self-Efficacy, Learning Motivation, and Critical Thinking Awareness.md +8 more
+#five_lenses_framework | 11 | Greenhow, Graham & Koehler (2022). Foundations of online learning - Challenges and opportunities.md, Greenhow, Graham & Koehler (2022). Foundations of online learning - Challenges and opportunities.md, Greenhow, Graham & Koehler (2022). Foundations of online learning - Challenges and opportunities.md +8 more
+#human_centered_ai | 11 | Ouyang & Jiao (2021). Artificial intelligence in education - The three paradigms.md, Ouyang & Jiao (2021). Artificial intelligence in education - The three paradigms.md, Ouyang & Jiao (2021). Artificial intelligence in education - The three paradigms.md +8 more
+#clinical_applications | 10 | Lecture 9.md, De Houwer & Hughes (2020).md, Johansson (2019). Arbitrarily Applicable Relational Responding.md +7 more
+#resource_management | 10 | Lecture 5 Exclude!.md, Lecture 3 Exclude!.md, Wang (2022). Intelligence - From Definition to Design.md +7 more
+#temporal_induction | 10 | Lecture 6.md, Lecture 4 Exclude!.md, Lecture 2 Exclude!.md +7 more
+#complex_learning | 10 | Lecture 6.md, Lecture 2 Exclude!.md, De Houwer & Hughes (2020).md +7 more
+#temporal_reasoning | 10 | Lecture 3 Exclude!.md, Johansson, Lofthouse & Hammer (2023). Generalized Identity Matching in NARS.md, Johansson, Lofthouse & Hammer (2023). Generalized Identity Matching in NARS.md +7 more
+#non_axiomatic_reasoning | 10 | Lecture 1 Exclude!.md, Wang (2022). Intelligence - From Definition to Design.md, Wang (2022). Intelligence - From Definition to Design.md +7 more
+#neural_network | 10 | Neural Networks.md, Neural Networks.md, Bayesian Neural Network.md +7 more
+#searles | 10 | 2024-10-11 Teknisk perspektiv.md, 2024-10-11 Teknisk perspektiv.md, Daily Notes AI-kurs lärare.md +7 more
+#ai_limitations | 10 | 2025-01-23.md, Selwyn (2022). The future of AI and education Some cautionary notes.md, tag_cleanup_summary.md +7 more
+#thesis | 10 | 2024-05-26.md, 2024-05-26.md, 2024-05-28.md +7 more
+#step | 10 | 2024-03-26.md, 2024-03-26.md, 2024-03-26.md +7 more
+#farazouli_a | 10 | McGrath, Farazouli & Cerratto-Pargman (2024). Generative AI chatbots in higher education - a review of an emerging research area.md, Farazouli, A. (2024). Automation and Assessment - Exploring Ethical Issues of Automated Grading Systems.md, Farazouli, Cerratto-Pargman, Bolander-Laksov & McGrath (2024). Hello GPT- Goodbye home examination - An exploratory study of AI chatbots impact on university teachers' assessment practices.md +7 more
+#systematic_review_methodology | 10 | McGrath, Farazouli & Cerratto-Pargman (2024). Generative AI chatbots in higher education - a review of an emerging research area.md, McGrath, Farazouli & Cerratto-Pargman (2024). Generative AI chatbots in higher education - a review of an emerging research area.md, McGrath, Farazouli & Cerratto-Pargman (2024). Generative AI chatbots in higher education - a review of an emerging research area.md +7 more
+#quote_methodology | 10 | Casebourne, Shi, Hogan, Holmes, Hoel, Wegerif & Yuan (2024). Using AI to Support Education for Collective Intelligence.md, De Paoli (2023). Performing an Inductive Thematic Analysis of Semi-Structured Interviews With a Large Language Model - An Exploration and Provocation on the Limits of the Approach.md, Wang (2022). Intelligence - From Definition to Design.md +7 more
+#educattentats | 10 | Greenhalgh & Koehler (2016). 28 Days Later- Twitter Hashtags as ``Just in Time'' Teacher
+Professional Development.md, Greenhalgh & Koehler (2016). 28 Days Later- Twitter Hashtags as ``Just in Time'' Teacher
+Professional Development.md, Greenhalgh & Koehler (2016). 28 Days Later- Twitter Hashtags as 'Just in Time' Teacher Professional Development.md +7 more
+#self_directed_learning | 10 | Barron (2006). Interest and Self-Sustained Learning as Catalysts of Development- A Learning Ecology Perspective.md, Robertson (2011). The educational affordances of blogs for self-directed learning.md, Fischer (n.d.). Supporting Self-Directed Learning with Cultures of Participation.md +7 more
+#computer_supported_collaborative_learning | 10 | Arnseth & Ludvigsen (2006). Approaching institutional contexts- systemic versus dialogic research in CSCL.md, Stahl (2009). Yes we can!.md, Lymer, Ivarsson & Lindwall (2009). Contrasting the use of tools for presentation and critique- Some cases from architectural education.md +7 more
+#meta_regularities | 9 | Lecture 2 Exclude!.md, De Houwer & Hughes (2020).md, De Houwer & Hughes (2020).md +6 more
+#15_16 | 9 | 2025-05-15 KUL2025 Paper draft.md, 2025-05-15 KUL2025 Paper draft.md, tag_report_20250731_103834.md +6 more
+#educational_policy | 9 | Darling-Hammond, L., Hyler, M. E., & Gardner, M. (2017). Effective Teacher Professional Development.md, Willermark, Olofsson & Lindberg (2023). Digitalization and Digital Competence in Educational Contexts- A Nordic Perspective from Policy to Practice.md, Darling-Hammond, Wei, Andree, Richardson & Orphanos (n.d.). Professional Learning in the Learning Profession-.md +6 more
+#quote_definition | 9 | Graham (2005). Blended Learning Systems - Definition, Current Trends, and Future Directions.md, Wang (2022). Intelligence - From Definition to Design.md, Wang P. (2019). On Defining Artificial Intelligence.md +6 more
+#knowledge_representation | 9 | Boden (2016). AI - Its nature and future.md, Wang, Li & Hammer (2018). Self in NARS, an AGI System.md, Teplovs & Scardamalia (n.d.). Visualizations for Knowledge Building Assessment.md +6 more
+#hammer_p | 9 | Johansson, Hammer & Lofthouse (2024). Functional Equivalence with NARS.md, Johansson, Lofthouse & Hammer (2023). Generalized Identity Matching in NARS.md, Wang, Li & Hammer (2018). Self in NARS, an AGI System.md +6 more
+#web_2 | 9 | Kumar & Schwertner (2008). Building Personal Collections and Networks of Digital Objects in a Fedora Repository Using VUE.md, Lankshear & Knobel (2007). Researching New Literacies- Web 2.0 Practices and Insider Perspectives.md, Hedberg & Brudvik (2008). Supporting Dialogic Literacy Through Mashing and Modding of Places and Spaces.md +6 more
+#video_mediated_communication | 9 | O´Malley, Langton, Anderson, Doherty-Sneddon & Bruce (1996). Comparison of face-to-face and video-mediated interaction.md, Kirk, Sellen & Cao (2010). Home video communication- mediating 'closeness'.md, tag_report_20250731_103834.md +6 more

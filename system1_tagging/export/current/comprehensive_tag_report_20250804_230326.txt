@@ -1,0 +1,165 @@
+OBSIDIAN VAULT TAG ANALYSIS REPORT
+Generated: 2025-08-04 23:03:26
+
+SUMMARY
+- Total unique tags: 499
+- Total tag uses: 1587
+- Average uses per tag: 3.2
+
+TAG DISTRIBUTION
+- Single use tags: 314
+- Rare use (2-5): 158
+- Moderate use (6-20): 13
+- Common use (>20): 14
+
+MOST COMMON TAGS
+- #professional_development: 108 uses
+- #social_media: 99 uses
+- #higher_education: 79 uses
+- #ethnography: 68 uses
+- #teacher_education: 50 uses
+- #k-12: 48 uses
+- #collaborative_learning: 45 uses
+- #twitter: 44 uses
+- #case_study: 41 uses
+- #AIED: 40 uses
+- #online_learning: 30 uses
+- #moocs: 30 uses
+- #artificial_intelligence: 27 uses
+- #educational_technology: 21 uses
+- #systematic_review: 19 uses
+- #aied: 17 uses
+- #stem_education: 16 uses
+- #assessment: 13 uses
+- #research_methodology: 12 uses
+- #machine_learning: 10 uses
+
+POTENTIAL DUPLICATES
+- 'situated_cognition' <-> 'design_education' (similarity: 100.00%)
+- 'science_education' <-> 'cs_education' (similarity: 100.00%)
+- 'science_education' <-> 'distance_education' (similarity: 100.00%)
+- 'ai_in_education' <-> 'AI_education' (similarity: 100.00%)
+- 'matching_to_sample' <-> 'implementation_challenges' (similarity: 100.00%)
+- 'literacy' <-> 'AI_Literacy' (similarity: 100.00%)
+- 'educational_automation' <-> 'multimodal_data_collection' (similarity: 100.00%)
+- 'cs_education' <-> 'distance_education' (similarity: 100.00%)
+- 'teacher_education' <-> 'Teacher_Education' (similarity: 98.00%)
+- 'higher_education' <-> 'Higher_Education' (similarity: 98.00%)
+- 'generative_AI' <-> 'Generative_AI' (similarity: 98.00%)
+- 'generative_AI' <-> 'generative_ai' (similarity: 98.00%)
+- 'AIED' <-> 'aied' (similarity: 98.00%)
+- 'artificial_intelligence' <-> 'Artificial_intelligence' (similarity: 98.00%)
+- 'artificial_intelligence' <-> 'Artificial_Intelligence' (similarity: 98.00%)
+- 'technology_integration' <-> 'Technology_Integration' (similarity: 98.00%)
+- 'Generative_AI' <-> 'generative_ai' (similarity: 98.00%)
+- 'machine_learning' <-> 'Machine_Learning' (similarity: 98.00%)
+- 'tpack' <-> 'TPACK' (similarity: 98.00%)
+- 'Instructional_Design' <-> 'instructional_design' (similarity: 98.00%)
+
+STANDARDIZATION SUGGESTIONS
+- Change '#llm' -> '#large_language_models' (2 uses)
+
+COMPLETE TAG LIST (TOP 100)
+
+Tag | Uses | Files
+------------------------------------------------------------
+#professional_development | 108 | 4 Articles/Hines2008-ms.md, 4 Articles/Loizzo2017-eo.md, 4 Articles/Lord2014-yk.md +105 more
+#social_media | 99 | 4 Articles/Hines2008-ms.md, 4 Articles/Lord2014-yk.md, 4 Articles/Andersson2014-wo.md +96 more
+#higher_education | 79 | 4 Articles/Van_Le2024-fg.md, 4 Articles/Novak2006-uc.md, 4 Articles/Garrison1999-gc.md +76 more
+#ethnography | 68 | 4 Articles/Loizzo2017-eo.md, 4 Articles/Glazko2023-as.md, 4 Articles/Eichhorn2001-tj.md +65 more
+#teacher_education | 50 | 4 Articles/Hines2008-ms.md, 4 Articles/Wopereis2010-qm.md, 4 Articles/Avalos2011-sw.md +47 more
+#k-12 | 48 | 4 Articles/Grimmett2014-ad.md, 4 Articles/Rybakova2016-uy.md, 4 Articles/Xia2024-xe.md +45 more
+#collaborative_learning | 45 | 4 Articles/Scardamalia2004-qv.md, 4 Articles/Ivarsson2010-dx.md, 4 Articles/Strijbos2004-rq.md +42 more
+#twitter | 44 | 4 Articles/Lord2014-yk.md, 4 Articles/Grimmett2014-ad.md, 4 Articles/Alias2013-av.md +41 more
+#case_study | 41 | 4 Articles/Hines2008-ms.md, 4 Articles/Jones2016-wx.md, 4 Articles/Glazko2023-as.md +38 more
+#AIED | 40 | 4 Articles/Pado2023-dv.md, 4 Articles/Mouta2023-mq.md, 4 Articles/Yannier2024-al.md +37 more
+#online_learning | 30 | 4 Articles/Chatti2007-ss.md, 4 Articles/Cuban2015-xv.md, 4 Articles/Haudek2023-vp.md +27 more
+#moocs | 30 | 4 Articles/Loizzo2017-eo.md, 4 Articles/Jones2016-wx.md, 4 Articles/Koschmann1984-pi.md +27 more
+#artificial_intelligence | 27 | 4 Articles/Xia2024-xe.md, 4 Articles/Pesovski2024-ua.md, 4 Articles/Haudek2023-vp.md +24 more
+#educational_technology | 21 | 4 Articles/Hines2008-ms.md, 4 Articles/Chatti2007-ss.md, 4 Articles/Scardamalia2004-qv.md +18 more
+#systematic_review | 19 | 4 Articles/Bearman2015-gt.md, 4 Articles/Macia2016-vc.md, 4 Articles/Malinen2015-lv.md +16 more
+#aied | 17 | 4 Articles/Yannier2024-al.md, 4 Articles/Chaipidech2022-he.md, 4 Articles/Selwyn2022-nr.md +14 more
+#stem_education | 16 | 4 Articles/Lindahl2013-am.md, 4 Articles/Yannier2024-al.md, 4 Articles/Haudek2023-vp.md +13 more
+#assessment | 13 | 4 Articles/Haudek2023-vp.md, 4 Articles/Hashemi2023-ax.md, 4 Articles/Puntambekar2011-zp.md +10 more
+#research_methodology | 12 | 4 Articles/Jefferson2004-nt.md, 4 Articles/Barab2004-fh.md, 4 Articles/Bereiter2002-sj.md +9 more
+#machine_learning | 10 | 4 Articles/Haudek2023-vp.md, 4 Articles/Horbach2023-ns.md, 4 Articles/Mason2023-dx.md +7 more
+#personalized_learning | 9 | 4 Articles/Pesovski2024-ua.md, 4 Articles/Chaipidech2022-he.md, 4 Articles/Chan2023-ev.md +6 more
+#chatgpt | 9 | 4 Articles/Chan2023-ev.md, 4 Articles/Kajiwara2024-la.md, 4 Articles/Al_Shloul2024-ih.md +6 more
+#commentary | 7 | 4 Articles/Graesser2024-gn.md, 4 Articles/Pelletier2024-fa.md, 4 Articles/Linell2007-qj.md +4 more
+#from_paperpile | 7 | 4 Articles/Unknown2022-rb.md, 4 Articles/Kumar2008-hn.md, 4 Articles/Unknown2019-yg.md +4 more
+#qualitative_research | 6 | 4 Articles/Van_Le2024-fg.md, 4 Articles/Hanna2012-cu.md, 4 Articles/Erol_Donmez_Fevzi_Inan2012-uq.md +3 more
+#educational_research | 6 | 4 Articles/Van_Le2024-fg.md, 4 Articles/Barab2004-fh.md, 4 Articles/Bransford2014-qq.md +3 more
+#digital_literacy | 6 | 4 Articles/Hedberg2008-mf.md, 4 Articles/Egenfeldt-Nielsen2006-yw.md, 4 Articles/Bruder2013-sw.md +3 more
+#research_methods | 5 | 4 Articles/Van_Le2024-fg.md, 4 Articles/A_McKee2008-co.md, 4 Articles/Muhonen2024-zf.md +2 more
+#knowledge_building | 5 | 4 Articles/Scardamalia2004-qv.md, 4 Articles/Scardamalia1994-xh.md, 4 Articles/Scardamalia2005-lo.md +2 more
+#research_ethics | 5 | 4 Articles/OConnor2010-jw.md, 4 Articles/A_McKee2008-co.md, 4 Articles/Frisoli2010-wt.md +2 more
+#science_education | 5 | 4 Articles/Chaipidech2022-he.md, 4 Articles/Furberg2008-wb.md, 4 Articles/Willerman1991-ny.md +2 more
+#ai_ethics | 5 | 4 Articles/Chan2023-ev.md, 4 Articles/Kajiwara2024-la.md, 4 Articles/Lee2024-ui.md +2 more
+#theoretical_framework | 5 | 4 Articles/Leigh_Star2010-wx.md, 4 Articles/Wegerif2024-uc.md, 4 Articles/Lynch1997-ho.md +2 more
+#ai_literacy | 5 | 4 Articles/Kajiwara2024-la.md, 4 Articles/Acosta-Enriquez2024-hn.md, 4 Articles/Knoth2024-ta.md +2 more
+#online_communities | 4 | 4 Articles/Hines2008-ms.md, 4 Articles/Charalambos2004-ed.md, 4 Articles/Lee2013-xv.md +1 more
+#automated_assessment | 4 | 4 Articles/Demeyer2016-qj.md, 4 Articles/Pado2023-dv.md, 4 Articles/Celik2022-zu.md +1 more
+#interaction_analysis | 4 | 4 Articles/Ivarsson2010-dx.md, 4 Articles/Furberg2008-wb.md, 4 Articles/Santana_Lisboa2013-hj.md +1 more
+#cscl | 4 | 4 Articles/Ivarsson2010-dx.md, 4 Articles/Stahl2009-px.md, 4 Articles/Arnseth2006-tg.md +1 more
+#natural_language_processing | 4 | 4 Articles/Verhelst2024-iy.md, 4 Articles/Pado2023-dv.md, 4 Articles/Morris2024-tx.md +1 more
+#intelligent_tutoring_systems | 4 | 4 Articles/Yannier2024-al.md, 4 Articles/Chen2020-vv.md, 4 Articles/Alkhatlan2018-nk.md +1 more
+#web_2 | 4 | 4 Articles/Hedberg2008-mf.md, 4 Articles/Brown2008-lg.md, 4 Articles/Lankshear2007-jb.md +1 more
+#communities_of_practice | 4 | 4 Articles/Lindkvist2005-cb.md, 4 Articles/Gee2000-wu.md, 4 Articles/Lee2013-xv.md +1 more
+#curriculum_design | 4 | 4 Articles/DePaula2001-yu.md, 4 Articles/Kajiwara2024-la.md, 4 Articles/Gerstein2011-fc.md +1 more
+#educational_psychology | 4 | 4 Articles/Salomon2003-wb.md, 4 Articles/Muhonen2024-zf.md, 4 Articles/Bransford2014-qq.md +1 more
+#quote_finding | 4 | 4 Articles/Guneysu_Ozgur2022-qo.md, 4 Articles/Suzen2020-zr.md, 4 Articles/Farazouli2024-pt.md +1 more
+#generative_ai | 4 | 4 Articles/Foung2024-hh.md, 4 Articles/Amoozadeh2023-me.md, 4 Articles/El_Fathi2025-lz.md +1 more
+#Hammer_P | 4 | 4 Articles/Johansson2023-dt.md, 4 Articles/Johansson2024-ig.md, 4 Articles/Hammer2022-xl.md +1 more
+#Johansson_R | 4 | 4 Articles/Johansson2023-dt.md, 4 Articles/Johansson2024-ig.md, 4 Articles/Johansson2024-bv.md +1 more
+#conversation_analysis | 4 | 4 Articles/Jefferson2004-nt.md, 4 Articles/Macbeth2011-qw.md, 4 Articles/Pearce2010-jz.md +1 more
+#discourse_analysis | 4 | 4 Articles/Jefferson2004-nt.md, 4 Articles/Engestrom2011-js.md, 4 Articles/Ravenscroft2008-ac.md +1 more
+#learning_sciences | 4 | 4 Articles/Lebis2023-js.md, 4 Articles/Gee2000-wu.md, 4 Articles/noauthor_2024-ob.md +1 more
+#internet_research_ethics | 4 | 4 Articles/Grodzinsky2010-cl.md, 4 Articles/Markham2011-vk.md, 4 Articles/Carusi2008-tf.md +1 more
+#ChatGPT | 4 | 4 Articles/Stojanov2024-pr.md, 4 Articles/Essel2024-hy.md, 4 Articles/Farhi2023-lx.md +1 more
+#learning_theory | 3 | 4 Articles/Scardamalia2004-qv.md, 4 Articles/Salomon2003-wb.md, 4 Articles/Urmeneta2024-cg.md
+#game_based_learning | 3 | 4 Articles/Francis2006-hs.md, 4 Articles/Nardi2006-es.md, 4 Articles/Egenfeldt-Nielsen2006-yw.md
+#distributed_cognition | 3 | 4 Articles/Charalambos2004-ed.md, 4 Articles/Salomon2003-wb.md, 4 Articles/Boden2016-qc.md
+#1 | 3 | 4 Articles/Beaulieu2005-be.md, 4 Articles/Engestrom2006-vi.md, 4 Articles/Boyd2008-xz.md
+#Generative_AI | 3 | 4 Articles/Collie2024-ty.md, 4 Articles/Fleckenstein2024-ey.md, 4 Articles/Moorhouse2024-jy.md
+#k_12_education | 3 | 4 Articles/Haudek2023-vp.md, 4 Articles/Erol_Donmez_Fevzi_Inan2012-uq.md, 4 Articles/Lee2024-zo.md
+#quantitative_research | 3 | 4 Articles/Chaipidech2022-he.md, 4 Articles/Acosta-Enriquez2024-hn.md, 4 Articles/Celik2023-cv.md
+#TPACK | 3 | 4 Articles/Sannino2009-ix.md, 4 Articles/Unknown2019-yg.md, 4 Articles/Wang2024-sk.md
+#genai | 3 | 4 Articles/Chan2023-ev.md, 4 Articles/Chan2023-zd.md, 4 Articles/Chapman2024-zi.md
+#survey_research | 3 | 4 Articles/Chan2023-ev.md, 4 Articles/Amoozadeh2023-me.md, 4 Articles/Chan2023-zd.md
+#organizational_learning | 3 | 4 Articles/Lindkvist2005-cb.md, 4 Articles/Visser2003-ki.md, 4 Articles/Engestrom2007-tw.md
+#computer_supported_collaborative_learning | 3 | 4 Articles/Lymer2009-ds.md, 4 Articles/Stahl2009-px.md, 4 Articles/Arnseth2006-tg.md
+#cognitive_psychology | 3 | 4 Articles/Wegerif2024-uc.md, 4 Articles/Salomon2003-wb.md, 4 Articles/Wertsch1997-fl.md
+#activity_theory | 3 | 4 Articles/Wegerif2024-uc.md, 4 Articles/Arnseth2006-tg.md, 4 Articles/Engestrom2011-js.md
+#McGrath_C | 3 | 4 Articles/De_Bem_Machado2024-yw.md, 4 Articles/Cerratto_Pargman2023-wv.md, 4 Articles/Farazouli2024-pt.md
+#Farazouli_A | 3 | 4 Articles/De_Bem_Machado2024-yw.md, 4 Articles/Farazouli2024-pt.md, 4 Articles/Farazouli2024-fj.md
+#AI_ethics | 3 | 4 Articles/Graesser2024-gn.md, 4 Articles/James2007-ly.md, 4 Articles/Koedinger2024-jz.md
+#social_theory | 3 | 4 Articles/Lynch1997-ho.md, 4 Articles/Castells1996-kt.md, 4 Articles/Heath2017-ef.md
+#covid_19 | 3 | 4 Articles/Hogan2023-ua.md, 4 Articles/Jia2024-hx.md, 4 Articles/Swist2024-zm.md
+#learning_analytics | 3 | 4 Articles/Alnasyan2024-xh.md, 4 Articles/Swist2024-zm.md, 4 Articles/Ferguson2013-yf.md
+#nars_system | 3 | 4 Articles/Johansson2023-dt.md, 4 Articles/Wang2018-dx.md, 4 Articles/Wang2023-iz.md
+#motor_babbling | 3 | 4 Articles/Johansson2023-dt.md, 4 Articles/Johansson2024-bv.md, 4 Articles/Hammer2022-xl.md
+#informal_learning | 3 | 4 Articles/Downes2010-xk.md, 4 Articles/Barron2006-rj.md, 4 Articles/A_Fields2009-ai.md
+#literacy | 3 | 4 Articles/Nichols2023-ij.md, 4 Articles/Knutsson2012-cp.md, 4 Articles/Klein2006-rc.md
+#formative_assessment | 3 | 4 Articles/Agostini2024-bt.md, 4 Articles/Shute2017-zl.md, 4 Articles/Gardner2021-qa.md
+#academic_integrity | 3 | 4 Articles/Acosta-Enriquez2024-hn.md, 4 Articles/Lee2024-ui.md, 4 Articles/Chapman2024-zi.md
+#information_organization | 3 | 4 Articles/Peterson2006-nb.md, 4 Articles/Bowker2008-es.md, 4 Articles/Mathes2014-rg.md
+#Artificial_intelligence | 3 | 4 Articles/Li2024-fn.md, 4 Articles/Zawacki-Richter2019-nk.md, 4 Articles/Wang2024-uo.md
+#digital_divide | 3 | 4 Articles/Weigand2019-wx.md, 4 Articles/Livingstone2010-ab.md, 4 Articles/Celik2023-cv.md
+#adaptive_learning | 3 | 4 Articles/Alkhatlan2018-nk.md, 4 Articles/Hammer2022-xl.md, 4 Articles/Pelanek2024-hv.md
+#knowledge_representation | 3 | 4 Articles/Koedinger2012-yo.md, 4 Articles/Wang2018-dx.md, 4 Articles/Boden2016-qc.md
+#blogging | 2 | 4 Articles/Hines2008-ms.md, 4 Articles/A_Hemmi2009-jb.md
+#learning_environments | 2 | 4 Articles/Chatti2007-ss.md, 4 Articles/Chang2001-vq.md
+#sociotechnical_systems | 2 | 4 Articles/Waltz2004-ql.md, 4 Articles/Bowker2008-es.md
+#0 | 2 | 4 Articles/Hakkarainen2009-nn.md, 4 Articles/Gee2007-je.md
+#tpd | 2 | 4 Articles/Charalambos2004-ed.md, 4 Articles/Chaipidech2022-he.md
+#community_of_practice | 2 | 4 Articles/Charalambos2004-ed.md, 4 Articles/Cesareni2011-dk.md
+#technology_adoption | 2 | 4 Articles/Player-Koro2012-ty.md, 4 Articles/Schnaars2004-ib.md
+#social_learning | 2 | 4 Articles/Koschmann1999-fl.md, 4 Articles/Brown2008-lg.md
+#evaluation | 2 | 4 Articles/Haudek2023-vp.md, 4 Articles/Gerstein2011-fc.md
+#page | 2 | 4 Articles/OConnor2010-jw.md, 4 Articles/Reynolds2010-cm.md
+#Teacher_Education | 2 | 4 Articles/Sannino2009-ix.md, 4 Articles/Unknown2019-yg.md
+#massively_multiplayer_online_games | 2 | 4 Articles/Nardi2006-es.md, 4 Articles/Reynolds2010-cm.md
+#student_perceptions | 2 | 4 Articles/Chan2023-ev.md, 4 Articles/Amoozadeh2023-me.md
+#policy_implications | 2 | 4 Articles/Chan2023-ev.md, 4 Articles/Chan2023-zd.md
+#modding | 2 | 4 Articles/Hedberg2008-mf.md, 4 Articles/Postigo2007-bf.md
+#cognitive_science | 2 | 4 Articles/McNeil2025-bp.md, 4 Articles/Bransford2014-qq.md

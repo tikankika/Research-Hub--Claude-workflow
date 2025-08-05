@@ -1,0 +1,78 @@
+# TAGGING ACTION PLAN
+# Generated: 2025-08-05 06:46:32
+# Total articles: 1501 | With abstracts: 883 | Need retagging: 868
+# Average quality: 17.8/100 | Estimated work: 28.9 hours
+# Vault tags: 619 unique, 15 bridge tags
+
+## HIGH PRIORITY: No/Few tags, has abstract (Score 0-20)
+# Ready for immediate tagging - 50 articles
+# Focus: Full 7-category analysis needed
+
+Smart_undated-ax.md
+Akkerman2011-xm.md
+Zhou2014-em.md
+Fischer1997-zb.md
+Bateson1972-xr.md
+Ferdousi2024-ep.md
+Ng2022-tq.md
+Sendurur_undated-se.md
+Yavuz2024-ws.md
+OReilly2007-dl.md
+Forman2023-ik.md
+Balabdaoui2024-ve.md
+De_Jong2010-qg.md
+Hennessy2024-yk.md
+Humble2024-kz.md
+Royer2009-tl.md
+Clara2013-gk.md
+Cheung2024-oc.md
+Dron2015-lc.md
+Hew2014-cj.md
+Akerfeldt2024-ji.md
+Dror2008-qu.md
+Muennighoff2025-wd.md
+Hookway2008-eb.md
+Holmberg_undated-aj.md
+Kebritchi2017-qn.md
+Byrne2022-cc.md
+Roulston2006-up.md
+Sardi2025-nn.md
+Bond2024-le.md
+Khlaif2025-og.md
+Albayati2024-ew.md
+Prasad2024-aw.md
+Twining2013-fz.md
+Naeem2023-vl.md
+Selwyn2024-uq.md
+Luckin2022-zy.md
+Churchill2009-cx.md
+Jenkins2009-wk.md
+Farooq2007-ok.md
+Sozon2024-bj.md
+Manca2013-bn.md
+Jansz2005-rz.md
+Crompton2023-il.md
+King2023-ks.md
+Lipponen_undated-gc.md
+Gosha2010-xd.md
+Beaulieu2010-ha.md
+Pack2023-sq.md
+Imran2024-br.md
+
+## SYSTEM ISSUES TO ADDRESS
+# Fix these for better tag quality
+
+- Malformed tags: 13
+- Generic tag overuse: 4 instances
+- Quality distribution: Very_Poor(850) | Poor(263) | Fair(373) | Good(15)
+
+## QUICK ACTION GUIDE
+# 7-Category Framework: methodology, education_level, technology, learning_theory, skills, research_focus, ai_specific
+# Target: 15-20 tags per article covering all relevant categories
+# Tools: Use manual_tag_suggestions.json → obsidian_article_tagger.py --apply-suggestions
+
+1. Start with HIGH PRIORITY list above
+2. Read abstract, identify 7-category tags
+3. Add tags to manual_tag_suggestions.json
+4. Apply: python3 claude_workspace/scripts/tagging/obsidian_article_tagger.py --apply-suggestions
+5. Re-run deep analysis to track progress

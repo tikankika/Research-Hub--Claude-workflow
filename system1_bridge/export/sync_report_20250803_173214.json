@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-08-03T17:32:14.029597",
+  "stats": {
+    "created": 333,
+    "updated": 1161,
+    "skipped": 0,
+    "errors": 0,
+    "orphaned": [
+      {
+        "file": "Unknown2022-rb.md",
+        "key": "Unknown2022-rb",
+        "path": "/Users/niklaskarlsson/Obsidian Sandbox/Book project, Sandbox/4 Articles/Unknown2022-rb.md"
+      },
+      {
+        "file": "Kumar2008-hn.md",
+        "key": "Kumar2008-hn",
+        "path": "/Users/niklaskarlsson/Obsidian Sandbox/Book project, Sandbox/4 Articles/Kumar2008-hn.md"
+      },
+      {
+        "file": "Unknown2019-yg.md",
+        "key": "Unknown2019-yg",
+        "path": "/Users/niklaskarlsson/Obsidian Sandbox/Book project, Sandbox/4 Articles/Unknown2019-yg.md"
+      },
+      {
+        "file": "noauthor_2024-yb.md",
+        "key": "noauthor_2024-yb",
+        "path": "/Users/niklaskarlsson/Obsidian Sandbox/Book project, Sandbox/4 Articles/noauthor_2024-yb.md"
+      },
+      {
+        "file": "Greenhow2009-kd.md",
+        "key": "Greenhow2009-kd",
+        "path": "/Users/niklaskarlsson/Obsidian Sandbox/Book project, Sandbox/4 Articles/Greenhow2009-kd.md"
+      },
+      {
+        "file": "Owston2009-py.md",
+        "key": "Owston2009-py",
+        "path": "/Users/niklaskarlsson/Obsidian Sandbox/Book project, Sandbox/4 Articles/Owston2009-py.md"
+      },
+      {
+        "file": "Skolverket2020-xx.md",
+        "key": "Skolverket2020-xx",
+        "path": "/Users/niklaskarlsson/Obsidian Sandbox/Book project, Sandbox/4 Articles/Skolverket2020-xx.md"
+      }
+    ]
+  },
+  "bibtex_entries": 1494
+}

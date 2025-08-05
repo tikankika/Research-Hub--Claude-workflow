@@ -1,0 +1,26 @@
+{
+  "timestamp": "2025-08-02T22:29:52.843179",
+  "file_path": "4 Articles/Amoozadeh, Daniels, Nam, Kumar, Chen, Hilton, Ragavan & Alipour (2023). Trust in Generative AI among students- An Exploratory Study.md",
+  "filename": "Amoozadeh, Daniels, Nam, Kumar, Chen, Hilton, Ragavan & Alipour (2023). Trust in Generative AI among students- An Exploratory Study.md",
+  "title": "Trust in Generative AI among students: An Exploratory Study",
+  "existing_tags": [],
+  "suggested_tags": [
+    "generative_ai",
+    "trust_in_ai",
+    "student_perceptions",
+    "cs_education",
+    "genai_adoption",
+    "survey_research",
+    "student_confidence",
+    "learning_with_ai",
+    "exploratory_study",
+    "higher_education"
+  ],
+  "metadata": {
+    "abstract": "Generative artificial systems (GenAI) have experienced exponential growth in the past couple of years. These systems offer exciting capabilities, such as generating programs, that students can well utilize for their learning. Among many dimensions that might affect the effective adoption of GenAI, in this paper, we investigate students' \\textittrust. Trust in GenAI influences the extent to which students adopt GenAI, in turn affecting their learning. In this study, we surveyed 253 students at tw",
+    "authors": "",
+    "year": "",
+    "journal": ""
+  },
+  "analysis_prompt": "Perform a DEEP ANALYSIS of this academic article and suggest 5-8 highly specific, contextually appropriate tags.\n\nARTICLE METADATA:\nTitle: Trust in Generative AI among students: An Exploratory Study\nAuthors: \nYear: \nJournal/Conference: \nFile Path: 4 Articles/Amoozadeh, Daniels, Nam, Kumar, Chen, Hilton, Ragavan & Alipour (2023). Trust in Generative AI among students- An Exploratory Study.md\n\nABSTRACT:\nGenerative artificial systems (GenAI) have experienced exponential growth in the past couple of years. These systems offer exciting capabilities, such as generating programs, that students can well utilize for their learning. Among many dimensions that might affect the effective adoption of GenAI, in this paper, we investigate students' \\textittrust. Trust in GenAI influences the extent to which students adopt GenAI, in turn affecting their learning. In this study, we surveyed 253 students at two large universities to understand how much they trust \\genai tools and their feedback on how G"
+}
