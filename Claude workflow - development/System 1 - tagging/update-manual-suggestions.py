@@ -7,6 +7,7 @@ import json
 import sys
 from pathlib import Path
 from datetime import datetime
+from ..config import VAULT_PATH
 
 def update_suggestions(article_file: str, tags: str, vault_path: str):
     """Update manual_tag_suggestions.json with new tags"""
@@ -52,7 +53,7 @@ def main():
     
     article_file = sys.argv[1]
     tags = sys.argv[2]
-    vault_path = "/Users/niklaskarlsson/Obsidian Sandbox/Research Hub"
+    vault_path = str(VAULT_PATH)
     
     update_suggestions(article_file, tags, vault_path)
 

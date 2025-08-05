@@ -10,6 +10,10 @@ import argparse
 from pathlib import Path
 from datetime import datetime
 
+# Add parent directory to path for imports
+sys.path.append(str(Path(__file__).parent.parent.parent))
+from config import VAULT_PATH
+
 # Import the existing modules
 sys.path.append(str(Path(__file__).parent.parent))
 from obsidian_tag_manager import ObsidianTagManager
@@ -21,9 +25,9 @@ class ObsidianTagTools:
     """Unified interface for all tag operations"""
     
     def __init__(self, vault_path: str = None):
-        # Default to the Research Hub vault
+        # Use config default if not specified
         if vault_path is None:
-            vault_path = "/Users/niklaskarlsson/Obsidian Sandbox/Research Hub"
+            vault_path = str(VAULT_PATH)
         self.vault_path = Path(vault_path)
         self.tag_manager = ObsidianTagManager(vault_path)
         self.article_tagger = ObsidianArticleTagger(vault_path)

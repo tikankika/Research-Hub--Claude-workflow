@@ -12,6 +12,7 @@ from datetime import datetime
 # Import the existing batch tagger
 sys.path.append(str(Path(__file__).parent))
 from obsidian_batch_tagger import ObsidianBatchTagger
+from ..config import VAULT_PATH
 
 def load_tag_statistics(vault_path):
     """Load the most recent tag statistics from tag_data_*.json"""
@@ -118,7 +119,7 @@ def main():
         sys.exit(1)
     
     article_file = sys.argv[1]
-    vault_path = "/Users/niklaskarlsson/Obsidian Sandbox/Research Hub"
+    vault_path = str(VAULT_PATH)
     
     create_mpc_for_article(article_file, vault_path)
 
